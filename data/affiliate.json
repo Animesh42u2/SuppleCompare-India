@@ -1,0 +1,6 @@
+{
+  "_help": "Per store id. mode 'param' appends the query string in 'value' to the product URL; mode 'prefix' wraps the URL (use {url} as placeholder, URL-encoded). Leave mode 'none' until you have an affiliate account.",
+  "optimum-nutrition": { "mode": "none", "value": "" },
+  "beastlife": { "mode": "none", "value": "" },
+  "ripped-up": { "mode": "none", "value": "" }
+}

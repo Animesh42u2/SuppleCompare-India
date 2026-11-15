@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "products": [
   {
    "id": "optimum-nutrition__optimum-nutrition-opti-lock-shaker-600-ml-copy",
@@ -433,7 +433,7 @@
      "price": 3689,
      "compareAt": 3689,
      "pricePerKg": 7378,
-     "available": true,
+     "available": false,
      "url": "https://www.optimumnutrition.co.in/products/isopure-zero-carb-protein-500g-1-1lb-unflavoured?variant=47722414440674"
     }
    ]
@@ -13998,7 +13998,7 @@
      "price": 9449,
      "compareAt": 14999,
      "pricePerKg": 5220,
-     "available": true,
+     "available": false,
      "url": "https://rippedupnutrition.com/products/whey-protein-isolate-core-series?variant=63545007636620"
     },
     {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "products": [
   {
    "id": "optimum-nutrition__optimum-nutrition-opti-lock-shaker-600-ml-copy",
@@ -594,7 +594,7 @@
      "price": 1679,
      "compareAt": 1919,
      "pricePerKg": null,
-     "available": true,
+     "available": false,
      "url": "https://www.optimumnutrition.co.in/products/isopure-zero-carb-unflavored-whey-isolate-protein-powder-pack-of-5-single-serve-sachets?variant=47253642412258"
     }
    ]
@@ -2641,7 +2641,7 @@
      "price": 299,
      "compareAt": 299,
      "pricePerKg": null,
-     "available": false,
+     "available": true,
      "url": "https://beastlife.in/products/beastlife-gym-towel-gift?variant=51620406853849"
     }
    ]
@@ -2747,7 +2747,7 @@
    "brandSlug": "beastlife",
    "title": "Performance Fermented Yeast Protein with Ultrasorb Tech | Vanilla | 1 kg",
    "category": "pre-workout",
-   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/PP-Vanilla.png?v=1788418869",
+   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/Splash_1850b135-ddab-4c32-bba8-945f7051a82e.png?v=1794823842",
    "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-vanilla-1-kg",
    "variants": [
     {
@@ -2816,7 +2816,7 @@
    "brandSlug": "beastlife",
    "title": "Performance Fermented Yeast Protein with Ultrasorb Tech | Mango | 2 kg",
    "category": "other",
-   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/Artboard7_2.png?v=1790335961",
+   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/1_3c5ce384-3dda-461c-8d75-c1026ae317c7.jpg?v=1794823749",
    "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-mango-2-kg",
    "variants": [
     {
@@ -3213,7 +3213,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 631,
+     "price": 799,
      "compareAt": 799,
      "pricePerKg": null,
      "available": true,
@@ -4490,7 +4490,7 @@
    "brandSlug": "beastlife",
    "title": "Performance Fermented Yeast Protein with Ultrasorb Tech | Rasmalai | 1 kg",
    "category": "other",
-   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/pp-rass_malai-1kg.png?v=1785314378",
+   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/Splash_aa453af2-abd6-4a30-bba2-0ac2f22e3fbd.png?v=1794823026",
    "url": "https://beastlife.in/products/performance-protein-rasmalai-flavour-1kg",
    "variants": [
     {
@@ -4513,7 +4513,7 @@
    "brandSlug": "beastlife",
    "title": "Performance Fermented Yeast Protein with Ultrasorb Tech | Chocolate Mocha | 1kg",
    "category": "other",
-   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/pp-mocha-1kg.png?v=1785314378",
+   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/Splash_5073b15c-c358-4e4f-9300-11e1ae81d95a.png?v=1794822073",
    "url": "https://beastlife.in/products/performance-protein-chocolate-mocha-flavour-1kg",
    "variants": [
     {
@@ -4536,7 +4536,7 @@
    "brandSlug": "beastlife",
    "title": "Performance Fermented Yeast Protein with Ultrasorb Tech | Birthday Cake | 1 kg",
    "category": "other",
-   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/pp-bk-1kg.png?v=1785314378",
+   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/Flavor_Splash.png?v=1794822008",
    "url": "https://beastlife.in/products/performance-protein-birthday-cake-flavour-1kg",
    "variants": [
     {
@@ -4881,7 +4881,7 @@
    "brandSlug": "beastlife",
    "title": "Performance Fermented Yeast Protein with Ultrasorb Tech | Thandai | 1 kg",
    "category": "other",
-   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/Artboard_21.png?v=1773729832",
+   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/Splash_fedd99f9-5c6d-4d4b-9e87-cbea6148f834.png?v=1794823634",
    "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-1kg-thandai",
    "variants": [
     {
@@ -7696,7 +7696,7 @@
      "price": 4999,
      "compareAt": 5999,
      "pricePerKg": 5410,
-     "available": false,
+     "available": true,
      "url": "https://beastlife.in/products/pro-concentrate-whey-protein-strawberry-924g?variant=46655940788441"
     }
    ]
@@ -13217,7 +13217,7 @@
      "price": 835,
      "compareAt": 1499,
      "pricePerKg": 8350,
-     "available": true,
+     "available": false,
      "url": "https://rippedupnutrition.com/products/omega-3-fish-oil-triple-strength-60-softgels?variant=40458964238476"
     }
    ]

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "products": [
   {
    "id": "optimum-nutrition__optimum-nutrition-opti-lock-shaker-600-ml-copy",
@@ -2730,9 +2730,9 @@
     {
      "label": "4 kg",
      "kg": 4,
-     "price": 3199,
+     "price": 2999,
      "compareAt": 6999,
-     "pricePerKg": 800,
+     "pricePerKg": 750,
      "available": true,
      "url": "https://beastlife.in/products/anabolic-mass-gainer-belgian-chocolate-4kg-with-creatine-monohydrate-unflavoured-50g?variant=50890871636185"
     }
@@ -9024,7 +9024,7 @@
      "price": 5999,
      "compareAt": 7999,
      "pricePerKg": 6492,
-     "available": true,
+     "available": false,
      "url": "https://beastlife.in/products/coffee-isorich-blend-whey-protein-with-ultrasorb-tech-924g?variant=46250172874969"
     }
    ]
@@ -12100,7 +12100,7 @@
      "price": 2163,
      "compareAt": 3999,
      "pricePerKg": 2163,
-     "available": true,
+     "available": false,
      "url": "https://rippedupnutrition.com/products/next-gen-whey-protein?variant=45902604828812"
     },
     {

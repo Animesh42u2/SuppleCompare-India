@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "products": [
   {
    "id": "optimum-nutrition__optimum-nutrition-opti-lock-shaker-600-ml-copy",
@@ -2699,17 +2699,17 @@
    "storeName": "Beastlife",
    "brand": "Beastlife",
    "brandSlug": "beastlife",
-   "title": "Combo Pack | Performance Fermented Yeast Protein with Ultrasorb Tech | Chocolate | Fruit Punch | 210 g",
+   "title": "Combo Pack | Performance Fermented Yeast Protein with Ultrasorb Tech | Chocolate | 1 kg + Pre Workout | Fruit Punch | 210 g",
    "category": "pre-workout",
    "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/PerformanceProteinChocolate1kg_BL153_Pre-WorkoutFruitPunch210g_BL334.png?v=1794554070",
    "url": "https://beastlife.in/products/combo-pack-performance-fermented-yeast-protein-with-ultrasorb-tech-chocolate-fruit-punch-210-g",
    "variants": [
     {
-     "label": "0.21 kg",
-     "kg": 0.21,
+     "label": "1 kg",
+     "kg": 1,
      "price": 2799,
      "compareAt": 4498,
-     "pricePerKg": 13329,
+     "pricePerKg": 2799,
      "available": true,
      "url": "https://beastlife.in/products/combo-pack-performance-fermented-yeast-protein-with-ultrasorb-tech-chocolate-fruit-punch-210-g?variant=51611531935961"
     }
@@ -5488,7 +5488,7 @@
      "price": 1199,
      "compareAt": 1999,
      "pricePerKg": 2398,
-     "available": false,
+     "available": true,
      "url": "https://beastlife.in/products/litchi-creatine-monohydrate-500g?variant=47711881330905"
     }
    ]
@@ -10177,36 +10177,36 @@
     {
      "label": "S / Black Washed",
      "kg": 0.1,
-     "price": 1624,
+     "price": 1749,
      "compareAt": 2499,
-     "pricePerKg": 16240,
+     "pricePerKg": 17490,
      "available": false,
      "url": "https://rippedupnutrition.com/products/nvrold-conquer-tee?variant=50299206369420"
     },
     {
      "label": "M / Black Washed",
      "kg": 0.1,
-     "price": 1624,
+     "price": 1749,
      "compareAt": 2499,
-     "pricePerKg": 16240,
+     "pricePerKg": 17490,
      "available": false,
      "url": "https://rippedupnutrition.com/products/nvrold-conquer-tee?variant=50299206402188"
     },
     {
      "label": "L / Black Washed",
      "kg": 0.1,
-     "price": 1624,
+     "price": 1749,
      "compareAt": 2499,
-     "pricePerKg": 16240,
+     "pricePerKg": 17490,
      "available": false,
      "url": "https://rippedupnutrition.com/products/nvrold-conquer-tee?variant=50299206434956"
     },
     {
      "label": "XL / Black Washed",
      "kg": 0.1,
-     "price": 1624,
+     "price": 1749,
      "compareAt": 2499,
-     "pricePerKg": 16240,
+     "pricePerKg": 17490,
      "available": false,
      "url": "https://rippedupnutrition.com/products/nvrold-conquer-tee?variant=50299206467724"
     }
@@ -10227,36 +10227,36 @@
     {
      "label": "S / Midnight Black",
      "kg": 0.1,
-     "price": 942,
+     "price": 999,
      "compareAt": 1449,
-     "pricePerKg": 9420,
+     "pricePerKg": 9990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/nvrold-leg-day-muscle-tank?variant=50299197194380"
     },
     {
      "label": "M / Midnight Black",
      "kg": 0.1,
-     "price": 942,
+     "price": 999,
      "compareAt": 1449,
-     "pricePerKg": 9420,
+     "pricePerKg": 9990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/nvrold-leg-day-muscle-tank?variant=50299197227148"
     },
     {
      "label": "L / Midnight Black",
      "kg": 0.1,
-     "price": 942,
+     "price": 999,
      "compareAt": 1449,
-     "pricePerKg": 9420,
+     "pricePerKg": 9990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/nvrold-leg-day-muscle-tank?variant=50299197259916"
     },
     {
      "label": "XL / Midnight Black",
      "kg": 0.1,
-     "price": 942,
+     "price": 999,
      "compareAt": 1449,
-     "pricePerKg": 9420,
+     "pricePerKg": 9990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/nvrold-leg-day-muscle-tank?variant=50299197292684"
     }
@@ -10277,36 +10277,36 @@
     {
      "label": "S / Smoked Graphite",
      "kg": 0.1,
-     "price": 942,
+     "price": 999,
      "compareAt": 1449,
-     "pricePerKg": 9420,
+     "pricePerKg": 9990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-discipline-muscle-tank?variant=50299264204940"
     },
     {
      "label": "M / Smoked Graphite",
      "kg": 0.1,
-     "price": 942,
+     "price": 999,
      "compareAt": 1449,
-     "pricePerKg": 9420,
+     "pricePerKg": 9990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-discipline-muscle-tank?variant=50299264237708"
     },
     {
      "label": "L / Smoked Graphite",
      "kg": 0.1,
-     "price": 942,
+     "price": 999,
      "compareAt": 1449,
-     "pricePerKg": 9420,
+     "pricePerKg": 9990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-discipline-muscle-tank?variant=50299264270476"
     },
     {
      "label": "XL / Smoked Graphite",
      "kg": 0.1,
-     "price": 942,
+     "price": 999,
      "compareAt": 1449,
-     "pricePerKg": 9420,
+     "pricePerKg": 9990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-discipline-muscle-tank?variant=50299264303244"
     }
@@ -10327,36 +10327,36 @@
     {
      "label": "S / Smoked Graphite",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-pain-oversized-tee?variant=50299284947084"
     },
     {
      "label": "M / Smoked Graphite",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-pain-oversized-tee?variant=50299285012620"
     },
     {
      "label": "L / Smoked Graphite",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-pain-oversized-tee?variant=50299285078156"
     },
     {
      "label": "XL / Smoked Graphite",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-pain-oversized-tee?variant=50299285143692"
     }
@@ -10377,108 +10377,108 @@
     {
      "label": "S / Navy Grey",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-rag-top?variant=50299277705356"
     },
     {
      "label": "S / Black",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-rag-top?variant=50299277738124"
     },
     {
      "label": "S / Field Olive",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-rag-top?variant=62681639977100"
     },
     {
      "label": "M / Navy Grey",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-rag-top?variant=50299277770892"
     },
     {
      "label": "M / Black",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-rag-top?variant=50299277803660"
     },
     {
      "label": "M / Field Olive",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-rag-top?variant=62681640009868"
     },
     {
      "label": "L / Navy Grey",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-rag-top?variant=50299277836428"
     },
     {
      "label": "L / Black",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-rag-top?variant=50299277869196"
     },
     {
      "label": "L / Field Olive",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-rag-top?variant=62681640042636"
     },
     {
      "label": "XL / Navy Grey",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-rag-top?variant=50299277901964"
     },
     {
      "label": "XL / Black",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-rag-top?variant=50299277934732"
     },
     {
      "label": "XL / Field Olive",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-rag-top?variant=62681640075404"
     }
@@ -10499,36 +10499,36 @@
     {
      "label": "S / Chalk White",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-signature-oversized-tee?variant=50299243495564"
     },
     {
      "label": "M / Chalk White",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-signature-oversized-tee?variant=50299243528332"
     },
     {
      "label": "L / Chalk White",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-signature-oversized-tee?variant=50299243561100"
     },
     {
      "label": "XL / Chalk White",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-signature-oversized-tee?variant=50299243593868"
     }
@@ -10549,36 +10549,36 @@
     {
      "label": "S / Midnight Black",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-discipline-oversized-tee?variant=50299218854028"
     },
     {
      "label": "M / Midnight Black",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-discipline-oversized-tee?variant=50299218886796"
     },
     {
      "label": "L / Midnight Black",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-discipline-oversized-tee?variant=50299218919564"
     },
     {
      "label": "XL / Midnight Black",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-discipline-oversized-tee?variant=50299218952332"
     }
@@ -10599,36 +10599,36 @@
     {
      "label": "S / Sand Beige",
      "kg": 0.1,
-     "price": 942,
+     "price": 999,
      "compareAt": 1449,
-     "pricePerKg": 9420,
+     "pricePerKg": 9990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-signature-tank?variant=50299200700556"
     },
     {
      "label": "M / Sand Beige",
      "kg": 0.1,
-     "price": 942,
+     "price": 999,
      "compareAt": 1449,
-     "pricePerKg": 9420,
+     "pricePerKg": 9990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-signature-tank?variant=50299200733324"
     },
     {
      "label": "L / Sand Beige",
      "kg": 0.1,
-     "price": 942,
+     "price": 999,
      "compareAt": 1449,
-     "pricePerKg": 9420,
+     "pricePerKg": 9990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-signature-tank?variant=50299200766092"
     },
     {
      "label": "XL / Sand Beige",
      "kg": 0.1,
-     "price": 942,
+     "price": 999,
      "compareAt": 1449,
-     "pricePerKg": 9420,
+     "pricePerKg": 9990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-signature-tank?variant=50299200798860"
     }
@@ -10649,36 +10649,36 @@
     {
      "label": "S / Sand Beige",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-pain-relaxed-tee?variant=50299143520396"
     },
     {
      "label": "M / Sand Beige",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-pain-relaxed-tee?variant=50299143553164"
     },
     {
      "label": "L / Sand Beige",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-pain-relaxed-tee?variant=50299143585932"
     },
     {
      "label": "XL / Sand Beige",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-pain-relaxed-tee?variant=50299143618700"
     }
@@ -10699,108 +10699,108 @@
     {
      "label": "Ice Blue / S",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-ultra-soft-tank?variant=50299142209676"
     },
     {
      "label": "Ice Blue / M",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-ultra-soft-tank?variant=50299142275212"
     },
     {
      "label": "Ice Blue / L",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-ultra-soft-tank?variant=50299142340748"
     },
     {
      "label": "Ice Blue / XL",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-ultra-soft-tank?variant=50299142406284"
     },
     {
      "label": "Navy Blue / S",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-ultra-soft-tank?variant=62681654624396"
     },
     {
      "label": "Navy Blue / M",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-ultra-soft-tank?variant=62681654689932"
     },
     {
      "label": "Navy Blue / L",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-ultra-soft-tank?variant=62681654755468"
     },
     {
      "label": "Navy Blue / XL",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-ultra-soft-tank?variant=62681654821004"
     },
     {
      "label": "Black / S",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-ultra-soft-tank?variant=62681654657164"
     },
     {
      "label": "Black / M",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-ultra-soft-tank?variant=62681654722700"
     },
     {
      "label": "Black / L",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-ultra-soft-tank?variant=62681654788236"
     },
     {
      "label": "Black / XL",
      "kg": 0.1,
-     "price": 1208,
+     "price": 1299,
      "compareAt": 1859,
-     "pricePerKg": 12080,
+     "pricePerKg": 12990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-ultra-soft-tank?variant=62681654853772"
     }
@@ -10821,108 +10821,108 @@
     {
      "label": "S / Navy Blue",
      "kg": 0.1,
-     "price": 1494,
+     "price": 1599,
      "compareAt": 2299,
-     "pricePerKg": 14940,
+     "pricePerKg": 15990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-core-lower?variant=50299141226636"
     },
     {
      "label": "S / Melange grey",
      "kg": 0.1,
-     "price": 1494,
+     "price": 1599,
      "compareAt": 2299,
-     "pricePerKg": 14940,
+     "pricePerKg": 15990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-core-lower?variant=50299141259404"
     },
     {
      "label": "S / Rusty Brown",
      "kg": 0.1,
-     "price": 1494,
+     "price": 1599,
      "compareAt": 2299,
-     "pricePerKg": 14940,
+     "pricePerKg": 15990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-core-lower?variant=62681635389580"
     },
     {
      "label": "M / Navy Blue",
      "kg": 0.1,
-     "price": 1494,
+     "price": 1599,
      "compareAt": 2299,
-     "pricePerKg": 14940,
+     "pricePerKg": 15990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-core-lower?variant=50299141292172"
     },
     {
      "label": "M / Melange grey",
      "kg": 0.1,
-     "price": 1494,
+     "price": 1599,
      "compareAt": 2299,
-     "pricePerKg": 14940,
+     "pricePerKg": 15990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-core-lower?variant=50299141324940"
     },
     {
      "label": "M / Rusty Brown",
      "kg": 0.1,
-     "price": 1494,
+     "price": 1599,
      "compareAt": 2299,
-     "pricePerKg": 14940,
+     "pricePerKg": 15990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-core-lower?variant=62681635422348"
     },
     {
      "label": "L / Navy Blue",
      "kg": 0.1,
-     "price": 1494,
+     "price": 1599,
      "compareAt": 2299,
-     "pricePerKg": 14940,
+     "pricePerKg": 15990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-core-lower?variant=50299141357708"
     },
     {
      "label": "L / Melange grey",
      "kg": 0.1,
-     "price": 1494,
+     "price": 1599,
      "compareAt": 2299,
-     "pricePerKg": 14940,
+     "pricePerKg": 15990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-core-lower?variant=50299141390476"
     },
     {
      "label": "L / Rusty Brown",
      "kg": 0.1,
-     "price": 1494,
+     "price": 1599,
      "compareAt": 2299,
-     "pricePerKg": 14940,
+     "pricePerKg": 15990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-core-lower?variant=62681635455116"
     },
     {
      "label": "XL / Navy Blue",
      "kg": 0.1,
-     "price": 1494,
+     "price": 1599,
      "compareAt": 2299,
-     "pricePerKg": 14940,
+     "pricePerKg": 15990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-core-lower?variant=50299141423244"
     },
     {
      "label": "XL / Melange grey",
      "kg": 0.1,
-     "price": 1494,
+     "price": 1599,
      "compareAt": 2299,
-     "pricePerKg": 14940,
+     "pricePerKg": 15990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-core-lower?variant=50299141456012"
     },
     {
      "label": "XL / Rusty Brown",
      "kg": 0.1,
-     "price": 1494,
+     "price": 1599,
      "compareAt": 2299,
-     "pricePerKg": 14940,
+     "pricePerKg": 15990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-core-lower?variant=62681635487884"
     }
@@ -10943,36 +10943,36 @@
     {
      "label": "S / White",
      "kg": 0.1,
-     "price": 838,
+     "price": 899,
      "compareAt": 1289,
-     "pricePerKg": 8380,
+     "pricePerKg": 8990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-drop-arm-tank?variant=50299139719308"
     },
     {
      "label": "M / White",
      "kg": 0.1,
-     "price": 838,
+     "price": 899,
      "compareAt": 1289,
-     "pricePerKg": 8380,
+     "pricePerKg": 8990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-drop-arm-tank?variant=50299139784844"
     },
     {
      "label": "L / White",
      "kg": 0.1,
-     "price": 838,
+     "price": 899,
      "compareAt": 1289,
-     "pricePerKg": 8380,
+     "pricePerKg": 8990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-drop-arm-tank?variant=50299139850380"
     },
     {
      "label": "XL / White",
      "kg": 0.1,
-     "price": 838,
+     "price": 899,
      "compareAt": 1289,
-     "pricePerKg": 8380,
+     "pricePerKg": 8990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-drop-arm-tank?variant=50299139915916"
     }
@@ -10993,72 +10993,72 @@
     {
      "label": "S / Black",
      "kg": 0.1,
-     "price": 942,
+     "price": 999,
      "compareAt": 1449,
-     "pricePerKg": 9420,
+     "pricePerKg": 9990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-stringer?variant=50257705599116"
     },
     {
      "label": "S / White",
      "kg": 0.1,
-     "price": 942,
+     "price": 999,
      "compareAt": 1449,
-     "pricePerKg": 9420,
+     "pricePerKg": 9990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-stringer?variant=50257705631884"
     },
     {
      "label": "M / Black",
      "kg": 0.1,
-     "price": 942,
+     "price": 999,
      "compareAt": 1449,
-     "pricePerKg": 9420,
+     "pricePerKg": 9990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-stringer?variant=50257705664652"
     },
     {
      "label": "M / White",
      "kg": 0.1,
-     "price": 942,
+     "price": 999,
      "compareAt": 1449,
-     "pricePerKg": 9420,
+     "pricePerKg": 9990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-stringer?variant=50257705697420"
     },
     {
      "label": "L / Black",
      "kg": 0.1,
-     "price": 942,
+     "price": 999,
      "compareAt": 1449,
-     "pricePerKg": 9420,
+     "pricePerKg": 9990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-stringer?variant=50257705730188"
     },
     {
      "label": "L / White",
      "kg": 0.1,
-     "price": 942,
+     "price": 999,
      "compareAt": 1449,
-     "pricePerKg": 9420,
+     "pricePerKg": 9990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-stringer?variant=50257705762956"
     },
     {
      "label": "XL / Black",
      "kg": 0.1,
-     "price": 942,
+     "price": 999,
      "compareAt": 1449,
-     "pricePerKg": 9420,
+     "pricePerKg": 9990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-stringer?variant=50257705795724"
     },
     {
      "label": "XL / White",
      "kg": 0.1,
-     "price": 942,
+     "price": 999,
      "compareAt": 1449,
-     "pricePerKg": 9420,
+     "pricePerKg": 9990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-lifting-club-stringer?variant=50257705828492"
     }
@@ -11079,180 +11079,180 @@
     {
      "label": "S / Slate Blue",
      "kg": 0.1,
-     "price": 747,
+     "price": 799,
      "compareAt": 1149,
-     "pricePerKg": 7470,
+     "pricePerKg": 7990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-classic-rib-tank?variant=50299275182220"
     },
     {
      "label": "S / Midnight Black",
      "kg": 0.1,
-     "price": 747,
+     "price": 799,
      "compareAt": 1149,
-     "pricePerKg": 7470,
+     "pricePerKg": 7990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-classic-rib-tank?variant=50299276361868"
     },
     {
      "label": "S / Street Olive",
      "kg": 0.1,
-     "price": 747,
+     "price": 799,
      "compareAt": 1149,
-     "pricePerKg": 7470,
+     "pricePerKg": 7990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-classic-rib-tank?variant=62682402619532"
     },
     {
      "label": "S / Chalk White",
      "kg": 0.1,
-     "price": 747,
+     "price": 799,
      "compareAt": 1149,
-     "pricePerKg": 7470,
+     "pricePerKg": 7990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/nvrold-classic-rib-tank?variant=62682402652300"
     },
     {
      "label": "S / Carbon Ash",
      "kg": 0.1,
-     "price": 747,
+     "price": 799,
      "compareAt": 1149,
-     "pricePerKg": 7470,
+     "pricePerKg": 7990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-classic-rib-tank?variant=62682402685068"
     },
     {
      "label": "M / Slate Blue",
      "kg": 0.1,
-     "price": 747,
+     "price": 799,
      "compareAt": 1149,
-     "pricePerKg": 7470,
+     "pricePerKg": 7990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-classic-rib-tank?variant=50299275214988"
     },
     {
      "label": "M / Midnight Black",
      "kg": 0.1,
-     "price": 747,
+     "price": 799,
      "compareAt": 1149,
-     "pricePerKg": 7470,
+     "pricePerKg": 7990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-classic-rib-tank?variant=50299276394636"
     },
     {
      "label": "M / Street Olive",
      "kg": 0.1,
-     "price": 747,
+     "price": 799,
      "compareAt": 1149,
-     "pricePerKg": 7470,
+     "pricePerKg": 7990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-classic-rib-tank?variant=62682402750604"
     },
     {
      "label": "M / Chalk White",
      "kg": 0.1,
-     "price": 747,
+     "price": 799,
      "compareAt": 1149,
-     "pricePerKg": 7470,
+     "pricePerKg": 7990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/nvrold-classic-rib-tank?variant=62682402783372"
     },
     {
      "label": "M / Carbon Ash",
      "kg": 0.1,
-     "price": 747,
+     "price": 799,
      "compareAt": 1149,
-     "pricePerKg": 7470,
+     "pricePerKg": 7990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-classic-rib-tank?variant=62682402816140"
     },
     {
      "label": "L / Slate Blue",
      "kg": 0.1,
-     "price": 747,
+     "price": 799,
      "compareAt": 1149,
-     "pricePerKg": 7470,
+     "pricePerKg": 7990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-classic-rib-tank?variant=50299275247756"
     },
     {
      "label": "L / Midnight Black",
      "kg": 0.1,
-     "price": 747,
+     "price": 799,
      "compareAt": 1149,
-     "pricePerKg": 7470,
+     "pricePerKg": 7990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-classic-rib-tank?variant=50299276427404"
     },
     {
      "label": "L / Street Olive",
      "kg": 0.1,
-     "price": 747,
+     "price": 799,
      "compareAt": 1149,
-     "pricePerKg": 7470,
+     "pricePerKg": 7990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-classic-rib-tank?variant=62682402881676"
     },
     {
      "label": "L / Chalk White",
      "kg": 0.1,
-     "price": 747,
+     "price": 799,
      "compareAt": 1149,
-     "pricePerKg": 7470,
+     "pricePerKg": 7990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/nvrold-classic-rib-tank?variant=62682402914444"
     },
     {
      "label": "L / Carbon Ash",
      "kg": 0.1,
-     "price": 747,
+     "price": 799,
      "compareAt": 1149,
-     "pricePerKg": 7470,
+     "pricePerKg": 7990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/nvrold-classic-rib-tank?variant=62682402947212"
     },
     {
      "label": "XL / Slate Blue",
      "kg": 0.1,
-     "price": 747,
+     "price": 799,
      "compareAt": 1149,
-     "pricePerKg": 7470,
+     "pricePerKg": 7990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-classic-rib-tank?variant=50299275280524"
     },
     {
      "label": "XL / Midnight Black",
      "kg": 0.1,
-     "price": 747,
+     "price": 799,
      "compareAt": 1149,
-     "pricePerKg": 7470,
+     "pricePerKg": 7990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-classic-rib-tank?variant=50299276460172"
     },
     {
      "label": "XL / Street Olive",
      "kg": 0.1,
-     "price": 747,
+     "price": 799,
      "compareAt": 1149,
-     "pricePerKg": 7470,
+     "pricePerKg": 7990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-classic-rib-tank?variant=62682403012748"
     },
     {
      "label": "XL / Chalk White",
      "kg": 0.1,
-     "price": 747,
+     "price": 799,
      "compareAt": 1149,
-     "pricePerKg": 7470,
+     "pricePerKg": 7990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/nvrold-classic-rib-tank?variant=62682403045516"
     },
     {
      "label": "XL / Carbon Ash",
      "kg": 0.1,
-     "price": 747,
+     "price": 799,
      "compareAt": 1149,
-     "pricePerKg": 7470,
+     "pricePerKg": 7990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/nvrold-classic-rib-tank?variant=62682403078284"
     }
@@ -11273,54 +11273,54 @@
     {
      "label": "Mawa Malai Kulfi / 2 Kg (4.4lbs)",
      "kg": 2,
-     "price": 3649,
+     "price": 4449,
      "compareAt": 7099,
-     "pricePerKg": 1825,
+     "pricePerKg": 2225,
      "available": true,
      "url": "https://rippedupnutrition.com/products/impactprotein?variant=61228735627404"
     },
     {
      "label": "Mawa Malai Kulfi / 1 Kg (2.2lbs)",
      "kg": 1,
-     "price": 1963,
+     "price": 2349,
      "compareAt": 3599,
-     "pricePerKg": 1963,
+     "pricePerKg": 2349,
      "available": true,
      "url": "https://rippedupnutrition.com/products/impactprotein?variant=61228735660172"
     },
     {
      "label": "Mawa Malai Kulfi / 4 Kg (8.8lbs)",
      "kg": 4,
-     "price": 7240,
+     "price": 8499,
      "compareAt": 14198,
-     "pricePerKg": 1810,
+     "pricePerKg": 2125,
      "available": true,
      "url": "https://rippedupnutrition.com/products/impactprotein?variant=61667857629324"
     },
     {
      "label": "Double Chocolate / 2 Kg (4.4lbs)",
      "kg": 2,
-     "price": 3649,
+     "price": 4449,
      "compareAt": 7099,
-     "pricePerKg": 1825,
+     "pricePerKg": 2225,
      "available": true,
      "url": "https://rippedupnutrition.com/products/impactprotein?variant=61228735692940"
     },
     {
      "label": "Double Chocolate / 1 Kg (2.2lbs)",
      "kg": 1,
-     "price": 1963,
+     "price": 2349,
      "compareAt": 3599,
-     "pricePerKg": 1963,
+     "pricePerKg": 2349,
      "available": true,
      "url": "https://rippedupnutrition.com/products/impactprotein?variant=61228735725708"
     },
     {
      "label": "Double Chocolate / 4 Kg (8.8lbs)",
      "kg": 4,
-     "price": 7240,
+     "price": 8499,
      "compareAt": 14198,
-     "pricePerKg": 1810,
+     "pricePerKg": 2125,
      "available": true,
      "url": "https://rippedupnutrition.com/products/impactprotein?variant=61667857662092"
     }
@@ -11341,36 +11341,36 @@
     {
      "label": "S / Grey",
      "kg": 0.1,
-     "price": 974,
+     "price": 899,
      "compareAt": 1499,
-     "pricePerKg": 9740,
+     "pricePerKg": 8990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/run-rag-tshirt?variant=52647139213452"
     },
     {
      "label": "M / Grey",
      "kg": 0.1,
-     "price": 974,
+     "price": 899,
      "compareAt": 1499,
-     "pricePerKg": 9740,
+     "pricePerKg": 8990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/run-rag-tshirt?variant=52647139278988"
     },
     {
      "label": "L / Grey",
      "kg": 0.1,
-     "price": 974,
+     "price": 899,
      "compareAt": 1499,
-     "pricePerKg": 9740,
+     "pricePerKg": 8990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/run-rag-tshirt?variant=52647139344524"
     },
     {
      "label": "XL / Grey",
      "kg": 0.1,
-     "price": 974,
+     "price": 899,
      "compareAt": 1499,
-     "pricePerKg": 9740,
+     "pricePerKg": 8990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/run-rag-tshirt?variant=52647139410060"
     }
@@ -11391,36 +11391,36 @@
     {
      "label": "S / White",
      "kg": 0.1,
-     "price": 844,
+     "price": 799,
      "compareAt": 1299,
-     "pricePerKg": 8440,
+     "pricePerKg": 7990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/run-deep-armhole-tank?variant=52647108673676"
     },
     {
      "label": "M / White",
      "kg": 0.1,
-     "price": 844,
+     "price": 799,
      "compareAt": 1299,
-     "pricePerKg": 8440,
+     "pricePerKg": 7990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/run-deep-armhole-tank?variant=52647108706444"
     },
     {
      "label": "L / White",
      "kg": 0.1,
-     "price": 844,
+     "price": 799,
      "compareAt": 1299,
-     "pricePerKg": 8440,
+     "pricePerKg": 7990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/run-deep-armhole-tank?variant=52647108739212"
     },
     {
      "label": "XL / White",
      "kg": 0.1,
-     "price": 844,
+     "price": 799,
      "compareAt": 1299,
-     "pricePerKg": 8440,
+     "pricePerKg": 7990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/run-deep-armhole-tank?variant=52647108771980"
     }
@@ -11441,36 +11441,36 @@
     {
      "label": "S / Dark Grey",
      "kg": 0.1,
-     "price": 844,
+     "price": 799,
      "compareAt": 1299,
-     "pricePerKg": 8440,
+     "pricePerKg": 7990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/run-muscle-tank?variant=52647081836684"
     },
     {
      "label": "M / Dark Grey",
      "kg": 0.1,
-     "price": 844,
+     "price": 799,
      "compareAt": 1299,
-     "pricePerKg": 8440,
+     "pricePerKg": 7990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/run-muscle-tank?variant=52647081869452"
     },
     {
      "label": "L / Dark Grey",
      "kg": 0.1,
-     "price": 844,
+     "price": 799,
      "compareAt": 1299,
-     "pricePerKg": 8440,
+     "pricePerKg": 7990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/run-muscle-tank?variant=52647081902220"
     },
     {
      "label": "XL / Dark Grey",
      "kg": 0.1,
-     "price": 844,
+     "price": 799,
      "compareAt": 1299,
-     "pricePerKg": 8440,
+     "pricePerKg": 7990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/run-muscle-tank?variant=52647081934988"
     }
@@ -11491,36 +11491,36 @@
     {
      "label": "S / White",
      "kg": 0.1,
-     "price": 844,
+     "price": 799,
      "compareAt": 1299,
-     "pricePerKg": 8440,
+     "pricePerKg": 7990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/1043-heritage-ringer-tee-copy?variant=52646620201100"
     },
     {
      "label": "M / White",
      "kg": 0.1,
-     "price": 844,
+     "price": 799,
      "compareAt": 1299,
-     "pricePerKg": 8440,
+     "pricePerKg": 7990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/1043-heritage-ringer-tee-copy?variant=52646620233868"
     },
     {
      "label": "L / White",
      "kg": 0.1,
-     "price": 844,
+     "price": 799,
      "compareAt": 1299,
-     "pricePerKg": 8440,
+     "pricePerKg": 7990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/1043-heritage-ringer-tee-copy?variant=52646620266636"
     },
     {
      "label": "XL / White",
      "kg": 0.1,
-     "price": 844,
+     "price": 799,
      "compareAt": 1299,
-     "pricePerKg": 8440,
+     "pricePerKg": 7990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/1043-heritage-ringer-tee-copy?variant=52646620299404"
     }
@@ -11541,90 +11541,90 @@
     {
      "label": "S / Black",
      "kg": 0.5,
-     "price": 929.99,
-     "compareAt": 599,
-     "pricePerKg": 1860,
+     "price": 899,
+     "compareAt": 1499,
+     "pricePerKg": 1798,
      "available": false,
      "url": "https://rippedupnutrition.com/products/docapp-free-gift-free-t-shirt?variant=39802471415948"
     },
     {
      "label": "S / White",
      "kg": 0.5,
-     "price": 929.99,
-     "compareAt": 599,
-     "pricePerKg": 1860,
+     "price": 899,
+     "compareAt": 1499,
+     "pricePerKg": 1798,
      "available": false,
      "url": "https://rippedupnutrition.com/products/docapp-free-gift-free-t-shirt?variant=52236267716748"
     },
     {
      "label": "M / Black",
      "kg": 0.5,
-     "price": 929.99,
-     "compareAt": 599,
-     "pricePerKg": 1860,
+     "price": 899,
+     "compareAt": 1499,
+     "pricePerKg": 1798,
      "available": false,
      "url": "https://rippedupnutrition.com/products/docapp-free-gift-free-t-shirt?variant=39802471448716"
     },
     {
      "label": "M / White",
      "kg": 0.5,
-     "price": 929.99,
-     "compareAt": 599,
-     "pricePerKg": 1860,
+     "price": 899,
+     "compareAt": 1499,
+     "pricePerKg": 1798,
      "available": false,
      "url": "https://rippedupnutrition.com/products/docapp-free-gift-free-t-shirt?variant=52236267749516"
     },
     {
      "label": "L / Black",
      "kg": 0.5,
-     "price": 929.99,
-     "compareAt": 599,
-     "pricePerKg": 1860,
+     "price": 899,
+     "compareAt": 1499,
+     "pricePerKg": 1798,
      "available": false,
      "url": "https://rippedupnutrition.com/products/docapp-free-gift-free-t-shirt?variant=39802471481484"
     },
     {
      "label": "L / White",
      "kg": 0.5,
-     "price": 929.99,
-     "compareAt": 599,
-     "pricePerKg": 1860,
+     "price": 899,
+     "compareAt": 1499,
+     "pricePerKg": 1798,
      "available": false,
      "url": "https://rippedupnutrition.com/products/docapp-free-gift-free-t-shirt?variant=52236267782284"
     },
     {
      "label": "xl / Black",
      "kg": 0.5,
-     "price": 929.99,
-     "compareAt": 599,
-     "pricePerKg": 1860,
+     "price": 899,
+     "compareAt": 1499,
+     "pricePerKg": 1798,
      "available": false,
      "url": "https://rippedupnutrition.com/products/docapp-free-gift-free-t-shirt?variant=39802471514252"
     },
     {
      "label": "xl / White",
      "kg": 0.5,
-     "price": 929.99,
-     "compareAt": 599,
-     "pricePerKg": 1860,
+     "price": 899,
+     "compareAt": 1499,
+     "pricePerKg": 1798,
      "available": false,
      "url": "https://rippedupnutrition.com/products/docapp-free-gift-free-t-shirt?variant=52236267815052"
     },
     {
      "label": "xxl / Black",
      "kg": 0.5,
-     "price": 929.99,
-     "compareAt": 599,
-     "pricePerKg": 1860,
+     "price": 899,
+     "compareAt": 1499,
+     "pricePerKg": 1798,
      "available": false,
      "url": "https://rippedupnutrition.com/products/docapp-free-gift-free-t-shirt?variant=43245823557772"
     },
     {
      "label": "xxl / White",
      "kg": 0.5,
-     "price": 929.99,
-     "compareAt": 599,
-     "pricePerKg": 1860,
+     "price": 899,
+     "compareAt": 1499,
+     "pricePerKg": 1798,
      "available": false,
      "url": "https://rippedupnutrition.com/products/docapp-free-gift-free-t-shirt?variant=52236267847820"
     }
@@ -11645,7 +11645,7 @@
     {
      "label": "Strawberry Kiwi / Pack of 1",
      "kg": null,
-     "price": 649,
+     "price": 599,
      "compareAt": 999,
      "pricePerKg": null,
      "available": true,
@@ -11654,7 +11654,7 @@
     {
      "label": "Strawberry Kiwi / Pack of 4",
      "kg": null,
-     "price": 2597,
+     "price": 2399,
      "compareAt": 3996,
      "pricePerKg": null,
      "available": true,
@@ -11663,7 +11663,7 @@
     {
      "label": "Strawberry Kiwi / Pack of 8",
      "kg": null,
-     "price": 5195,
+     "price": 4799,
      "compareAt": 7992,
      "pricePerKg": null,
      "available": true,
@@ -11672,7 +11672,7 @@
     {
      "label": "Strawberry Kiwi / Pack of 12",
      "kg": null,
-     "price": 7552,
+     "price": 7199,
      "compareAt": 11988,
      "pricePerKg": null,
      "available": true,
@@ -11681,7 +11681,7 @@
     {
      "label": "Black Currant / Pack of 1",
      "kg": null,
-     "price": 649,
+     "price": 599,
      "compareAt": 999,
      "pricePerKg": null,
      "available": true,
@@ -11690,7 +11690,7 @@
     {
      "label": "Black Currant / Pack of 4",
      "kg": null,
-     "price": 2597,
+     "price": 2399,
      "compareAt": 3996,
      "pricePerKg": null,
      "available": true,
@@ -11699,7 +11699,7 @@
     {
      "label": "Black Currant / Pack of 8",
      "kg": null,
-     "price": 5195,
+     "price": 4799,
      "compareAt": 7992,
      "pricePerKg": null,
      "available": true,
@@ -11708,7 +11708,7 @@
     {
      "label": "Black Currant / Pack of 12",
      "kg": null,
-     "price": 7552,
+     "price": 7199,
      "compareAt": 11988,
      "pricePerKg": null,
      "available": true,
@@ -11731,7 +11731,7 @@
     {
      "label": "Strawberry Lemonade / Pack of 1",
      "kg": null,
-     "price": 649,
+     "price": 599,
      "compareAt": 999,
      "pricePerKg": null,
      "available": true,
@@ -11740,7 +11740,7 @@
     {
      "label": "Strawberry Lemonade / Pack of 4",
      "kg": null,
-     "price": 2599,
+     "price": 2399,
      "compareAt": 3998,
      "pricePerKg": null,
      "available": true,
@@ -11749,7 +11749,7 @@
     {
      "label": "Strawberry Lemonade / Pack of 8",
      "kg": null,
-     "price": 5199,
+     "price": 4799,
      "compareAt": 7998,
      "pricePerKg": null,
      "available": true,
@@ -11758,7 +11758,7 @@
     {
      "label": "Strawberry Lemonade / Pack of 12",
      "kg": null,
-     "price": 7559,
+     "price": 7199,
      "compareAt": 11998,
      "pricePerKg": null,
      "available": true,
@@ -11767,7 +11767,7 @@
     {
      "label": "Apple Sparkle / Pack of 1",
      "kg": null,
-     "price": 649,
+     "price": 599,
      "compareAt": 999,
      "pricePerKg": null,
      "available": true,
@@ -11776,7 +11776,7 @@
     {
      "label": "Apple Sparkle / Pack of 4",
      "kg": null,
-     "price": 2599,
+     "price": 2399,
      "compareAt": 3998,
      "pricePerKg": null,
      "available": true,
@@ -11785,7 +11785,7 @@
     {
      "label": "Apple Sparkle / Pack of 8",
      "kg": null,
-     "price": 5199,
+     "price": 4799,
      "compareAt": 7998,
      "pricePerKg": null,
      "available": true,
@@ -11794,7 +11794,7 @@
     {
      "label": "Apple Sparkle / Pack of 12",
      "kg": null,
-     "price": 7559,
+     "price": 7199,
      "compareAt": 11998,
      "pricePerKg": null,
      "available": true,
@@ -11803,7 +11803,7 @@
     {
      "label": "Strawberry Lemonade / Pack of 3",
      "kg": null,
-     "price": 1948,
+     "price": 1799,
      "compareAt": 2997,
      "pricePerKg": null,
      "available": false,
@@ -11812,7 +11812,7 @@
     {
      "label": "Apple Sparkle / Pack of 3",
      "kg": null,
-     "price": 1948,
+     "price": 1799,
      "compareAt": 2997,
      "pricePerKg": null,
      "available": false,
@@ -11835,7 +11835,7 @@
     {
      "label": "Strawberry Bliss / Pack of 1",
      "kg": null,
-     "price": 974,
+     "price": 899,
      "compareAt": 1499,
      "pricePerKg": null,
      "available": true,
@@ -11844,7 +11844,7 @@
     {
      "label": "Strawberry Bliss / Pack of 4",
      "kg": null,
-     "price": 3897,
+     "price": 3599,
      "compareAt": 5996,
      "pricePerKg": null,
      "available": true,
@@ -11853,7 +11853,7 @@
     {
      "label": "Strawberry Bliss / Pack of 8",
      "kg": null,
-     "price": 7795,
+     "price": 7199,
      "compareAt": 11992,
      "pricePerKg": null,
      "available": true,
@@ -11862,7 +11862,7 @@
     {
      "label": "Strawberry Bliss / Pack of 12",
      "kg": null,
-     "price": 11332,
+     "price": 10799,
      "compareAt": 17988,
      "pricePerKg": null,
      "available": true,
@@ -11871,8 +11871,8 @@
     {
      "label": "Lemon Mist / Pack of 1",
      "kg": null,
-     "price": 1024,
-     "compareAt": 3998,
+     "price": 899,
+     "compareAt": 1499,
      "pricePerKg": null,
      "available": true,
      "url": "https://rippedupnutrition.com/products/run-glutathione-bright-skin-pigmentation-support?variant=49674057646220"
@@ -11880,8 +11880,8 @@
     {
      "label": "Lemon Mist / Pack of 4",
      "kg": null,
-     "price": 2599,
-     "compareAt": 3998,
+     "price": 3599,
+     "compareAt": 5996,
      "pricePerKg": null,
      "available": true,
      "url": "https://rippedupnutrition.com/products/run-glutathione-bright-skin-pigmentation-support?variant=49598342332556"
@@ -11889,8 +11889,8 @@
     {
      "label": "Lemon Mist / Pack of 8",
      "kg": null,
-     "price": 7868,
-     "compareAt": 7998,
+     "price": 7199,
+     "compareAt": 11992,
      "pricePerKg": null,
      "available": true,
      "url": "https://rippedupnutrition.com/products/run-glutathione-bright-skin-pigmentation-support?variant=49598342365324"
@@ -11898,8 +11898,8 @@
     {
      "label": "Lemon Mist / Pack of 12",
      "kg": null,
-     "price": 11258,
-     "compareAt": 11998,
+     "price": 10799,
+     "compareAt": 17988,
      "pricePerKg": null,
      "available": true,
      "url": "https://rippedupnutrition.com/products/run-glutathione-bright-skin-pigmentation-support?variant=49598342398092"
@@ -11921,7 +11921,7 @@
     {
      "label": "Orange Burst / Pack of 1",
      "kg": null,
-     "price": 649,
+     "price": 599,
      "compareAt": 999,
      "pricePerKg": null,
      "available": true,
@@ -11930,7 +11930,7 @@
     {
      "label": "Orange Burst / Pack of 4",
      "kg": null,
-     "price": 2599,
+     "price": 2399,
      "compareAt": 3998,
      "pricePerKg": null,
      "available": true,
@@ -11939,7 +11939,7 @@
     {
      "label": "Orange Burst / Pack of 8",
      "kg": null,
-     "price": 5199,
+     "price": 4799,
      "compareAt": 7998,
      "pricePerKg": null,
      "available": true,
@@ -11948,7 +11948,7 @@
     {
      "label": "Orange Burst / Pack of 12",
      "kg": null,
-     "price": 7559,
+     "price": 7199,
      "compareAt": 11998,
      "pricePerKg": null,
      "available": true,
@@ -11957,7 +11957,7 @@
     {
      "label": "Lemonade / Pack of 1",
      "kg": null,
-     "price": 649,
+     "price": 599,
      "compareAt": 999,
      "pricePerKg": null,
      "available": true,
@@ -11966,7 +11966,7 @@
     {
      "label": "Lemonade / Pack of 4",
      "kg": null,
-     "price": 2599,
+     "price": 2399,
      "compareAt": 3998,
      "pricePerKg": null,
      "available": true,
@@ -11975,7 +11975,7 @@
     {
      "label": "Lemonade / Pack of 8",
      "kg": null,
-     "price": 5199,
+     "price": 4799,
      "compareAt": 7998,
      "pricePerKg": null,
      "available": true,
@@ -11984,7 +11984,7 @@
     {
      "label": "Lemonade / Pack of 12",
      "kg": null,
-     "price": 7559,
+     "price": 7199,
      "compareAt": 11998,
      "pricePerKg": null,
      "available": true,
@@ -12007,162 +12007,162 @@
     {
      "label": "Mango Ice Cream / 2 Kg",
      "kg": 2,
-     "price": 4036,
+     "price": 4099,
      "compareAt": 7699,
-     "pricePerKg": 2018,
+     "pricePerKg": 2050,
      "available": true,
      "url": "https://rippedupnutrition.com/products/next-gen-whey-protein?variant=45902604599436"
     },
     {
      "label": "Mango Ice Cream / 4 Kg (2Kg X2)",
      "kg": 4,
-     "price": 7816,
+     "price": 7999,
      "compareAt": 15398,
-     "pricePerKg": 1954,
+     "pricePerKg": 2000,
      "available": true,
      "url": "https://rippedupnutrition.com/products/next-gen-whey-protein?variant=61810382143628"
     },
     {
      "label": "Mango Ice Cream / 1 Kg",
      "kg": 1,
-     "price": 2055,
+     "price": 2199,
      "compareAt": 3999,
-     "pricePerKg": 2055,
+     "pricePerKg": 2199,
      "available": true,
      "url": "https://rippedupnutrition.com/products/next-gen-whey-protein?variant=45902604566668"
     },
     {
      "label": "Mango Ice Cream / 500gm",
      "kg": 0.5,
-     "price": 1107,
+     "price": 1149,
      "compareAt": 1999,
-     "pricePerKg": 2214,
+     "pricePerKg": 2298,
      "available": true,
      "url": "https://rippedupnutrition.com/products/next-gen-whey-protein?variant=46775212933260"
     },
     {
      "label": "Malai Kulfi / 2 Kg",
      "kg": 2,
-     "price": 4036,
+     "price": 4099,
      "compareAt": 7699,
-     "pricePerKg": 2018,
+     "pricePerKg": 2050,
      "available": true,
      "url": "https://rippedupnutrition.com/products/next-gen-whey-protein?variant=45902604796044"
     },
     {
      "label": "Malai Kulfi / 4 Kg (2Kg X2)",
      "kg": 4,
-     "price": 7816,
+     "price": 7999,
      "compareAt": 15398,
-     "pricePerKg": 1954,
+     "pricePerKg": 2000,
      "available": true,
      "url": "https://rippedupnutrition.com/products/next-gen-whey-protein?variant=61810382176396"
     },
     {
      "label": "Malai Kulfi / 1 Kg",
      "kg": 1,
-     "price": 2055,
+     "price": 2199,
      "compareAt": 3999,
-     "pricePerKg": 2055,
+     "pricePerKg": 2199,
      "available": true,
      "url": "https://rippedupnutrition.com/products/next-gen-whey-protein?variant=45902604763276"
     },
     {
      "label": "Malai Kulfi / 500gm",
      "kg": 0.5,
-     "price": 1107,
+     "price": 1149,
      "compareAt": 1999,
-     "pricePerKg": 2214,
+     "pricePerKg": 2298,
      "available": true,
      "url": "https://rippedupnutrition.com/products/next-gen-whey-protein?variant=46775213031564"
     },
     {
      "label": "Chocolate Ice Cream / 2 Kg",
      "kg": 2,
-     "price": 4036,
+     "price": 4099,
      "compareAt": 7699,
-     "pricePerKg": 2018,
+     "pricePerKg": 2050,
      "available": true,
      "url": "https://rippedupnutrition.com/products/next-gen-whey-protein?variant=45902604861580"
     },
     {
      "label": "Chocolate Ice Cream / 4 Kg (2Kg X2)",
      "kg": 4,
-     "price": 7816,
+     "price": 7999,
      "compareAt": 15398,
-     "pricePerKg": 1954,
+     "pricePerKg": 2000,
      "available": true,
      "url": "https://rippedupnutrition.com/products/next-gen-whey-protein?variant=61810382209164"
     },
     {
      "label": "Chocolate Ice Cream / 1 Kg",
      "kg": 1,
-     "price": 2055,
+     "price": 2199,
      "compareAt": 3999,
-     "pricePerKg": 2055,
-     "available": false,
+     "pricePerKg": 2199,
+     "available": true,
      "url": "https://rippedupnutrition.com/products/next-gen-whey-protein?variant=45902604828812"
     },
     {
      "label": "Chocolate Ice Cream / 500gm",
      "kg": 0.5,
-     "price": 1107,
+     "price": 1199,
      "compareAt": 2099,
-     "pricePerKg": 2214,
+     "pricePerKg": 2398,
      "available": true,
      "url": "https://rippedupnutrition.com/products/next-gen-whey-protein?variant=46775213064332"
     },
     {
      "label": "Coconut Ice Cream / 2 Kg",
      "kg": 2,
-     "price": 4036,
+     "price": 4099,
      "compareAt": 7699,
-     "pricePerKg": 2018,
+     "pricePerKg": 2050,
      "available": true,
      "url": "https://rippedupnutrition.com/products/next-gen-whey-protein?variant=45902604730508"
     },
     {
      "label": "Coconut Ice Cream / 4 Kg (2Kg X2)",
      "kg": 4,
-     "price": 7816,
+     "price": 7999,
      "compareAt": 15398,
-     "pricePerKg": 1954,
+     "pricePerKg": 2000,
      "available": true,
      "url": "https://rippedupnutrition.com/products/next-gen-whey-protein?variant=61810382241932"
     },
     {
      "label": "Coconut Ice Cream / 1 Kg",
      "kg": 1,
-     "price": 2055,
+     "price": 2199,
      "compareAt": 3999,
-     "pricePerKg": 2055,
+     "pricePerKg": 2199,
      "available": true,
      "url": "https://rippedupnutrition.com/products/next-gen-whey-protein?variant=45902604697740"
     },
     {
      "label": "Coconut Ice Cream / 500gm",
      "kg": 0.5,
-     "price": 1107,
+     "price": 1149,
      "compareAt": 1999,
-     "pricePerKg": 2214,
+     "pricePerKg": 2298,
      "available": true,
      "url": "https://rippedupnutrition.com/products/next-gen-whey-protein?variant=46775212998796"
     },
     {
      "label": "Toffee Fudge / 1 Kg",
      "kg": 1,
-     "price": 2055,
+     "price": 2199,
      "compareAt": 3999,
-     "pricePerKg": 2055,
+     "pricePerKg": 2199,
      "available": true,
      "url": "https://rippedupnutrition.com/products/next-gen-whey-protein?variant=45902604632204"
     },
     {
      "label": "Toffee Fudge / 500gm",
      "kg": 0.5,
-     "price": 1107,
+     "price": 1149,
      "compareAt": 1999,
-     "pricePerKg": 2214,
+     "pricePerKg": 2298,
      "available": false,
      "url": "https://rippedupnutrition.com/products/next-gen-whey-protein?variant=46775212966028"
     }
@@ -12183,9 +12183,9 @@
     {
      "label": "60 Veg Capsules",
      "kg": 0.1,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 11690,
+     "pricePerKg": 10990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/zma-advanced-night-recovery-formula-60-veg-capsules?variant=45654880419980"
     }
@@ -12206,9 +12206,9 @@
     {
      "label": "550ml",
      "kg": 0.1,
-     "price": 324,
+     "price": 299,
      "compareAt": 499,
-     "pricePerKg": 3240,
+     "pricePerKg": 2990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/plastic-shaker?variant=45614383693964"
     }
@@ -12229,54 +12229,54 @@
     {
      "label": "Strawberry Lemonade / 150gm (15 servings)",
      "kg": 0.15,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 7793,
+     "pricePerKg": 7327,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-ultra-maxx-preworkout-150gm?variant=43781509218444"
     },
     {
      "label": "Passion Fruit / 150gm (15 servings)",
      "kg": 0.15,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 7793,
+     "pricePerKg": 7327,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-ultra-maxx-preworkout-150gm?variant=43781509251212"
     },
     {
      "label": "Peach Mango / 150gm (15 servings)",
      "kg": 0.15,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 7793,
+     "pricePerKg": 7327,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-ultra-maxx-preworkout-150gm?variant=43781509283980"
     },
     {
      "label": "Watermelon Mint / 150gm (15 servings)",
      "kg": 0.15,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 7793,
+     "pricePerKg": 7327,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-ultra-maxx-preworkout-150gm?variant=43781509316748"
     },
     {
      "label": "Iced Cola / 150gm (15 servings)",
      "kg": 0.15,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 7793,
+     "pricePerKg": 7327,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-ultra-maxx-preworkout-150gm?variant=43781509349516"
     },
     {
      "label": "Guava Burst / 150gm (15 servings)",
      "kg": 0.15,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 7793,
+     "pricePerKg": 7327,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-ultra-maxx-preworkout-150gm?variant=43781509382284"
     }
@@ -12297,54 +12297,54 @@
     {
      "label": "Black Currant / 200gm (20 servings)",
      "kg": 0.2,
-     "price": 1624,
+     "price": 1499,
      "compareAt": 2499,
-     "pricePerKg": 8120,
+     "pricePerKg": 7495,
      "available": true,
      "url": "https://rippedupnutrition.com/products/veg-collagen-plant-based?variant=44114906251404"
     },
     {
      "label": "Black Currant / 400gm (40 servings)",
      "kg": 0.4,
-     "price": 3149,
+     "price": 2999,
      "compareAt": 4998,
-     "pricePerKg": 7873,
+     "pricePerKg": 7498,
      "available": true,
      "url": "https://rippedupnutrition.com/products/veg-collagen-plant-based?variant=45620233273484"
     },
     {
      "label": "Guava / 200gm (20 servings)",
      "kg": 0.2,
-     "price": 1624,
+     "price": 1499,
      "compareAt": 2499,
-     "pricePerKg": 8120,
+     "pricePerKg": 7495,
      "available": true,
      "url": "https://rippedupnutrition.com/products/veg-collagen-plant-based?variant=44114906284172"
     },
     {
      "label": "Guava / 400gm (40 servings)",
      "kg": 0.4,
-     "price": 3149,
+     "price": 2999,
      "compareAt": 4998,
-     "pricePerKg": 7873,
+     "pricePerKg": 7498,
      "available": true,
      "url": "https://rippedupnutrition.com/products/veg-collagen-plant-based?variant=45620233306252"
     },
     {
      "label": "Orange / 200gm (20 servings)",
      "kg": 0.2,
-     "price": 1624,
+     "price": 1499,
      "compareAt": 2499,
-     "pricePerKg": 8120,
+     "pricePerKg": 7495,
      "available": true,
      "url": "https://rippedupnutrition.com/products/veg-collagen-plant-based?variant=44114906316940"
     },
     {
      "label": "Orange / 400gm (40 servings)",
      "kg": 0.4,
-     "price": 3149,
+     "price": 2999,
      "compareAt": 4998,
-     "pricePerKg": 7873,
+     "pricePerKg": 7498,
      "available": true,
      "url": "https://rippedupnutrition.com/products/veg-collagen-plant-based?variant=45620233339020"
     }
@@ -12365,9 +12365,9 @@
     {
      "label": "90 Tablets",
      "kg": 0.1,
-     "price": 1299,
+     "price": 1199,
      "compareAt": 1999,
-     "pricePerKg": 12990,
+     "pricePerKg": 11990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/liver-detox?variant=43957833924748"
     }
@@ -12388,9 +12388,9 @@
     {
      "label": "60 Tablets",
      "kg": 0.1,
-     "price": 974,
+     "price": 899,
      "compareAt": 1499,
-     "pricePerKg": 9740,
+     "pricePerKg": 8990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/multivitamin-probiotics?variant=43950757281932"
     }
@@ -12411,9 +12411,9 @@
     {
      "label": "60 Capsules",
      "kg": 0.1,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 11690,
+     "pricePerKg": 10990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/k2-d3-k2-55-mcg-d3-1500-iu?variant=39508030193804"
     }
@@ -12434,9 +12434,9 @@
     {
      "label": "60 Tablets",
      "kg": 0.1,
-     "price": 1299,
+     "price": 1199,
      "compareAt": 1999,
-     "pricePerKg": 12990,
+     "pricePerKg": 11990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/vein-rage-nitric-oxide-stimulator?variant=43663670280332"
     }
@@ -12457,9 +12457,9 @@
     {
      "label": "60 Tablets",
      "kg": 0.1,
-     "price": 1299,
+     "price": 1199,
      "compareAt": 1999,
-     "pricePerKg": 12990,
+     "pricePerKg": 11990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/alpha-sterone-testosterone-booster?variant=43663671230604"
     }
@@ -12480,108 +12480,108 @@
     {
      "label": "Black Currant / 200 GM (20 Servings)",
      "kg": 0.2,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 5845,
+     "pricePerKg": 5495,
      "available": true,
      "url": "https://rippedupnutrition.com/products/marine-collagen?variant=44352925139084"
     },
     {
      "label": "Black Currant / 400GM (40 Servings)",
      "kg": 0.4,
-     "price": 2267,
+     "price": 2149,
      "compareAt": 3598,
-     "pricePerKg": 5668,
+     "pricePerKg": 5373,
      "available": true,
      "url": "https://rippedupnutrition.com/products/marine-collagen?variant=44352926711948"
     },
     {
      "label": "Guava / 200 GM (20 Servings)",
      "kg": 0.2,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 5845,
+     "pricePerKg": 5495,
      "available": true,
      "url": "https://rippedupnutrition.com/products/marine-collagen?variant=43436067356812"
     },
     {
      "label": "Guava / 400GM (40 Servings)",
      "kg": 0.4,
-     "price": 2267,
+     "price": 2149,
      "compareAt": 3598,
-     "pricePerKg": 5668,
+     "pricePerKg": 5373,
      "available": true,
      "url": "https://rippedupnutrition.com/products/marine-collagen?variant=44127218434188"
     },
     {
      "label": "Orange / 200 GM (20 Servings)",
      "kg": 0.2,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 5845,
+     "pricePerKg": 5495,
      "available": true,
      "url": "https://rippedupnutrition.com/products/marine-collagen?variant=43436067422348"
     },
     {
      "label": "Orange / 400GM (40 Servings)",
      "kg": 0.4,
-     "price": 2267,
+     "price": 2149,
      "compareAt": 3598,
-     "pricePerKg": 5668,
+     "pricePerKg": 5373,
      "available": true,
      "url": "https://rippedupnutrition.com/products/marine-collagen?variant=44127218532492"
     },
     {
      "label": "Kiwi Strawberry / 200 GM (20 Servings)",
      "kg": 0.2,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 5845,
+     "pricePerKg": 5495,
      "available": true,
      "url": "https://rippedupnutrition.com/products/marine-collagen?variant=44213606842508"
     },
     {
      "label": "Kiwi Strawberry / 400GM (40 Servings)",
      "kg": 0.4,
-     "price": 2267,
+     "price": 2149,
      "compareAt": 3598,
-     "pricePerKg": 5668,
+     "pricePerKg": 5373,
      "available": true,
      "url": "https://rippedupnutrition.com/products/marine-collagen?variant=44352927269004"
     },
     {
      "label": "Lychee / 200 GM (20 Servings)",
      "kg": 0.2,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 5845,
+     "pricePerKg": 5495,
      "available": true,
      "url": "https://rippedupnutrition.com/products/marine-collagen?variant=43436067324044"
     },
     {
      "label": "Lychee / 400GM (40 Servings)",
      "kg": 0.4,
-     "price": 2267,
+     "price": 2149,
      "compareAt": 3598,
-     "pricePerKg": 5668,
+     "pricePerKg": 5373,
      "available": true,
      "url": "https://rippedupnutrition.com/products/marine-collagen?variant=44127218466956"
     },
     {
      "label": "Lightning Lemon / 200 GM (20 Servings)",
      "kg": 0.2,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 5845,
+     "pricePerKg": 5495,
      "available": true,
      "url": "https://rippedupnutrition.com/products/marine-collagen?variant=43436067389580"
     },
     {
      "label": "Lightning Lemon / 400GM (40 Servings)",
      "kg": 0.4,
-     "price": 2267,
+     "price": 2149,
      "compareAt": 3598,
-     "pricePerKg": 5668,
+     "pricePerKg": 5373,
      "available": true,
      "url": "https://rippedupnutrition.com/products/marine-collagen?variant=44127218499724"
     }
@@ -12602,9 +12602,9 @@
     {
      "label": "Steel Shaker",
      "kg": 0.1,
-     "price": 649,
+     "price": 599,
      "compareAt": 999,
-     "pricePerKg": 6490,
+     "pricePerKg": 5990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/iso-rich-steel-shaker?variant=42152848326796"
     }
@@ -12625,54 +12625,54 @@
     {
      "label": "Mango Rush / 1Kg (2.2lbs)",
      "kg": 1,
-     "price": 3182,
+     "price": 2899,
      "compareAt": 4299,
-     "pricePerKg": 3182,
+     "pricePerKg": 2899,
      "available": false,
      "url": "https://rippedupnutrition.com/products/100-natural-whey-protein?variant=42880927465612"
     },
     {
      "label": "Mango Rush / 1.8Kg (4lbs)",
      "kg": 1.8,
-     "price": 5836,
+     "price": 5199,
      "compareAt": 7999,
-     "pricePerKg": 3242,
+     "pricePerKg": 2888,
      "available": false,
      "url": "https://rippedupnutrition.com/products/100-natural-whey-protein?variant=42880931135628"
     },
     {
      "label": "Chocolate / 1Kg (2.2lbs)",
      "kg": 1,
-     "price": 3182,
+     "price": 2899,
      "compareAt": 4299,
-     "pricePerKg": 3182,
+     "pricePerKg": 2899,
      "available": false,
      "url": "https://rippedupnutrition.com/products/100-natural-whey-protein?variant=42880927498380"
     },
     {
      "label": "Chocolate / 1.8Kg (4lbs)",
      "kg": 1.8,
-     "price": 5836,
+     "price": 5199,
      "compareAt": 7999,
-     "pricePerKg": 3242,
+     "pricePerKg": 2888,
      "available": false,
      "url": "https://rippedupnutrition.com/products/100-natural-whey-protein?variant=42880931168396"
     },
     {
      "label": "Mochaville / 1Kg (2.2lbs)",
      "kg": 1,
-     "price": 3182,
+     "price": 2899,
      "compareAt": 4299,
-     "pricePerKg": 3182,
+     "pricePerKg": 2899,
      "available": false,
      "url": "https://rippedupnutrition.com/products/100-natural-whey-protein?variant=42880927531148"
     },
     {
      "label": "Mochaville / 1.8Kg (4lbs)",
      "kg": 1.8,
-     "price": 5836,
+     "price": 5199,
      "compareAt": 7999,
-     "pricePerKg": 3242,
+     "pricePerKg": 2888,
      "available": false,
      "url": "https://rippedupnutrition.com/products/100-natural-whey-protein?variant=42880931201164"
     }
@@ -12693,108 +12693,108 @@
     {
      "label": "Strawberry Lemonade / 150gm (15 servings)",
      "kg": 0.15,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 7793,
+     "pricePerKg": 7327,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-ultra-maxx-preworkout?variant=43731513901196"
     },
     {
      "label": "Strawberry Lemonade / 300gm (30 servings)",
      "kg": 0.3,
-     "price": 1889,
+     "price": 1799,
      "compareAt": 2999,
-     "pricePerKg": 6297,
+     "pricePerKg": 5997,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-ultra-maxx-preworkout?variant=42007550492812"
     },
     {
      "label": "Passion Fruit / 150gm (15 servings)",
      "kg": 0.15,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 7793,
+     "pricePerKg": 7327,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-ultra-maxx-preworkout?variant=43731513933964"
     },
     {
      "label": "Passion Fruit / 300gm (30 servings)",
      "kg": 0.3,
-     "price": 1889,
+     "price": 1799,
      "compareAt": 2999,
-     "pricePerKg": 6297,
+     "pricePerKg": 5997,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-ultra-maxx-preworkout?variant=42779475247244"
     },
     {
      "label": "Peach Mango / 150gm (15 servings)",
      "kg": 0.15,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 7793,
+     "pricePerKg": 7327,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-ultra-maxx-preworkout?variant=43731513966732"
     },
     {
      "label": "Peach Mango / 300gm (30 servings)",
      "kg": 0.3,
-     "price": 1889,
+     "price": 1799,
      "compareAt": 2999,
-     "pricePerKg": 6297,
+     "pricePerKg": 5997,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-ultra-maxx-preworkout?variant=42007550525580"
     },
     {
      "label": "Watermelon Mint / 150gm (15 servings)",
      "kg": 0.15,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 7793,
+     "pricePerKg": 7327,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-ultra-maxx-preworkout?variant=43731513999500"
     },
     {
      "label": "Watermelon Mint / 300gm (30 servings)",
      "kg": 0.3,
-     "price": 1889,
+     "price": 1799,
      "compareAt": 2999,
-     "pricePerKg": 6297,
+     "pricePerKg": 5997,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-ultra-maxx-preworkout?variant=42372406182028"
     },
     {
      "label": "Iced Cola / 150gm (15 servings)",
      "kg": 0.15,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 7793,
+     "pricePerKg": 7327,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-ultra-maxx-preworkout?variant=43731514032268"
     },
     {
      "label": "Iced Cola / 300gm (30 servings)",
      "kg": 0.3,
-     "price": 1889,
+     "price": 1799,
      "compareAt": 2999,
-     "pricePerKg": 6297,
+     "pricePerKg": 5997,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-ultra-maxx-preworkout?variant=43388215197836"
     },
     {
      "label": "Guava Burst / 150gm (15 servings)",
      "kg": 0.15,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 7793,
+     "pricePerKg": 7327,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-ultra-maxx-preworkout?variant=43731514065036"
     },
     {
      "label": "Guava Burst / 300gm (30 servings)",
      "kg": 0.3,
-     "price": 1889,
+     "price": 1799,
      "compareAt": 2999,
-     "pricePerKg": 6297,
+     "pricePerKg": 5997,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-ultra-maxx-preworkout?variant=43388215230604"
     }
@@ -12815,9 +12815,9 @@
     {
      "label": "20gm",
      "kg": 0.02,
-     "price": 1039,
+     "price": 949,
      "compareAt": 1599,
-     "pricePerKg": 51950,
+     "pricePerKg": 47450,
      "available": true,
      "url": "https://rippedupnutrition.com/products/pure-himalayan-shilajit-gold-resin?variant=42303785861260"
     }
@@ -12838,126 +12838,126 @@
     {
      "label": "Spicy Guava / 150GM (30 Servings)",
      "kg": 0.15,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 7793,
+     "pricePerKg": 7327,
      "available": true,
      "url": "https://rippedupnutrition.com/products/alpha-shred-pro-series?variant=43440582918284"
     },
     {
      "label": "Spicy Guava / 300GM (60 Servings)",
      "kg": 0.3,
-     "price": 2267,
+     "price": 2149,
      "compareAt": 3599,
-     "pricePerKg": 7557,
+     "pricePerKg": 7163,
      "available": true,
      "url": "https://rippedupnutrition.com/products/alpha-shred-pro-series?variant=43899060158604"
     },
     {
      "label": "Cola Fizz / 150GM (30 Servings)",
      "kg": 0.15,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 7793,
+     "pricePerKg": 7327,
      "available": true,
      "url": "https://rippedupnutrition.com/products/alpha-shred-pro-series?variant=43436244795532"
     },
     {
      "label": "Cola Fizz / 300GM (60 Servings)",
      "kg": 0.3,
-     "price": 2267,
+     "price": 2149,
      "compareAt": 3599,
-     "pricePerKg": 7557,
+     "pricePerKg": 7163,
      "available": true,
      "url": "https://rippedupnutrition.com/products/alpha-shred-pro-series?variant=43899060125836"
     },
     {
      "label": "Kiwi Strawberry / 150GM (30 Servings)",
      "kg": 0.15,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 7793,
+     "pricePerKg": 7327,
      "available": true,
      "url": "https://rippedupnutrition.com/products/alpha-shred-pro-series?variant=42097405624460"
     },
     {
      "label": "Kiwi Strawberry / 300GM (60 Servings)",
      "kg": 0.3,
-     "price": 2267,
+     "price": 2149,
      "compareAt": 3599,
-     "pricePerKg": 7557,
+     "pricePerKg": 7163,
      "available": true,
      "url": "https://rippedupnutrition.com/products/alpha-shred-pro-series?variant=43899060191372"
     },
     {
      "label": "Lightning Lemonade / 150GM (30 Servings)",
      "kg": 0.15,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 7793,
+     "pricePerKg": 7327,
      "available": true,
      "url": "https://rippedupnutrition.com/products/alpha-shred-pro-series?variant=42097405689996"
     },
     {
      "label": "Lightning Lemonade / 300GM (60 Servings)",
      "kg": 0.3,
-     "price": 2267,
+     "price": 2149,
      "compareAt": 3599,
-     "pricePerKg": 7557,
+     "pricePerKg": 7163,
      "available": true,
      "url": "https://rippedupnutrition.com/products/alpha-shred-pro-series?variant=43899060256908"
     },
     {
      "label": "Mango Pineapple / 150GM (30 Servings)",
      "kg": 0.15,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 7793,
+     "pricePerKg": 7327,
      "available": true,
      "url": "https://rippedupnutrition.com/products/alpha-shred-pro-series?variant=42097405591692"
     },
     {
      "label": "Mango Pineapple / 300GM (60 Servings)",
      "kg": 0.3,
-     "price": 2267,
+     "price": 2149,
      "compareAt": 3599,
-     "pricePerKg": 7557,
+     "pricePerKg": 7163,
      "available": true,
      "url": "https://rippedupnutrition.com/products/alpha-shred-pro-series?variant=43899060224140"
     },
     {
      "label": "Cold Brew Coffee / 150GM (30 Servings)",
      "kg": 0.15,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 7793,
+     "pricePerKg": 7327,
      "available": true,
      "url": "https://rippedupnutrition.com/products/alpha-shred-pro-series?variant=42097405657228"
     },
     {
      "label": "Cold Brew Coffee / 300GM (60 Servings)",
      "kg": 0.3,
-     "price": 2267,
+     "price": 2149,
      "compareAt": 3599,
-     "pricePerKg": 7557,
+     "pricePerKg": 7163,
      "available": true,
      "url": "https://rippedupnutrition.com/products/alpha-shred-pro-series?variant=43899060289676"
     },
     {
      "label": "Orange Mango / 150GM (30 Servings)",
      "kg": 0.15,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 7793,
+     "pricePerKg": 7327,
      "available": true,
      "url": "https://rippedupnutrition.com/products/alpha-shred-pro-series?variant=43450120896652"
     },
     {
      "label": "Orange Mango / 300GM (60 Servings)",
      "kg": 0.3,
-     "price": 2267,
+     "price": 2149,
      "compareAt": 3599,
-     "pricePerKg": 7557,
+     "pricePerKg": 7163,
      "available": true,
      "url": "https://rippedupnutrition.com/products/alpha-shred-pro-series?variant=43899060322444"
     }
@@ -12978,27 +12978,27 @@
     {
      "label": "Pistachio Ice Cream / 1.81 KG (52 Servings)",
      "kg": 1.81,
-     "price": 8774,
+     "price": 8799,
      "compareAt": 13499,
-     "pricePerKg": 4848,
+     "pricePerKg": 4861,
      "available": true,
      "url": "https://rippedupnutrition.com/products/shredz-gold?variant=41529335939212"
     },
     {
      "label": "Choco Brownie / 1.81 KG (52 Servings)",
      "kg": 1.81,
-     "price": 8774,
+     "price": 8799,
      "compareAt": 13499,
-     "pricePerKg": 4848,
+     "pricePerKg": 4861,
      "available": true,
      "url": "https://rippedupnutrition.com/products/shredz-gold?variant=41529335971980"
     },
     {
      "label": "Coconut Delight / 1.81 KG (52 Servings)",
      "kg": 1.81,
-     "price": 8774,
+     "price": 8799,
      "compareAt": 13499,
-     "pricePerKg": 4848,
+     "pricePerKg": 4861,
      "available": true,
      "url": "https://rippedupnutrition.com/products/shredz-gold?variant=41529336004748"
     }
@@ -13019,54 +13019,54 @@
     {
      "label": "Choco Muffin / 1.81 Kg (4lbs)",
      "kg": 1.81,
-     "price": 10754,
+     "price": 10699,
      "compareAt": 16999,
-     "pricePerKg": 5941,
+     "pricePerKg": 5911,
      "available": true,
      "url": "https://rippedupnutrition.com/products/iso-rich-premium?variant=40950749724812"
     },
     {
      "label": "Choco Muffin / 907g (2lbs)",
      "kg": 0.907,
-     "price": 5647,
+     "price": 5649,
      "compareAt": 8699,
-     "pricePerKg": 6226,
+     "pricePerKg": 6228,
      "available": true,
      "url": "https://rippedupnutrition.com/products/iso-rich-premium?variant=41373707108492"
     },
     {
      "label": "Choco Muffin / 3.62 KG (8lbs)",
      "kg": 3.62,
-     "price": 20419,
-     "compareAt": 16999,
-     "pricePerKg": 5641,
+     "price": 20399,
+     "compareAt": 33998,
+     "pricePerKg": 5635,
      "available": true,
      "url": "https://rippedupnutrition.com/products/iso-rich-premium?variant=61667805528204"
     },
     {
      "label": "Pistachio Ice Cream / 1.81 Kg (4lbs)",
      "kg": 1.81,
-     "price": 10754,
+     "price": 10699,
      "compareAt": 16999,
-     "pricePerKg": 5941,
+     "pricePerKg": 5911,
      "available": true,
      "url": "https://rippedupnutrition.com/products/iso-rich-premium?variant=40868783292556"
     },
     {
      "label": "Pistachio Ice Cream / 907g (2lbs)",
      "kg": 0.907,
-     "price": 5647,
+     "price": 5649,
      "compareAt": 8699,
-     "pricePerKg": 6226,
+     "pricePerKg": 6228,
      "available": true,
      "url": "https://rippedupnutrition.com/products/iso-rich-premium?variant=41373706977420"
     },
     {
      "label": "Pistachio Ice Cream / 3.62 KG (8lbs)",
      "kg": 3.62,
-     "price": 20419,
-     "compareAt": 16999,
-     "pricePerKg": 5641,
+     "price": 20399,
+     "compareAt": 33998,
+     "pricePerKg": 5635,
      "available": true,
      "url": "https://rippedupnutrition.com/products/iso-rich-premium?variant=61667805560972"
     }
@@ -13087,9 +13087,9 @@
     {
      "label": "60 Softgels",
      "kg": 0.1,
-     "price": 1169,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 11690,
+     "pricePerKg": 10990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/superior-multi-vitamin-test?variant=40734504124556"
     }
@@ -13110,108 +13110,108 @@
     {
      "label": "Chocolate Milkshake / 1.8kg (4lbs)",
      "kg": 1.8,
-     "price": 6594,
+     "price": 7299,
      "compareAt": 11499,
-     "pricePerKg": 3663,
+     "pricePerKg": 4055,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40584464105612"
     },
     {
      "label": "Chocolate Milkshake / 907gm (2lbs)",
      "kg": 0.907,
-     "price": 3372,
+     "price": 3899,
      "compareAt": 5999,
-     "pricePerKg": 3718,
+     "pricePerKg": 4299,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40584464040076"
     },
     {
      "label": "Chocolate Milkshake / 3.62Kg (8lbs)",
      "kg": 3.62,
-     "price": 12743,
+     "price": 14199,
      "compareAt": 22998,
-     "pricePerKg": 3520,
+     "pricePerKg": 3922,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40600926912652"
     },
     {
      "label": "Cookies & Cream / 1.8kg (4lbs)",
      "kg": 1.8,
-     "price": 6594,
+     "price": 7299,
      "compareAt": 11499,
-     "pricePerKg": 3663,
+     "pricePerKg": 4055,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40584464138380"
     },
     {
      "label": "Cookies & Cream / 907gm (2lbs)",
      "kg": 0.907,
-     "price": 3372,
+     "price": 3899,
      "compareAt": 5999,
-     "pricePerKg": 3718,
+     "pricePerKg": 4299,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40584464072844"
     },
     {
      "label": "Coconut Ice Cream / 1.8kg (4lbs)",
      "kg": 1.8,
-     "price": 6594,
+     "price": 7299,
      "compareAt": 11499,
-     "pricePerKg": 3663,
+     "pricePerKg": 4055,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40884092829836"
     },
     {
      "label": "Coconut Ice Cream / 907gm (2lbs)",
      "kg": 0.907,
-     "price": 3372,
+     "price": 3899,
      "compareAt": 5999,
-     "pricePerKg": 3718,
+     "pricePerKg": 4299,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40884092764300"
     },
     {
      "label": "Coconut Ice Cream / 3.62Kg (8lbs)",
      "kg": 3.62,
-     "price": 12743,
+     "price": 14199,
      "compareAt": 22998,
-     "pricePerKg": 3520,
+     "pricePerKg": 3922,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40884092895372"
     },
     {
      "label": "Pistachio Ice Cream / 1.8kg (4lbs)",
      "kg": 1.8,
-     "price": 6594,
+     "price": 7299,
      "compareAt": 11499,
-     "pricePerKg": 3663,
+     "pricePerKg": 4055,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40884092862604"
     },
     {
      "label": "Pistachio Ice Cream / 907gm (2lbs)",
      "kg": 0.907,
-     "price": 3372,
+     "price": 3899,
      "compareAt": 5999,
-     "pricePerKg": 3718,
+     "pricePerKg": 4299,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40884092797068"
     },
     {
      "label": "Pistachio Ice Cream / 3.62Kg (8lbs)",
      "kg": 3.62,
-     "price": 12743,
+     "price": 14199,
      "compareAt": 22998,
-     "pricePerKg": 3520,
+     "pricePerKg": 3922,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40884092928140"
     },
     {
      "label": "Cookies & Cream / 3.62Kg (8lbs)",
      "kg": 3.62,
-     "price": 12743,
+     "price": 14199,
      "compareAt": 22998,
-     "pricePerKg": 3520,
+     "pricePerKg": 3922,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=61668014784652"
     }
@@ -13232,9 +13232,9 @@
     {
      "label": "60 Softgels",
      "kg": 0.1,
-     "price": 974,
+     "price": 899,
      "compareAt": 1499,
-     "pricePerKg": 9740,
+     "pricePerKg": 8990,
      "available": false,
      "url": "https://rippedupnutrition.com/products/omega-3-fish-oil-triple-strength-60-softgels?variant=40458964238476"
     }
@@ -13255,90 +13255,90 @@
     {
      "label": "Orange Mango / 150 gm",
      "kg": 0.15,
-     "price": 1299,
+     "price": 1199,
      "compareAt": 1999,
-     "pricePerKg": 8660,
+     "pricePerKg": 7993,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-xtreme?variant=43809719091340"
     },
     {
      "label": "Orange Mango / 300 gm",
      "kg": 0.3,
-     "price": 2204,
+     "price": 2099,
      "compareAt": 3499,
-     "pricePerKg": 7347,
+     "pricePerKg": 6997,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-xtreme?variant=40156033712268"
     },
     {
      "label": "Watermelon / 150 gm",
      "kg": 0.15,
-     "price": 1299,
+     "price": 1199,
      "compareAt": 1999,
-     "pricePerKg": 8660,
+     "pricePerKg": 7993,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-xtreme?variant=43809719124108"
     },
     {
      "label": "Watermelon / 300 gm",
      "kg": 0.3,
-     "price": 2204,
+     "price": 2099,
      "compareAt": 3499,
-     "pricePerKg": 7347,
+     "pricePerKg": 6997,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-xtreme?variant=39997276225676"
     },
     {
      "label": "Peach Ice Tea / 150 gm",
      "kg": 0.15,
-     "price": 1299,
+     "price": 1199,
      "compareAt": 1999,
-     "pricePerKg": 8660,
+     "pricePerKg": 7993,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-xtreme?variant=43809719156876"
     },
     {
      "label": "Peach Ice Tea / 300 gm",
      "kg": 0.3,
-     "price": 2204,
+     "price": 2099,
      "compareAt": 3499,
-     "pricePerKg": 7347,
+     "pricePerKg": 6997,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-xtreme?variant=40041104113804"
     },
     {
      "label": "Berry Slush / 150 gm",
      "kg": 0.15,
-     "price": 1299,
+     "price": 1199,
      "compareAt": 1999,
-     "pricePerKg": 8660,
+     "pricePerKg": 7993,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-xtreme?variant=43809719189644"
     },
     {
      "label": "Berry Slush / 300 gm",
      "kg": 0.3,
-     "price": 2204,
+     "price": 2099,
      "compareAt": 3499,
-     "pricePerKg": 7347,
+     "pricePerKg": 6997,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-xtreme?variant=40896806387852"
     },
     {
      "label": "Cola / 150 gm",
      "kg": 0.15,
-     "price": 1299,
+     "price": 1199,
      "compareAt": 1999,
-     "pricePerKg": 8660,
+     "pricePerKg": 7993,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-xtreme?variant=43809719222412"
     },
     {
      "label": "Cola / 300 gm",
      "kg": 0.3,
-     "price": 2204,
+     "price": 2099,
      "compareAt": 3499,
-     "pricePerKg": 7347,
+     "pricePerKg": 6997,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-xtreme?variant=43388227453068"
     }
@@ -13359,18 +13359,18 @@
     {
      "label": "Pineapple Kiwi / 450ml (30 servings)",
      "kg": 0.1,
-     "price": 974,
+     "price": 899,
      "compareAt": 1499,
-     "pricePerKg": 9740,
+     "pricePerKg": 8990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/liquid-l-citrulline-l-arginine?variant=39978213965964"
     },
     {
      "label": "Orange Mango / 450ml (30 servings)",
      "kg": 0.1,
-     "price": 974,
+     "price": 899,
      "compareAt": 1499,
-     "pricePerKg": 9740,
+     "pricePerKg": 8990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/liquid-l-citrulline-l-arginine?variant=41658391789708"
     }
@@ -13391,9 +13391,9 @@
     {
      "label": "Chocolate Bliss / 500gm",
      "kg": 0.5,
-     "price": 1104,
+     "price": 999,
      "compareAt": 1699,
-     "pricePerKg": 2208,
+     "pricePerKg": 1998,
      "available": true,
      "url": "https://rippedupnutrition.com/products/sovitals-plant-protein?variant=39668803633292"
     }
@@ -13414,38 +13414,56 @@
     {
      "label": "Pistachio Ice Cream / 3 KG (6.6 lbs)",
      "kg": 3,
-     "price": 2664,
+     "price": 2449,
      "compareAt": 4099,
-     "pricePerKg": 888,
+     "pricePerKg": 816,
      "available": true,
      "url": "https://rippedupnutrition.com/products/massive-mass-gainer?variant=41669777948812"
     },
     {
      "label": "Pistachio Ice Cream / 6 KG (13.2 lbs)",
      "kg": 6,
-     "price": 5165,
+     "price": 4899,
      "compareAt": 8198,
-     "pricePerKg": 861,
+     "pricePerKg": 817,
      "available": true,
      "url": "https://rippedupnutrition.com/products/massive-mass-gainer?variant=41612876611724"
     },
     {
      "label": "Dark Chocolate / 3 KG (6.6 lbs)",
      "kg": 3,
-     "price": 2664,
+     "price": 2449,
      "compareAt": 4099,
-     "pricePerKg": 888,
+     "pricePerKg": 816,
      "available": true,
      "url": "https://rippedupnutrition.com/products/massive-mass-gainer?variant=43293050929292"
     },
     {
      "label": "Dark Chocolate / 6 KG (13.2 lbs)",
      "kg": 6,
-     "price": 5165,
+     "price": 4899,
      "compareAt": 8198,
-     "pricePerKg": 861,
+     "pricePerKg": 817,
      "available": true,
      "url": "https://rippedupnutrition.com/products/massive-mass-gainer?variant=43293050962060"
+    },
+    {
+     "label": "Dark Chocolate / 5 KG (11.02 lbs)",
+     "kg": 5,
+     "price": 3999,
+     "compareAt": 6899,
+     "pricePerKg": 800,
+     "available": true,
+     "url": "https://rippedupnutrition.com/products/massive-mass-gainer?variant=63958948839564"
+    },
+    {
+     "label": "Pistachio Ice Cream / 5 KG (11.02 lbs)",
+     "kg": 5,
+     "price": 3999,
+     "compareAt": 6899,
+     "pricePerKg": 800,
+     "available": true,
+     "url": "https://rippedupnutrition.com/products/massive-mass-gainer?variant=63959192535180"
     }
    ]
   },
@@ -13464,36 +13482,36 @@
     {
      "label": "Virgin Mojito / 300 g | 30 Serving",
      "kg": 0.3,
-     "price": 1559,
+     "price": 1449,
      "compareAt": 2399,
-     "pricePerKg": 5197,
+     "pricePerKg": 4830,
      "available": true,
      "url": "https://rippedupnutrition.com/products/eaas-essential-amino-acids?variant=39609145000076"
     },
     {
      "label": "Peach Iced Tea / 300 g | 30 Serving",
      "kg": 0.3,
-     "price": 1559,
+     "price": 1449,
      "compareAt": 2399,
-     "pricePerKg": 5197,
+     "pricePerKg": 4830,
      "available": true,
      "url": "https://rippedupnutrition.com/products/eaas-essential-amino-acids?variant=39609145065612"
     },
     {
      "label": "Orange Mango / 300 g | 30 Serving",
      "kg": 0.3,
-     "price": 1559,
+     "price": 1449,
      "compareAt": 2399,
-     "pricePerKg": 5197,
+     "pricePerKg": 4830,
      "available": true,
      "url": "https://rippedupnutrition.com/products/eaas-essential-amino-acids?variant=39508050411660"
     },
     {
      "label": "Cola Bliss / 300 g | 30 Serving",
      "kg": 0.3,
-     "price": 1559,
+     "price": 1449,
      "compareAt": 2399,
-     "pricePerKg": 5197,
+     "pricePerKg": 4830,
      "available": true,
      "url": "https://rippedupnutrition.com/products/eaas-essential-amino-acids?variant=39538523177100"
     }
@@ -13514,27 +13532,27 @@
     {
      "label": "Kiwi Strawberry / 450 ml | 30 serv.",
      "kg": 0.1,
-     "price": 1624,
+     "price": 1499,
      "compareAt": 2499,
-     "pricePerKg": 16240,
+     "pricePerKg": 14990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/l-carnitine?variant=39267347660940"
     },
     {
      "label": "Green Apple / 450 ml | 30 serv.",
      "kg": 0.1,
-     "price": 1624,
+     "price": 1499,
      "compareAt": 2499,
-     "pricePerKg": 16240,
+     "pricePerKg": 14990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/l-carnitine?variant=39452785639564"
     },
     {
      "label": "Orange Mango / 450 ml | 30 serv.",
      "kg": 0.1,
-     "price": 1624,
+     "price": 1499,
      "compareAt": 2499,
-     "pricePerKg": 16240,
+     "pricePerKg": 14990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/l-carnitine?variant=41658386907276"
     }
@@ -13555,27 +13573,27 @@
     {
      "label": "Pistachio Ice Cream / 1.81 KG (4lbs)",
      "kg": 1.81,
-     "price": 8480,
+     "price": 8349,
      "compareAt": 13499,
-     "pricePerKg": 4685,
+     "pricePerKg": 4613,
      "available": true,
      "url": "https://rippedupnutrition.com/products/premium-nitro-whey?variant=40137996304524"
     },
     {
      "label": "Coconut Ice cream / 1.81 KG (4lbs)",
      "kg": 1.81,
-     "price": 8480,
+     "price": 8349,
      "compareAt": 13499,
-     "pricePerKg": 4685,
+     "pricePerKg": 4613,
      "available": true,
      "url": "https://rippedupnutrition.com/products/premium-nitro-whey?variant=41536549159052"
     },
     {
      "label": "Chocolate Milk Shake / 1.81 KG (4lbs)",
      "kg": 1.81,
-     "price": 8480,
+     "price": 8349,
      "compareAt": 13499,
-     "pricePerKg": 4685,
+     "pricePerKg": 4613,
      "available": true,
      "url": "https://rippedupnutrition.com/products/premium-nitro-whey?variant=39264651739276"
     }
@@ -13596,36 +13614,36 @@
     {
      "label": "Apple Martini / 300 g | 30 serv.",
      "kg": 0.3,
-     "price": 1429,
+     "price": 1299,
      "compareAt": 2199,
-     "pricePerKg": 4763,
+     "pricePerKg": 4330,
      "available": true,
      "url": "https://rippedupnutrition.com/products/bcaa-glutamine-citrulline-malate?variant=34392203591820"
     },
     {
      "label": "Blueberry Boost / 300 g | 30 serv.",
      "kg": 0.3,
-     "price": 1429,
+     "price": 1299,
      "compareAt": 2199,
-     "pricePerKg": 4763,
+     "pricePerKg": 4330,
      "available": true,
      "url": "https://rippedupnutrition.com/products/bcaa-glutamine-citrulline-malate?variant=39329117831308"
     },
     {
      "label": "Lychee Delight / 300 g | 30 serv.",
      "kg": 0.3,
-     "price": 1429,
+     "price": 1299,
      "compareAt": 2199,
-     "pricePerKg": 4763,
+     "pricePerKg": 4330,
      "available": true,
      "url": "https://rippedupnutrition.com/products/bcaa-glutamine-citrulline-malate?variant=34345669755020"
     },
     {
      "label": "Sweet Watermelon / 300 g | 30 serv.",
      "kg": 0.3,
-     "price": 1429,
+     "price": 1299,
      "compareAt": 2199,
-     "pricePerKg": 4763,
+     "pricePerKg": 4330,
      "available": true,
      "url": "https://rippedupnutrition.com/products/bcaa-glutamine-citrulline-malate?variant=34392206344332"
     }
@@ -13646,36 +13664,36 @@
     {
      "label": "Orange Mango / 150 g  | 15 serv.",
      "kg": 0.15,
-     "price": 974,
+     "price": 899,
      "compareAt": 1499,
-     "pricePerKg": 6493,
+     "pricePerKg": 5993,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-pre-workout?variant=44490456629388"
     },
     {
      "label": "Orange Mango / 300 g  | 30 serv.",
      "kg": 0.3,
-     "price": 1700,
+     "price": 1599,
      "compareAt": 2699,
-     "pricePerKg": 5667,
+     "pricePerKg": 5330,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-pre-workout?variant=39708382232716"
     },
     {
      "label": "Lychee Martini / 150 g  | 15 serv.",
      "kg": 0.15,
-     "price": 974,
+     "price": 899,
      "compareAt": 1499,
-     "pricePerKg": 6493,
+     "pricePerKg": 5993,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-pre-workout?variant=44725247541388"
     },
     {
      "label": "Lychee Martini / 300 g  | 30 serv.",
      "kg": 0.3,
-     "price": 1700,
+     "price": 1599,
      "compareAt": 2699,
-     "pricePerKg": 5667,
+     "pricePerKg": 5330,
      "available": true,
      "url": "https://rippedupnutrition.com/products/conquer-pre-workout?variant=44725247574156"
     }
@@ -13696,9 +13714,9 @@
     {
      "label": "Unflavored / 250 g | 50 serv.",
      "kg": 0.25,
-     "price": 974,
+     "price": 899,
      "compareAt": 1499,
-     "pricePerKg": 3896,
+     "pricePerKg": 3596,
      "available": true,
      "url": "https://rippedupnutrition.com/products/l-glutamine?variant=31255280222348"
     }
@@ -13719,135 +13737,135 @@
     {
      "label": "Pistachio Ice-Cream / 1.8 Kg (4 lbs)",
      "kg": 1.8,
-     "price": 7068,
+     "price": 7999,
      "compareAt": 12499,
-     "pricePerKg": 3927,
+     "pricePerKg": 4444,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43357982621836"
     },
     {
      "label": "Pistachio Ice-Cream / 907 g (2 lbs)",
      "kg": 0.907,
-     "price": 3657,
+     "price": 4199,
      "compareAt": 6499,
-     "pricePerKg": 4032,
+     "pricePerKg": 4630,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43357981376652"
     },
     {
      "label": "Tiramisu / 1.8 Kg (4 lbs)",
      "kg": 1.8,
-     "price": 7674,
+     "price": 7999,
      "compareAt": 12499,
-     "pricePerKg": 4263,
+     "pricePerKg": 4444,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43482695401612"
     },
     {
      "label": "Tiramisu / 907 g (2 lbs)",
      "kg": 0.907,
-     "price": 3657,
+     "price": 4199,
      "compareAt": 6499,
-     "pricePerKg": 4032,
+     "pricePerKg": 4630,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43482695434380"
     },
     {
      "label": "Rich Chocolate / 1.8 Kg (4 lbs)",
      "kg": 1.8,
-     "price": 7068,
+     "price": 7999,
      "compareAt": 12499,
-     "pricePerKg": 3927,
+     "pricePerKg": 4444,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43357982752908"
     },
     {
      "label": "Rich Chocolate / 907 g (2 lbs)",
      "kg": 0.907,
-     "price": 3657,
+     "price": 4199,
      "compareAt": 6499,
-     "pricePerKg": 4032,
+     "pricePerKg": 4630,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43357981474956"
     },
     {
      "label": "Mango Ice Cream / 1.8 Kg (4 lbs)",
      "kg": 1.8,
-     "price": 7068,
+     "price": 7999,
      "compareAt": 12499,
-     "pricePerKg": 3927,
+     "pricePerKg": 4444,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43357982654604"
     },
     {
      "label": "Mango Ice Cream / 907 g (2 lbs)",
      "kg": 0.907,
-     "price": 3657,
+     "price": 4199,
      "compareAt": 6499,
-     "pricePerKg": 4032,
+     "pricePerKg": 4630,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43357981409420"
     },
     {
      "label": "Kesar Thandai / 1.8 Kg (4 lbs)",
      "kg": 1.8,
-     "price": 7068,
+     "price": 7999,
      "compareAt": 12499,
-     "pricePerKg": 3927,
+     "pricePerKg": 4444,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43357982687372"
     },
     {
      "label": "Kesar Thandai / 907 g (2 lbs)",
      "kg": 0.907,
-     "price": 3657,
+     "price": 4199,
      "compareAt": 6499,
-     "pricePerKg": 4032,
+     "pricePerKg": 4630,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43357981442188"
     },
     {
      "label": "Tiramisu / 3.6 KG (8lbs)",
      "kg": 3.6,
-     "price": 13691,
+     "price": 15449,
      "compareAt": 24998,
-     "pricePerKg": 3803,
+     "pricePerKg": 4291,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=61667747627148"
     },
     {
      "label": "Mango Ice Cream / 3.6 KG (8lbs)",
      "kg": 3.6,
-     "price": 13691,
+     "price": 15449,
      "compareAt": 24998,
-     "pricePerKg": 3803,
+     "pricePerKg": 4291,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=61667748216972"
     },
     {
      "label": "Kesar Thandai / 3.6 KG (8lbs)",
      "kg": 3.6,
-     "price": 13691,
+     "price": 15449,
      "compareAt": 24998,
-     "pricePerKg": 3803,
+     "pricePerKg": 4291,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=61667748446348"
     },
     {
      "label": "Pistachio Ice-Cream / 3.6 KG (8lbs)",
      "kg": 3.6,
-     "price": 13691,
+     "price": 15449,
      "compareAt": 24998,
-     "pricePerKg": 3803,
+     "pricePerKg": 4291,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=61667749560460"
     },
     {
      "label": "Rich Chocolate / 3.6 KG (8lbs)",
      "kg": 3.6,
-     "price": 13691,
+     "price": 15449,
      "compareAt": 24998,
-     "pricePerKg": 3803,
+     "pricePerKg": 4291,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=61667749986444"
     }
@@ -13868,72 +13886,72 @@
     {
      "label": "Black Currant / 100 GM",
      "kg": 0.1,
-     "price": 584,
+     "price": 549,
      "compareAt": 899,
-     "pricePerKg": 5840,
+     "pricePerKg": 5490,
      "available": true,
      "url": "https://rippedupnutrition.com/products/creatine-monohydrate?variant=44254565826700"
     },
     {
      "label": "Black Currant / 250 GM",
      "kg": 0.25,
-     "price": 1133,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 4532,
+     "pricePerKg": 4396,
      "available": true,
      "url": "https://rippedupnutrition.com/products/creatine-monohydrate?variant=44039247855756"
     },
     {
      "label": "Unflavored / 100 GM",
      "kg": 0.1,
-     "price": 584,
+     "price": 549,
      "compareAt": 899,
-     "pricePerKg": 5840,
+     "pricePerKg": 5490,
      "available": true,
      "url": "https://rippedupnutrition.com/products/creatine-monohydrate?variant=41052822667404"
     },
     {
      "label": "Unflavored / 250 GM",
      "kg": 0.25,
-     "price": 1133,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 4532,
+     "pricePerKg": 4396,
      "available": true,
      "url": "https://rippedupnutrition.com/products/creatine-monohydrate?variant=31206851575948"
     },
     {
      "label": "Orange / 100 GM",
      "kg": 0.1,
-     "price": 649,
+     "price": 599,
      "compareAt": 999,
-     "pricePerKg": 6490,
+     "pricePerKg": 5990,
      "available": true,
      "url": "https://rippedupnutrition.com/products/creatine-monohydrate?variant=44441540657292"
     },
     {
      "label": "Orange / 250 GM",
      "kg": 0.25,
-     "price": 1133,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 4532,
+     "pricePerKg": 4396,
      "available": true,
      "url": "https://rippedupnutrition.com/products/creatine-monohydrate?variant=44039247888524"
     },
     {
      "label": "Lemon / 100 GM",
      "kg": 0.1,
-     "price": 584,
+     "price": 549,
      "compareAt": 899,
-     "pricePerKg": 5840,
+     "pricePerKg": 5490,
      "available": true,
      "url": "https://rippedupnutrition.com/products/creatine-monohydrate?variant=44441538461836"
     },
     {
      "label": "Lemon / 250 GM",
      "kg": 0.25,
-     "price": 1133,
+     "price": 1099,
      "compareAt": 1799,
-     "pricePerKg": 4532,
+     "pricePerKg": 4396,
      "available": true,
      "url": "https://rippedupnutrition.com/products/creatine-monohydrate?variant=44039247921292"
     }
@@ -13954,18 +13972,18 @@
     {
      "label": "Swiss Chocolate / 2.7 Kg (6 lbs)",
      "kg": 2.7,
-     "price": 2582,
+     "price": 2449,
      "compareAt": 4099,
-     "pricePerKg": 956,
+     "pricePerKg": 907,
      "available": false,
      "url": "https://rippedupnutrition.com/products/mass-gainer?variant=39519836635276"
     },
     {
      "label": "Swiss Chocolate / 1 Kg (2.2 lbs)",
      "kg": 1,
-     "price": 1234,
+     "price": 1149,
      "compareAt": 1899,
-     "pricePerKg": 1234,
+     "pricePerKg": 1149,
      "available": false,
      "url": "https://rippedupnutrition.com/products/mass-gainer?variant=31088667754636"
     }
@@ -13986,162 +14004,162 @@
     {
      "label": "Coconut Ice Cream / 1.81 Kg (4lbs)",
      "kg": 1.81,
-     "price": 8953,
+     "price": 8999,
      "compareAt": 14999,
-     "pricePerKg": 4946,
+     "pricePerKg": 4972,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-protein-isolate-core-series?variant=44159848611980"
     },
     {
      "label": "Coconut Ice Cream / 3.62 kg (8lbs)",
      "kg": 3.62,
-     "price": 17008,
+     "price": 17099,
      "compareAt": 29998,
-     "pricePerKg": 4698,
+     "pricePerKg": 4723,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-protein-isolate-core-series?variant=39709256745100"
     },
     {
      "label": "Coconut Ice Cream / 907g (2lbs)",
      "kg": 0.907,
-     "price": 4699,
+     "price": 4749,
      "compareAt": 7699,
-     "pricePerKg": 5181,
+     "pricePerKg": 5236,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-protein-isolate-core-series?variant=57641958047884"
     },
     {
      "label": "Biscoff Crème / 1.81 Kg (4lbs)",
      "kg": 1.81,
-     "price": 8953,
+     "price": 8999,
      "compareAt": 14999,
-     "pricePerKg": 4946,
+     "pricePerKg": 4972,
      "available": false,
      "url": "https://rippedupnutrition.com/products/whey-protein-isolate-core-series?variant=63545007636620"
     },
     {
      "label": "Biscoff Crème / 3.62 kg (8lbs)",
      "kg": 3.62,
-     "price": 17008,
-     "compareAt": 14999,
-     "pricePerKg": 4698,
+     "price": 17099,
+     "compareAt": 29998,
+     "pricePerKg": 4723,
      "available": false,
      "url": "https://rippedupnutrition.com/products/whey-protein-isolate-core-series?variant=63545274433676"
     },
     {
      "label": "Colombian Coffee / 1.81 Kg (4lbs)",
      "kg": 1.81,
-     "price": 8953,
+     "price": 8999,
      "compareAt": 14999,
-     "pricePerKg": 4946,
+     "pricePerKg": 4972,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-protein-isolate-core-series?variant=44159848513676"
     },
     {
      "label": "Colombian Coffee / 3.62 kg (8lbs)",
      "kg": 3.62,
-     "price": 17008,
+     "price": 17099,
      "compareAt": 29998,
-     "pricePerKg": 4698,
+     "pricePerKg": 4723,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-protein-isolate-core-series?variant=39709287219340"
     },
     {
      "label": "Colombian Coffee / 907g (2lbs)",
      "kg": 0.907,
-     "price": 4699,
+     "price": 4749,
      "compareAt": 7699,
-     "pricePerKg": 5181,
+     "pricePerKg": 5236,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-protein-isolate-core-series?variant=57641958146188"
     },
     {
      "label": "Pistachio Ice Cream / 1.81 Kg (4lbs)",
      "kg": 1.81,
-     "price": 8953,
+     "price": 8999,
      "compareAt": 14999,
-     "pricePerKg": 4946,
+     "pricePerKg": 4972,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-protein-isolate-core-series?variant=44159848579212"
     },
     {
      "label": "Pistachio Ice Cream / 3.62 kg (8lbs)",
      "kg": 3.62,
-     "price": 17008,
+     "price": 17099,
      "compareAt": 29998,
-     "pricePerKg": 4698,
+     "pricePerKg": 4723,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-protein-isolate-core-series?variant=41574807994508"
     },
     {
      "label": "Pistachio Ice Cream / 907g (2lbs)",
      "kg": 0.907,
-     "price": 4699,
+     "price": 4749,
      "compareAt": 7699,
-     "pricePerKg": 5181,
+     "pricePerKg": 5236,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-protein-isolate-core-series?variant=57641958080652"
     },
     {
      "label": "Creamy Chocolate / 1.81 Kg (4lbs)",
      "kg": 1.81,
-     "price": 8953,
+     "price": 8999,
      "compareAt": 14999,
-     "pricePerKg": 4946,
+     "pricePerKg": 4972,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-protein-isolate-core-series?variant=44159848480908"
     },
     {
      "label": "Creamy Chocolate / 3.62 kg (8lbs)",
      "kg": 3.62,
-     "price": 17008,
+     "price": 17099,
      "compareAt": 29998,
-     "pricePerKg": 4698,
+     "pricePerKg": 4723,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-protein-isolate-core-series?variant=39709299736716"
     },
     {
      "label": "Creamy Chocolate / 907g (2lbs)",
      "kg": 0.907,
-     "price": 4699,
+     "price": 4749,
      "compareAt": 7699,
-     "pricePerKg": 5181,
+     "pricePerKg": 5236,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-protein-isolate-core-series?variant=57641958113420"
     },
     {
      "label": "Cookies and Cream / 1.81 Kg (4lbs)",
      "kg": 1.81,
-     "price": 8953,
+     "price": 8999,
      "compareAt": 14999,
-     "pricePerKg": 4946,
+     "pricePerKg": 4972,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-protein-isolate-core-series?variant=44159848546444"
     },
     {
      "label": "Cookies and Cream / 3.62 kg (8lbs)",
      "kg": 3.62,
-     "price": 17008,
+     "price": 17099,
      "compareAt": 29998,
-     "pricePerKg": 4698,
+     "pricePerKg": 4723,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-protein-isolate-core-series?variant=61667728588940"
     },
     {
      "label": "Cookies and Cream / 907g (2lbs)",
      "kg": 0.907,
-     "price": 4699,
+     "price": 4749,
      "compareAt": 7699,
-     "pricePerKg": 5181,
+     "pricePerKg": 5236,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-protein-isolate-core-series?variant=57641958178956"
     },
     {
      "label": "Biscoff Crème / 907g (2lbs)",
      "kg": 0.907,
-     "price": 4699,
+     "price": 4749,
      "compareAt": 7699,
-     "pricePerKg": 5181,
+     "pricePerKg": 5236,
      "available": false,
      "url": "https://rippedupnutrition.com/products/whey-protein-isolate-core-series?variant=63546208583820"
     }
@@ -14162,90 +14180,90 @@
     {
      "label": "Tiramisu / 500gm",
      "kg": 0.5,
-     "price": 1527,
+     "price": 1399,
      "compareAt": 2349,
-     "pricePerKg": 3054,
+     "pricePerKg": 2798,
      "available": true,
      "url": "https://rippedupnutrition.com/products/protein-coffee?variant=43683717906572"
     },
     {
      "label": "Tiramisu / 1 Kg (500g*2)",
      "kg": 1,
-     "price": 2960,
+     "price": 2799,
      "compareAt": 4698,
-     "pricePerKg": 2960,
+     "pricePerKg": 2799,
      "available": true,
      "url": "https://rippedupnutrition.com/products/protein-coffee?variant=43683717939340"
     },
     {
      "label": "Mocha / 500gm",
      "kg": 0.5,
-     "price": 1527,
+     "price": 1399,
      "compareAt": 2349,
-     "pricePerKg": 3054,
+     "pricePerKg": 2798,
      "available": true,
      "url": "https://rippedupnutrition.com/products/protein-coffee?variant=28898658713648"
     },
     {
      "label": "Mocha / 1 Kg (500g*2)",
      "kg": 1,
-     "price": 2960,
+     "price": 2799,
      "compareAt": 4698,
-     "pricePerKg": 2960,
+     "pricePerKg": 2799,
      "available": true,
      "url": "https://rippedupnutrition.com/products/protein-coffee?variant=39519835717772"
     },
     {
      "label": "Caramel / 500gm",
      "kg": 0.5,
-     "price": 1527,
+     "price": 1399,
      "compareAt": 2349,
-     "pricePerKg": 3054,
+     "pricePerKg": 2798,
      "available": true,
      "url": "https://rippedupnutrition.com/products/protein-coffee?variant=28898658648112"
     },
     {
      "label": "Caramel / 1 Kg (500g*2)",
      "kg": 1,
-     "price": 2960,
+     "price": 2799,
      "compareAt": 4698,
-     "pricePerKg": 2960,
+     "pricePerKg": 2799,
      "available": true,
      "url": "https://rippedupnutrition.com/products/protein-coffee?variant=39519835619468"
     },
     {
      "label": "Hazelnut / 500gm",
      "kg": 0.5,
-     "price": 1527,
+     "price": 1399,
      "compareAt": 2349,
-     "pricePerKg": 3054,
+     "pricePerKg": 2798,
      "available": true,
      "url": "https://rippedupnutrition.com/products/protein-coffee?variant=28898658680880"
     },
     {
      "label": "Hazelnut / 1 Kg (500g*2)",
      "kg": 1,
-     "price": 2960,
+     "price": 2799,
      "compareAt": 4698,
-     "pricePerKg": 2960,
+     "pricePerKg": 2799,
      "available": true,
      "url": "https://rippedupnutrition.com/products/protein-coffee?variant=39519835652236"
     },
     {
      "label": "Regular / 500gm",
      "kg": 0.5,
-     "price": 1527,
+     "price": 1399,
      "compareAt": 2349,
-     "pricePerKg": 3054,
+     "pricePerKg": 2798,
      "available": true,
      "url": "https://rippedupnutrition.com/products/protein-coffee?variant=28898658615344"
     },
     {
      "label": "Regular / 1 Kg (500g*2)",
      "kg": 1,
-     "price": 2960,
+     "price": 2799,
      "compareAt": 4698,
-     "pricePerKg": 2960,
+     "pricePerKg": 2799,
      "available": true,
      "url": "https://rippedupnutrition.com/products/protein-coffee?variant=39519835488396"
     }
@@ -14266,54 +14284,54 @@
     {
      "label": "Original / 500gm",
      "kg": 0.5,
-     "price": 584,
+     "price": 549,
      "compareAt": 899,
-     "pricePerKg": 1168,
+     "pricePerKg": 1098,
      "available": true,
      "url": "https://rippedupnutrition.com/products/protein-pancake-mix-1kg?variant=34427108884620"
     },
     {
      "label": "Original / 1Kg",
      "kg": 1,
-     "price": 1133,
+     "price": 1099,
      "compareAt": 1798,
-     "pricePerKg": 1133,
+     "pricePerKg": 1099,
      "available": true,
      "url": "https://rippedupnutrition.com/products/protein-pancake-mix-1kg?variant=34427108950156"
     },
     {
      "label": "Original / 250gm",
      "kg": 0.25,
-     "price": 389,
+     "price": 349,
      "compareAt": 599,
-     "pricePerKg": 1556,
+     "pricePerKg": 1396,
      "available": false,
      "url": "https://rippedupnutrition.com/products/protein-pancake-mix-1kg?variant=34427108819084"
     },
     {
      "label": "Double Chocolate / 500gm",
      "kg": 0.5,
-     "price": 584,
+     "price": 549,
      "compareAt": 899,
-     "pricePerKg": 1168,
+     "pricePerKg": 1098,
      "available": true,
      "url": "https://rippedupnutrition.com/products/protein-pancake-mix-1kg?variant=34427108917388"
     },
     {
      "label": "Double Chocolate / 1Kg",
      "kg": 1,
-     "price": 1133,
+     "price": 1099,
      "compareAt": 1798,
-     "pricePerKg": 1133,
+     "pricePerKg": 1099,
      "available": true,
      "url": "https://rippedupnutrition.com/products/protein-pancake-mix-1kg?variant=34427108982924"
     },
     {
      "label": "Double Chocolate / 250gm",
      "kg": 0.25,
-     "price": 389,
+     "price": 349,
      "compareAt": 599,
-     "pricePerKg": 1556,
+     "pricePerKg": 1396,
      "available": false,
      "url": "https://rippedupnutrition.com/products/protein-pancake-mix-1kg?variant=34427108851852"
     }
@@ -14334,36 +14352,36 @@
     {
      "label": "Double Chocolate / 500gm",
      "kg": 0.5,
-     "price": 844,
+     "price": 799,
      "compareAt": 1299,
-     "pricePerKg": 1688,
+     "pricePerKg": 1598,
      "available": true,
      "url": "https://rippedupnutrition.com/products/protein-oats-1kg?variant=28898869477424"
     },
     {
      "label": "Double Chocolate / 1 KG",
      "kg": 1,
-     "price": 1385,
+     "price": 1299,
      "compareAt": 2199,
-     "pricePerKg": 1385,
+     "pricePerKg": 1299,
      "available": true,
      "url": "https://rippedupnutrition.com/products/protein-oats-1kg?variant=22918982860848"
     },
     {
      "label": "Banana Bonanza / 500gm",
      "kg": 0.5,
-     "price": 844,
+     "price": 799,
      "compareAt": 1299,
-     "pricePerKg": 1688,
+     "pricePerKg": 1598,
      "available": false,
      "url": "https://rippedupnutrition.com/products/protein-oats-1kg?variant=30284439093388"
     },
     {
      "label": "Banana Bonanza / 1 KG",
      "kg": 1,
-     "price": 1385,
+     "price": 1299,
      "compareAt": 2199,
-     "pricePerKg": 1385,
+     "pricePerKg": 1299,
      "available": false,
      "url": "https://rippedupnutrition.com/products/protein-oats-1kg?variant=30284456427660"
     }

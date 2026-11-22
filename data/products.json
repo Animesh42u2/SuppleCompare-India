@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "products": [
   {
    "id": "optimum-nutrition__optimum-nutrition-opti-lock-shaker-600-ml-copy",
@@ -4545,7 +4545,7 @@
      "price": 2399,
      "compareAt": 2999,
      "pricePerKg": 2399,
-     "available": false,
+     "available": true,
      "url": "https://beastlife.in/products/performance-protein-birthday-cake-flavour-1kg?variant=48453869207769"
     }
    ]

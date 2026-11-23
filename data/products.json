@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "products": [
   {
    "id": "optimum-nutrition__optimum-nutrition-opti-lock-shaker-600-ml-copy",
@@ -433,7 +433,7 @@
      "price": 3689,
      "compareAt": 3689,
      "pricePerKg": 7378,
-     "available": true,
+     "available": false,
      "url": "https://www.optimumnutrition.co.in/products/isopure-zero-carb-protein-500g-1-1lb-unflavoured?variant=47722414440674"
     }
    ]
@@ -1742,7 +1742,7 @@
      "label": "0.907 kg",
      "kg": 0.907,
      "price": 5079,
-     "compareAt": 5079,
+     "compareAt": 6319,
      "pricePerKg": 5600,
      "available": true,
      "url": "https://www.optimumnutrition.co.in/products/gold-standard-100-whey-protein-powder-double-rich-chocolate-1118949?variant=46426692288738"
@@ -4545,7 +4545,7 @@
      "price": 2399,
      "compareAt": 2999,
      "pricePerKg": 2399,
-     "available": true,
+     "available": false,
      "url": "https://beastlife.in/products/performance-protein-birthday-cake-flavour-1kg?variant=48453869207769"
     }
    ]
@@ -5488,7 +5488,7 @@
      "price": 1199,
      "compareAt": 1999,
      "pricePerKg": 2398,
-     "available": true,
+     "available": false,
      "url": "https://beastlife.in/products/litchi-creatine-monohydrate-500g?variant=47711881330905"
     }
    ]
@@ -7696,7 +7696,7 @@
      "price": 4999,
      "compareAt": 5999,
      "pricePerKg": 5410,
-     "available": false,
+     "available": true,
      "url": "https://beastlife.in/products/pro-concentrate-whey-protein-strawberry-924g?variant=46655940788441"
     }
    ]
@@ -12414,7 +12414,7 @@
      "price": 1099,
      "compareAt": 1799,
      "pricePerKg": 10990,
-     "available": true,
+     "available": false,
      "url": "https://rippedupnutrition.com/products/k2-d3-k2-55-mcg-d3-1500-iu?variant=39508030193804"
     }
    ]

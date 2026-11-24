@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "products": [
   {
    "id": "optimum-nutrition__optimum-nutrition-opti-lock-shaker-600-ml-copy",
@@ -4177,7 +4177,7 @@
      "price": 1199,
      "compareAt": 1999,
      "pricePerKg": 3931,
-     "available": false,
+     "available": true,
      "url": "https://beastlife.in/products/creatine-nano-400-shikanji-305-gm?variant=48574718804185"
     }
    ]
@@ -4703,9 +4703,9 @@
     {
      "label": "1 kg",
      "kg": 1,
-     "price": 2299,
+     "price": 2999,
      "compareAt": 3599,
-     "pricePerKg": 2299,
+     "pricePerKg": 2999,
      "available": true,
      "url": "https://beastlife.in/products/performance-whey-protein-blend-chocolate-1kg?variant=48324490920153"
     }
@@ -6707,7 +6707,7 @@
      "price": 925,
      "compareAt": 1156,
      "pricePerKg": null,
-     "available": true,
+     "available": false,
      "url": "https://beastlife.in/products/liposomal-vitamin-d3-capsules-60n?variant=46746711785689"
     }
    ]
@@ -6845,7 +6845,7 @@
      "price": 640,
      "compareAt": 800,
      "pricePerKg": null,
-     "available": true,
+     "available": false,
      "url": "https://beastlife.in/products/garcislim-capsules-60n?variant=46746207256793"
     }
    ]
@@ -6914,7 +6914,7 @@
      "price": 622,
      "compareAt": 622,
      "pricePerKg": null,
-     "available": true,
+     "available": false,
      "url": "https://beastlife.in/products/korean-red-ginseng-capsules-30n?variant=46746158530777"
     }
    ]
@@ -10561,7 +10561,7 @@
      "price": 1299,
      "compareAt": 1859,
      "pricePerKg": 12990,
-     "available": true,
+     "available": false,
      "url": "https://rippedupnutrition.com/products/nvrold-discipline-oversized-tee?variant=50299218886796"
     },
     {
@@ -11118,7 +11118,7 @@
      "price": 799,
      "compareAt": 1149,
      "pricePerKg": 7990,
-     "available": true,
+     "available": false,
      "url": "https://rippedupnutrition.com/products/nvrold-classic-rib-tank?variant=62682402685068"
     },
     {
@@ -11163,7 +11163,7 @@
      "price": 799,
      "compareAt": 1149,
      "pricePerKg": 7990,
-     "available": true,
+     "available": false,
      "url": "https://rippedupnutrition.com/products/nvrold-classic-rib-tank?variant=62682402816140"
     },
     {
@@ -13958,38 +13958,6 @@
    ]
   },
   {
-   "id": "ripped-up__mass-gainer",
-   "slug": "ripped-up-mass-gainer",
-   "store": "ripped-up",
-   "storeName": "Ripped Up Nutrition",
-   "brand": "Ripped Up Nutrition",
-   "brandSlug": "ripped-up-nutrition",
-   "title": "Mass Gainer",
-   "category": "mass-gainer",
-   "image": "https://cdn.shopify.com/s/files/1/2857/5536/files/mass-gainer-8655817.webp?v=1792656719",
-   "url": "https://rippedupnutrition.com/products/mass-gainer",
-   "variants": [
-    {
-     "label": "Swiss Chocolate / 2.7 Kg (6 lbs)",
-     "kg": 2.7,
-     "price": 2449,
-     "compareAt": 4099,
-     "pricePerKg": 907,
-     "available": false,
-     "url": "https://rippedupnutrition.com/products/mass-gainer?variant=39519836635276"
-    },
-    {
-     "label": "Swiss Chocolate / 1 Kg (2.2 lbs)",
-     "kg": 1,
-     "price": 1149,
-     "compareAt": 1899,
-     "pricePerKg": 1149,
-     "available": false,
-     "url": "https://rippedupnutrition.com/products/mass-gainer?variant=31088667754636"
-    }
-   ]
-  },
-  {
    "id": "ripped-up__whey-protein-isolate-core-series",
    "slug": "ripped-up-whey-protein-isolate-core-series",
    "store": "ripped-up",
@@ -14034,7 +14002,7 @@
      "price": 8999,
      "compareAt": 14999,
      "pricePerKg": 4972,
-     "available": false,
+     "available": true,
      "url": "https://rippedupnutrition.com/products/whey-protein-isolate-core-series?variant=63545007636620"
     },
     {

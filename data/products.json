@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "products": [
   {
    "id": "optimum-nutrition__optimum-nutrition-opti-lock-shaker-600-ml-copy",
@@ -2018,7 +2018,7 @@
      "label": "0.907 kg",
      "kg": 0.907,
      "price": 5449,
-     "compareAt": 5768,
+     "compareAt": 7008,
      "pricePerKg": 6006,
      "available": true,
      "url": "https://www.optimumnutrition.co.in/products/wgs-2-lbs-drc-creatine-100-g?variant=46859387633890"
@@ -4177,7 +4177,7 @@
      "price": 1199,
      "compareAt": 1999,
      "pricePerKg": 3931,
-     "available": true,
+     "available": false,
      "url": "https://beastlife.in/products/creatine-nano-400-shikanji-305-gm?variant=48574718804185"
     }
    ]
@@ -13128,9 +13128,9 @@
     {
      "label": "Chocolate Milkshake / 3.62Kg (8lbs)",
      "kg": 3.62,
-     "price": 14199,
+     "price": 14149,
      "compareAt": 22998,
-     "pricePerKg": 3922,
+     "pricePerKg": 3909,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40600926912652"
     },
@@ -13173,9 +13173,9 @@
     {
      "label": "Coconut Ice Cream / 3.62Kg (8lbs)",
      "kg": 3.62,
-     "price": 14199,
+     "price": 14149,
      "compareAt": 22998,
-     "pricePerKg": 3922,
+     "pricePerKg": 3909,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40884092895372"
     },
@@ -13200,18 +13200,18 @@
     {
      "label": "Pistachio Ice Cream / 3.62Kg (8lbs)",
      "kg": 3.62,
-     "price": 14199,
+     "price": 14149,
      "compareAt": 22998,
-     "pricePerKg": 3922,
+     "pricePerKg": 3909,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40884092928140"
     },
     {
      "label": "Cookies & Cream / 3.62Kg (8lbs)",
      "kg": 3.62,
-     "price": 14199,
+     "price": 14149,
      "compareAt": 22998,
-     "pricePerKg": 3922,
+     "pricePerKg": 3909,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=61668014784652"
     }
@@ -13746,9 +13746,9 @@
     {
      "label": "Pistachio Ice-Cream / 907 g (2 lbs)",
      "kg": 0.907,
-     "price": 4199,
+     "price": 4149,
      "compareAt": 6499,
-     "pricePerKg": 4630,
+     "pricePerKg": 4574,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43357981376652"
     },
@@ -13764,9 +13764,9 @@
     {
      "label": "Tiramisu / 907 g (2 lbs)",
      "kg": 0.907,
-     "price": 4199,
+     "price": 4149,
      "compareAt": 6499,
-     "pricePerKg": 4630,
+     "pricePerKg": 4574,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43482695434380"
     },
@@ -13782,9 +13782,9 @@
     {
      "label": "Rich Chocolate / 907 g (2 lbs)",
      "kg": 0.907,
-     "price": 4199,
+     "price": 4149,
      "compareAt": 6499,
-     "pricePerKg": 4630,
+     "pricePerKg": 4574,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43357981474956"
     },
@@ -13800,9 +13800,9 @@
     {
      "label": "Mango Ice Cream / 907 g (2 lbs)",
      "kg": 0.907,
-     "price": 4199,
+     "price": 4149,
      "compareAt": 6499,
-     "pricePerKg": 4630,
+     "pricePerKg": 4574,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43357981409420"
     },
@@ -13818,9 +13818,9 @@
     {
      "label": "Kesar Thandai / 907 g (2 lbs)",
      "kg": 0.907,
-     "price": 4199,
+     "price": 4149,
      "compareAt": 6499,
-     "pricePerKg": 4630,
+     "pricePerKg": 4574,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43357981442188"
     },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "products": [
   {
    "id": "optimum-nutrition__optimum-nutrition-opti-lock-shaker-600-ml-copy",
@@ -2730,9 +2730,9 @@
     {
      "label": "4 kg",
      "kg": 4,
-     "price": 2999,
+     "price": 3200,
      "compareAt": 6999,
-     "pricePerKg": 750,
+     "pricePerKg": 800,
      "available": true,
      "url": "https://beastlife.in/products/anabolic-mass-gainer-belgian-chocolate-4kg-with-creatine-monohydrate-unflavoured-50g?variant=50890871636185"
     }
@@ -4697,7 +4697,7 @@
    "brandSlug": "beastlife",
    "title": "Performance Yeast Whey Protein Blend | Chocolate | 1kg",
    "category": "whey-protein",
-   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/1_1_ca42d68e-d561-494c-8190-032c6d576d80.png?v=1788516427",
+   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/splash_76289a7b-0df8-4b5f-9bcb-e1f80783b02d.png?v=1795673956",
    "url": "https://beastlife.in/products/performance-whey-protein-blend-chocolate-1kg",
    "variants": [
     {
@@ -5258,7 +5258,7 @@
      "price": 1698,
      "compareAt": 1999,
      "pricePerKg": 3396,
-     "available": false,
+     "available": true,
      "url": "https://beastlife.in/products/creatine-monohydrate-litchi-500g-plastic-shaker-red?variant=47770969571545"
     }
    ]
@@ -5488,7 +5488,7 @@
      "price": 1199,
      "compareAt": 1999,
      "pricePerKg": 2398,
-     "available": false,
+     "available": true,
      "url": "https://beastlife.in/products/litchi-creatine-monohydrate-500g?variant=47711881330905"
     }
    ]
@@ -9234,7 +9234,7 @@
      "price": 5999,
      "compareAt": 5999,
      "pricePerKg": 6492,
-     "available": false,
+     "available": true,
      "url": "https://beastlife.in/products/beastlife-pro-whey-protein-unflavoured?variant=46188162908377"
     }
    ]
@@ -12978,27 +12978,27 @@
     {
      "label": "Pistachio Ice Cream / 1.81 KG (52 Servings)",
      "kg": 1.81,
-     "price": 8799,
+     "price": 8299,
      "compareAt": 13499,
-     "pricePerKg": 4861,
+     "pricePerKg": 4585,
      "available": true,
      "url": "https://rippedupnutrition.com/products/shredz-gold?variant=41529335939212"
     },
     {
      "label": "Choco Brownie / 1.81 KG (52 Servings)",
      "kg": 1.81,
-     "price": 8799,
+     "price": 8299,
      "compareAt": 13499,
-     "pricePerKg": 4861,
+     "pricePerKg": 4585,
      "available": true,
      "url": "https://rippedupnutrition.com/products/shredz-gold?variant=41529335971980"
     },
     {
      "label": "Coconut Delight / 1.81 KG (52 Servings)",
      "kg": 1.81,
-     "price": 8799,
+     "price": 8299,
      "compareAt": 13499,
-     "pricePerKg": 4861,
+     "pricePerKg": 4585,
      "available": true,
      "url": "https://rippedupnutrition.com/products/shredz-gold?variant=41529336004748"
     }
@@ -13110,108 +13110,108 @@
     {
      "label": "Chocolate Milkshake / 1.8kg (4lbs)",
      "kg": 1.8,
-     "price": 7299,
+     "price": 6899,
      "compareAt": 11499,
-     "pricePerKg": 4055,
+     "pricePerKg": 3833,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40584464105612"
     },
     {
      "label": "Chocolate Milkshake / 907gm (2lbs)",
      "kg": 0.907,
-     "price": 3899,
+     "price": 3699,
      "compareAt": 5999,
-     "pricePerKg": 4299,
+     "pricePerKg": 4078,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40584464040076"
     },
     {
      "label": "Chocolate Milkshake / 3.62Kg (8lbs)",
      "kg": 3.62,
-     "price": 14149,
+     "price": 13349,
      "compareAt": 22998,
-     "pricePerKg": 3909,
+     "pricePerKg": 3688,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40600926912652"
     },
     {
      "label": "Cookies & Cream / 1.8kg (4lbs)",
      "kg": 1.8,
-     "price": 7299,
+     "price": 6899,
      "compareAt": 11499,
-     "pricePerKg": 4055,
+     "pricePerKg": 3833,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40584464138380"
     },
     {
      "label": "Cookies & Cream / 907gm (2lbs)",
      "kg": 0.907,
-     "price": 3899,
+     "price": 3699,
      "compareAt": 5999,
-     "pricePerKg": 4299,
+     "pricePerKg": 4078,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40584464072844"
     },
     {
      "label": "Coconut Ice Cream / 1.8kg (4lbs)",
      "kg": 1.8,
-     "price": 7299,
+     "price": 6899,
      "compareAt": 11499,
-     "pricePerKg": 4055,
+     "pricePerKg": 3833,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40884092829836"
     },
     {
      "label": "Coconut Ice Cream / 907gm (2lbs)",
      "kg": 0.907,
-     "price": 3899,
+     "price": 3699,
      "compareAt": 5999,
-     "pricePerKg": 4299,
+     "pricePerKg": 4078,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40884092764300"
     },
     {
      "label": "Coconut Ice Cream / 3.62Kg (8lbs)",
      "kg": 3.62,
-     "price": 14149,
+     "price": 13349,
      "compareAt": 22998,
-     "pricePerKg": 3909,
+     "pricePerKg": 3688,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40884092895372"
     },
     {
      "label": "Pistachio Ice Cream / 1.8kg (4lbs)",
      "kg": 1.8,
-     "price": 7299,
+     "price": 6899,
      "compareAt": 11499,
-     "pricePerKg": 4055,
+     "pricePerKg": 3833,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40884092862604"
     },
     {
      "label": "Pistachio Ice Cream / 907gm (2lbs)",
      "kg": 0.907,
-     "price": 3899,
+     "price": 3699,
      "compareAt": 5999,
-     "pricePerKg": 4299,
+     "pricePerKg": 4078,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40884092797068"
     },
     {
      "label": "Pistachio Ice Cream / 3.62Kg (8lbs)",
      "kg": 3.62,
-     "price": 14149,
+     "price": 13349,
      "compareAt": 22998,
-     "pricePerKg": 3909,
+     "pricePerKg": 3688,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=40884092928140"
     },
     {
      "label": "Cookies & Cream / 3.62Kg (8lbs)",
      "kg": 3.62,
-     "price": 14149,
+     "price": 13349,
      "compareAt": 22998,
-     "pricePerKg": 3909,
+     "pricePerKg": 3688,
      "available": true,
      "url": "https://rippedupnutrition.com/products/muscle-whey?variant=61668014784652"
     }
@@ -13573,27 +13573,27 @@
     {
      "label": "Pistachio Ice Cream / 1.81 KG (4lbs)",
      "kg": 1.81,
-     "price": 8349,
+     "price": 7849,
      "compareAt": 13499,
-     "pricePerKg": 4613,
+     "pricePerKg": 4336,
      "available": true,
      "url": "https://rippedupnutrition.com/products/premium-nitro-whey?variant=40137996304524"
     },
     {
      "label": "Coconut Ice cream / 1.81 KG (4lbs)",
      "kg": 1.81,
-     "price": 8349,
+     "price": 7849,
      "compareAt": 13499,
-     "pricePerKg": 4613,
+     "pricePerKg": 4336,
      "available": true,
      "url": "https://rippedupnutrition.com/products/premium-nitro-whey?variant=41536549159052"
     },
     {
      "label": "Chocolate Milk Shake / 1.81 KG (4lbs)",
      "kg": 1.81,
-     "price": 8349,
+     "price": 7849,
      "compareAt": 13499,
-     "pricePerKg": 4613,
+     "pricePerKg": 4336,
      "available": true,
      "url": "https://rippedupnutrition.com/products/premium-nitro-whey?variant=39264651739276"
     }
@@ -13737,135 +13737,135 @@
     {
      "label": "Pistachio Ice-Cream / 1.8 Kg (4 lbs)",
      "kg": 1.8,
-     "price": 7999,
+     "price": 7499,
      "compareAt": 12499,
-     "pricePerKg": 4444,
+     "pricePerKg": 4166,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43357982621836"
     },
     {
      "label": "Pistachio Ice-Cream / 907 g (2 lbs)",
      "kg": 0.907,
-     "price": 4149,
+     "price": 3949,
      "compareAt": 6499,
-     "pricePerKg": 4574,
+     "pricePerKg": 4354,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43357981376652"
     },
     {
      "label": "Tiramisu / 1.8 Kg (4 lbs)",
      "kg": 1.8,
-     "price": 7999,
+     "price": 7499,
      "compareAt": 12499,
-     "pricePerKg": 4444,
+     "pricePerKg": 4166,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43482695401612"
     },
     {
      "label": "Tiramisu / 907 g (2 lbs)",
      "kg": 0.907,
-     "price": 4149,
+     "price": 3949,
      "compareAt": 6499,
-     "pricePerKg": 4574,
+     "pricePerKg": 4354,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43482695434380"
     },
     {
      "label": "Rich Chocolate / 1.8 Kg (4 lbs)",
      "kg": 1.8,
-     "price": 7999,
+     "price": 7499,
      "compareAt": 12499,
-     "pricePerKg": 4444,
+     "pricePerKg": 4166,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43357982752908"
     },
     {
      "label": "Rich Chocolate / 907 g (2 lbs)",
      "kg": 0.907,
-     "price": 4149,
+     "price": 3949,
      "compareAt": 6499,
-     "pricePerKg": 4574,
+     "pricePerKg": 4354,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43357981474956"
     },
     {
      "label": "Mango Ice Cream / 1.8 Kg (4 lbs)",
      "kg": 1.8,
-     "price": 7999,
+     "price": 7499,
      "compareAt": 12499,
-     "pricePerKg": 4444,
+     "pricePerKg": 4166,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43357982654604"
     },
     {
      "label": "Mango Ice Cream / 907 g (2 lbs)",
      "kg": 0.907,
-     "price": 4149,
+     "price": 3949,
      "compareAt": 6499,
-     "pricePerKg": 4574,
+     "pricePerKg": 4354,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43357981409420"
     },
     {
      "label": "Kesar Thandai / 1.8 Kg (4 lbs)",
      "kg": 1.8,
-     "price": 7999,
+     "price": 7499,
      "compareAt": 12499,
-     "pricePerKg": 4444,
+     "pricePerKg": 4166,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43357982687372"
     },
     {
      "label": "Kesar Thandai / 907 g (2 lbs)",
      "kg": 0.907,
-     "price": 4149,
+     "price": 3949,
      "compareAt": 6499,
-     "pricePerKg": 4574,
+     "pricePerKg": 4354,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=43357981442188"
     },
     {
      "label": "Tiramisu / 3.6 KG (8lbs)",
      "kg": 3.6,
-     "price": 15449,
+     "price": 14549,
      "compareAt": 24998,
-     "pricePerKg": 4291,
+     "pricePerKg": 4041,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=61667747627148"
     },
     {
      "label": "Mango Ice Cream / 3.6 KG (8lbs)",
      "kg": 3.6,
-     "price": 15449,
+     "price": 14549,
      "compareAt": 24998,
-     "pricePerKg": 4291,
+     "pricePerKg": 4041,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=61667748216972"
     },
     {
      "label": "Kesar Thandai / 3.6 KG (8lbs)",
      "kg": 3.6,
-     "price": 15449,
+     "price": 14549,
      "compareAt": 24998,
-     "pricePerKg": 4291,
+     "pricePerKg": 4041,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=61667748446348"
     },
     {
      "label": "Pistachio Ice-Cream / 3.6 KG (8lbs)",
      "kg": 3.6,
-     "price": 15449,
+     "price": 14549,
      "compareAt": 24998,
-     "pricePerKg": 4291,
+     "pricePerKg": 4041,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=61667749560460"
     },
     {
      "label": "Rich Chocolate / 3.6 KG (8lbs)",
      "kg": 3.6,
-     "price": 15449,
+     "price": 14549,
      "compareAt": 24998,
-     "pricePerKg": 4291,
+     "pricePerKg": 4041,
      "available": true,
      "url": "https://rippedupnutrition.com/products/whey-pro?variant=61667749986444"
     }

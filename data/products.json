@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "products": [
+  {
+   "id": "optimum-nutrition__optimum-nutrition-gym-bag",
+   "slug": "optimum-nutrition-optimum-nutrition-gym-bag",
+   "store": "optimum-nutrition",
+   "storeName": "Optimum Nutrition India",
+   "brand": "Optimum Nutrition",
+   "brandSlug": "optimum-nutrition",
+   "title": "Optimum Nutrition Gym Bag",
+   "category": "other",
+   "image": "https://cdn.shopify.com/s/files/1/0738/8649/9042/files/bagshootcopy_4_jpg.jpg?v=1773312383",
+   "url": "https://www.optimumnutrition.co.in/products/optimum-nutrition-gym-bag",
+   "variants": [
+    {
+     "label": "Standard",
+     "kg": null,
+     "price": 2000,
+     "compareAt": null,
+     "pricePerKg": null,
+     "available": true,
+     "url": "https://www.optimumnutrition.co.in/products/optimum-nutrition-gym-bag?variant=47538489655522"
+    }
+   ]
+  },
   {
    "id": "optimum-nutrition__optimum-nutrition-opti-lock-shaker-600-ml-copy",
    "slug": "optimum-nutrition-optimum-nutrition-opti-lock-shaker-600-ml-copy",
@@ -433,7 +456,7 @@
      "price": 3689,
      "compareAt": 3689,
      "pricePerKg": 7378,
-     "available": false,
+     "available": true,
      "url": "https://www.optimumnutrition.co.in/products/isopure-zero-carb-protein-500g-1-1lb-unflavoured?variant=47722414440674"
     }
    ]
@@ -2624,6 +2647,167 @@
    ]
   },
   {
+   "id": "beastlife__pro-concentrate-whey-protein-with-ultrasorb-tech-malai-kulfi-500g",
+   "slug": "beastlife-pro-concentrate-whey-protein-with-ultrasorb-tech-malai-kulfi-500g",
+   "store": "beastlife",
+   "storeName": "Beastlife",
+   "brand": "Beastlife",
+   "brandSlug": "beastlife",
+   "title": "Pro Concentrate Whey Protein with Ultrasorb Tech | Malai Kulfi | 500g",
+   "category": "whey-protein",
+   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/5_03f06082-b7dd-4a2e-b583-da974e552204.png?v=1795691175",
+   "url": "https://beastlife.in/products/pro-concentrate-whey-protein-with-ultrasorb-tech-malai-kulfi-500g",
+   "variants": [
+    {
+     "label": "0.5 kg",
+     "kg": 0.5,
+     "price": 2999,
+     "compareAt": 5999,
+     "pricePerKg": 5998,
+     "available": true,
+     "url": "https://beastlife.in/products/pro-concentrate-whey-protein-with-ultrasorb-tech-malai-kulfi-500g?variant=51887696969945"
+    }
+   ]
+  },
+  {
+   "id": "beastlife__pro-concentrate-whey-protein-with-ultrasorb-tech-strawberry-500g",
+   "slug": "beastlife-pro-concentrate-whey-protein-with-ultrasorb-tech-strawberry-500g",
+   "store": "beastlife",
+   "storeName": "Beastlife",
+   "brand": "Beastlife",
+   "brandSlug": "beastlife",
+   "title": "Pro Concentrate Whey Protein with Ultrasorb Tech | Strawberry | 500g",
+   "category": "whey-protein",
+   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/5_188116a8-6271-441b-9552-a08f33a4a732.png?v=1795691972",
+   "url": "https://beastlife.in/products/pro-concentrate-whey-protein-with-ultrasorb-tech-strawberry-500g",
+   "variants": [
+    {
+     "label": "0.5 kg",
+     "kg": 0.5,
+     "price": 2999,
+     "compareAt": 5999,
+     "pricePerKg": 5998,
+     "available": true,
+     "url": "https://beastlife.in/products/pro-concentrate-whey-protein-with-ultrasorb-tech-strawberry-500g?variant=51887808217305"
+    }
+   ]
+  },
+  {
+   "id": "beastlife__pro-concentrate-whey-protein-with-ultrasorb-tech-rich-chocolate-500g",
+   "slug": "beastlife-pro-concentrate-whey-protein-with-ultrasorb-tech-rich-chocolate-500g",
+   "store": "beastlife",
+   "storeName": "Beastlife",
+   "brand": "Beastlife",
+   "brandSlug": "beastlife",
+   "title": "Pro Concentrate Whey Protein with Ultrasorb Tech | Rich Chocolate | 500g",
+   "category": "whey-protein",
+   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/5_3bd765f1-eaf0-4372-9fec-e7bd19aed285.png?v=1795690283",
+   "url": "https://beastlife.in/products/pro-concentrate-whey-protein-with-ultrasorb-tech-rich-chocolate-500g",
+   "variants": [
+    {
+     "label": "0.5 kg",
+     "kg": 0.5,
+     "price": 2999,
+     "compareAt": 5999,
+     "pricePerKg": 5998,
+     "available": true,
+     "url": "https://beastlife.in/products/pro-concentrate-whey-protein-with-ultrasorb-tech-rich-chocolate-500g?variant=51887552889049"
+    }
+   ]
+  },
+  {
+   "id": "beastlife__beastlife-skipping-rope-copy",
+   "slug": "beastlife-beastlife-skipping-rope-copy",
+   "store": "beastlife",
+   "storeName": "Beastlife",
+   "brand": "BeastLife",
+   "brandSlug": "beastlife",
+   "title": "BeastLife Skipping Rope - Gift",
+   "category": "other",
+   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/THUMB_fc26e67d-2866-402d-a0d3-2a57f059ba17.png?v=1795433473",
+   "url": "https://beastlife.in/products/beastlife-skipping-rope-copy",
+   "variants": [
+    {
+     "label": "Standard",
+     "kg": null,
+     "price": 299,
+     "compareAt": 299,
+     "pricePerKg": null,
+     "available": true,
+     "url": "https://beastlife.in/products/beastlife-skipping-rope-copy?variant=51893248327897"
+    }
+   ]
+  },
+  {
+   "id": "beastlife__beastlife-microfiber-gym-towel-copy",
+   "slug": "beastlife-beastlife-microfiber-gym-towel-copy",
+   "store": "beastlife",
+   "storeName": "Beastlife",
+   "brand": "BeastLife",
+   "brandSlug": "beastlife",
+   "title": "BeastLife Microfiber Gym Towel - Gift",
+   "category": "other",
+   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/Thumbcopy_4a5c0feb-ff2a-4353-98b8-6d869f83000b.png?v=1795434779",
+   "url": "https://beastlife.in/products/beastlife-microfiber-gym-towel-copy",
+   "variants": [
+    {
+     "label": "Standard",
+     "kg": null,
+     "price": 499,
+     "compareAt": 499,
+     "pricePerKg": null,
+     "available": true,
+     "url": "https://beastlife.in/products/beastlife-microfiber-gym-towel-copy?variant=51893245018329"
+    }
+   ]
+  },
+  {
+   "id": "beastlife__beastlife-skipping-rope",
+   "slug": "beastlife-beastlife-skipping-rope",
+   "store": "beastlife",
+   "storeName": "Beastlife",
+   "brand": "BeastLife",
+   "brandSlug": "beastlife",
+   "title": "BeastLife Skipping Rope",
+   "category": "other",
+   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/THUMB_fc26e67d-2866-402d-a0d3-2a57f059ba17.png?v=1795433473",
+   "url": "https://beastlife.in/products/beastlife-skipping-rope",
+   "variants": [
+    {
+     "label": "Standard",
+     "kg": null,
+     "price": 299,
+     "compareAt": 299,
+     "pricePerKg": null,
+     "available": true,
+     "url": "https://beastlife.in/products/beastlife-skipping-rope?variant=51796897235161"
+    }
+   ]
+  },
+  {
+   "id": "beastlife__beastlife-microfiber-gym-towel",
+   "slug": "beastlife-beastlife-microfiber-gym-towel",
+   "store": "beastlife",
+   "storeName": "Beastlife",
+   "brand": "BeastLife",
+   "brandSlug": "beastlife",
+   "title": "BeastLife Microfiber Gym Towel",
+   "category": "other",
+   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/Thumbcopy_4a5c0feb-ff2a-4353-98b8-6d869f83000b.png?v=1795434779",
+   "url": "https://beastlife.in/products/beastlife-microfiber-gym-towel",
+   "variants": [
+    {
+     "label": "Standard",
+     "kg": null,
+     "price": 499,
+     "compareAt": 499,
+     "pricePerKg": null,
+     "available": true,
+     "url": "https://beastlife.in/products/beastlife-microfiber-gym-towel?variant=51796916928729"
+    }
+   ]
+  },
+  {
    "id": "beastlife__beastlife-gym-towel-gift",
    "slug": "beastlife-beastlife-gym-towel-gift",
    "store": "beastlife",
@@ -2638,7 +2822,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 299,
+     "price": 283,
      "compareAt": 299,
      "pricePerKg": null,
      "available": true,
@@ -2661,7 +2845,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 289,
+     "price": 283,
      "compareAt": 299,
      "pricePerKg": null,
      "available": true,
@@ -2684,9 +2868,9 @@
     {
      "label": "1 kg",
      "kg": 1,
-     "price": 2799,
+     "price": 2599,
      "compareAt": 4498,
-     "pricePerKg": 2799,
+     "pricePerKg": 2599,
      "available": true,
      "url": "https://beastlife.in/products/combo-pack-performance-fermented-yeast-protein-with-ultrasorb-tech-cold-coffee-1-kg-pre-workout-fruit-punch-210-g?variant=51611531116761"
     }
@@ -2707,9 +2891,9 @@
     {
      "label": "1 kg",
      "kg": 1,
-     "price": 2799,
+     "price": 2599,
      "compareAt": 4498,
-     "pricePerKg": 2799,
+     "pricePerKg": 2599,
      "available": true,
      "url": "https://beastlife.in/products/combo-pack-performance-fermented-yeast-protein-with-ultrasorb-tech-chocolate-fruit-punch-210-g?variant=51611531935961"
     }
@@ -2753,9 +2937,9 @@
     {
      "label": "1 kg",
      "kg": 1,
-     "price": 2399,
+     "price": 1799,
      "compareAt": 2999,
-     "pricePerKg": 2399,
+     "pricePerKg": 1799,
      "available": false,
      "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-vanilla-1-kg?variant=49042037702873"
     }
@@ -2776,9 +2960,9 @@
     {
      "label": "0.5 kg",
      "kg": 0.5,
-     "price": 2599,
+     "price": 1999,
      "compareAt": 2999,
-     "pricePerKg": 5198,
+     "pricePerKg": 3998,
      "available": true,
      "url": "https://beastlife.in/products/pre-digested-hydrolyzed-pea-protein-lemon-lime-flavour-500g?variant=50513688625369"
     }
@@ -2799,9 +2983,9 @@
     {
      "label": "0.5 kg",
      "kg": 0.5,
-     "price": 2599,
+     "price": 1999,
      "compareAt": 2999,
-     "pricePerKg": 5198,
+     "pricePerKg": 3998,
      "available": true,
      "url": "https://beastlife.in/products/pre-digested-hydrolyzed-pea-protein-mango-flavour-500g?variant=50513694064857"
     }
@@ -2822,9 +3006,9 @@
     {
      "label": "2 kg",
      "kg": 2,
-     "price": 4499,
+     "price": 3199,
      "compareAt": 5799,
-     "pricePerKg": 2250,
+     "pricePerKg": 1600,
      "available": true,
      "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-mango-2-kg?variant=50525649961177"
     }
@@ -2845,9 +3029,9 @@
     {
      "label": "0.21 kg",
      "kg": 0.21,
-     "price": 899,
+     "price": 799,
      "compareAt": 1499,
-     "pricePerKg": 4281,
+     "pricePerKg": 3805,
      "available": true,
      "url": "https://beastlife.in/products/pre-workout-fruit-punch-210g?variant=49183584223449"
     }
@@ -2891,9 +3075,9 @@
     {
      "label": "5 kg",
      "kg": 5,
-     "price": 4799,
+     "price": 3999,
      "compareAt": 8499,
-     "pricePerKg": 960,
+     "pricePerKg": 800,
      "available": true,
      "url": "https://beastlife.in/products/anabolic-mass-gainer-with-ultrasorb-tech-no-maltodextrin-cookies-cream-5-kg?variant=48787427197145"
     }
@@ -2914,9 +3098,9 @@
     {
      "label": "2.5 kg",
      "kg": 2.5,
-     "price": 1999,
+     "price": 1899,
      "compareAt": 4399,
-     "pricePerKg": 800,
+     "pricePerKg": 760,
      "available": true,
      "url": "https://beastlife.in/products/anabolic-mass-gainer-with-ultrasorb-tech-no-maltodextrin-butterscotch-2-5kg?variant=48787420446937"
     }
@@ -2960,7 +3144,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 799,
+     "price": 921,
      "compareAt": 999,
      "pricePerKg": null,
      "available": true,
@@ -2983,9 +3167,9 @@
     {
      "label": "0.1 kg",
      "kg": 0.1,
-     "price": 1098,
+     "price": 999,
      "compareAt": 1698,
-     "pricePerKg": 10980,
+     "pricePerKg": 9990,
      "available": true,
      "url": "https://beastlife.in/products/combo-pack-creatine-nano-400-unflavoured-100-g-preworkout-fruit-punch-105-g?variant=49256506327257"
     }
@@ -3006,9 +3190,9 @@
     {
      "label": "0.105 kg",
      "kg": 0.105,
-     "price": 1049,
+     "price": 999,
      "compareAt": 2053,
-     "pricePerKg": 9990,
+     "pricePerKg": 9514,
      "available": true,
      "url": "https://beastlife.in/products/pre-workout-fruit-punch-105g-creatine-monohydrate-shikanji-125g-shaker-neon-500ml?variant=49084684402905"
     }
@@ -3052,9 +3236,9 @@
     {
      "label": "2 kg",
      "kg": 2,
-     "price": 4699,
+     "price": 3748,
      "compareAt": 7132,
-     "pricePerKg": 2350,
+     "pricePerKg": 1874,
      "available": true,
      "url": "https://beastlife.in/products/performance-protein-cold-coffee-2kg-creatine-monohydrate-unflavoured-249g?variant=49016736121049"
     }
@@ -3075,9 +3259,9 @@
     {
      "label": "0.105 kg",
      "kg": 0.105,
-     "price": 849,
+     "price": 699,
      "compareAt": 1548,
-     "pricePerKg": 8086,
+     "pricePerKg": 6657,
      "available": true,
      "url": "https://beastlife.in/products/pre-workout-fruit-punch-105g-creatine-monohydrate-unflavoured-100g?variant=49028120871129"
     }
@@ -3098,9 +3282,9 @@
     {
      "label": "0.105 kg",
      "kg": 0.105,
-     "price": 749,
+     "price": 699,
      "compareAt": 1298,
-     "pricePerKg": 7133,
+     "pricePerKg": 6657,
      "available": true,
      "url": "https://beastlife.in/products/pre-workout-fruit-punch-105g-neon-shaker-450ml?variant=49028120707289"
     }
@@ -3121,9 +3305,9 @@
     {
      "label": "0.105 kg",
      "kg": 0.105,
-     "price": 899,
+     "price": 799,
      "compareAt": 1648,
-     "pricePerKg": 8562,
+     "pricePerKg": 7610,
      "available": true,
      "url": "https://beastlife.in/products/pre-workout-fruit-punch-105g-creatine-monohydrate-shikanji-125g?variant=49028118020313"
     }
@@ -3167,7 +3351,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 2499,
+     "price": 1999,
      "compareAt": 2499,
      "pricePerKg": null,
      "available": true,
@@ -3213,7 +3397,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 799,
+     "price": 599,
      "compareAt": 799,
      "pricePerKg": null,
      "available": true,
@@ -3236,7 +3420,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 249,
+     "price": 236,
      "compareAt": 249,
      "pricePerKg": null,
      "available": true,
@@ -3282,9 +3466,9 @@
     {
      "label": "2.5 kg",
      "kg": 2.5,
-     "price": 1999,
+     "price": 1899,
      "compareAt": 3914,
-     "pricePerKg": 800,
+     "pricePerKg": 760,
      "available": true,
      "url": "https://beastlife.in/products/anabolic-mass-gainer-with-ultrasorb-tech-no-maltodextrin-cookies-cream-2-5kg?variant=48787427164377"
     }
@@ -3305,9 +3489,9 @@
     {
      "label": "1 kg",
      "kg": 1,
-     "price": 1199,
+     "price": 999,
      "compareAt": 1778,
-     "pricePerKg": 1199,
+     "pricePerKg": 999,
      "available": true,
      "url": "https://beastlife.in/products/anabolic-mass-gainer-with-ultrasorb-tech-no-maltodextrin-cookies-cream-1-kg?variant=48787427131609"
     }
@@ -3328,9 +3512,9 @@
     {
      "label": "0.031 kg",
      "kg": 0.031,
-     "price": 159,
+     "price": 150,
      "compareAt": 159,
-     "pricePerKg": 5064,
+     "pricePerKg": 4777,
      "available": false,
      "url": "https://beastlife.in/products/pro-whey-protein-travel-pack-sachet-mango-31-4-g-30-days-self-life?variant=48791969562841"
     }
@@ -3351,34 +3535,11 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1199,
+     "price": 549,
      "compareAt": 1199,
      "pricePerKg": null,
      "available": false,
      "url": "https://beastlife.in/products/expires-in-30-days?variant=48789570486489"
-    }
-   ]
-  },
-  {
-   "id": "beastlife__pro-concentrate-whey-protein-rich-chocolate-300g",
-   "slug": "beastlife-pro-concentrate-whey-protein-rich-chocolate-300g",
-   "store": "beastlife",
-   "storeName": "Beastlife",
-   "brand": "Beastlife",
-   "brandSlug": "beastlife",
-   "title": "Pro Concentrate Whey Protein with Ultrasorb Tech | Rich Chocolate | 300 g",
-   "category": "whey-protein",
-   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/Artboard1_1_dcc82714-df85-49de-8194-d5c9d8930bc4.png?v=1780642033",
-   "url": "https://beastlife.in/products/pro-concentrate-whey-protein-rich-chocolate-300g",
-   "variants": [
-    {
-     "label": "0.3 kg",
-     "kg": 0.3,
-     "price": 1299,
-     "compareAt": 1799,
-     "pricePerKg": 4330,
-     "available": false,
-     "url": "https://beastlife.in/products/pro-concentrate-whey-protein-rich-chocolate-300g?variant=48782807761113"
     }
    ]
   },
@@ -3397,7 +3558,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 799,
+     "price": 758,
      "compareAt": 799,
      "pricePerKg": null,
      "available": true,
@@ -3420,9 +3581,9 @@
     {
      "label": "6 kg",
      "kg": 6,
-     "price": 10999,
+     "price": 7999,
      "compareAt": 14999,
-     "pricePerKg": 1833,
+     "pricePerKg": 1333,
      "available": true,
      "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-chocolate-6-kg?variant=48484456497369"
     }
@@ -3446,7 +3607,7 @@
      "price": 799,
      "compareAt": 999,
      "pricePerKg": null,
-     "available": false,
+     "available": true,
      "url": "https://beastlife.in/products/knee-support-pair?variant=48732745171161"
     },
     {
@@ -3455,7 +3616,7 @@
      "price": 799,
      "compareAt": 999,
      "pricePerKg": null,
-     "available": false,
+     "available": true,
      "url": "https://beastlife.in/products/knee-support-pair?variant=48732745203929"
     },
     {
@@ -3484,7 +3645,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1577,
+     "price": 1883,
      "compareAt": 2043,
      "pricePerKg": null,
      "available": false,
@@ -3507,9 +3668,9 @@
     {
      "label": "6 kg",
      "kg": 6,
-     "price": 10999,
+     "price": 7999,
      "compareAt": 15999,
-     "pricePerKg": 1833,
+     "pricePerKg": 1333,
      "available": true,
      "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-cold-coffee-6-kg?variant=48484456464601"
     }
@@ -3553,9 +3714,9 @@
     {
      "label": "2.5 kg",
      "kg": 2.5,
-     "price": 1999,
+     "price": 1899,
      "compareAt": 3499,
-     "pricePerKg": 800,
+     "pricePerKg": 760,
      "available": true,
      "url": "https://beastlife.in/products/anabolic-mass-gainer-with-ultrasorb-tech-no-maltodextrin-malai-kulfi-2-5-kg?variant=48494774649049"
     }
@@ -3576,7 +3737,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 2499,
+     "price": 1999,
      "compareAt": 2499,
      "pricePerKg": null,
      "available": true,
@@ -3599,9 +3760,9 @@
     {
      "label": "0.115 kg",
      "kg": 0.115,
-     "price": 1124,
+     "price": 1348,
      "compareAt": 1698,
-     "pricePerKg": 9774,
+     "pricePerKg": 11722,
      "available": false,
      "url": "https://beastlife.in/products/creatine-nano-400-shikanji-115g-preworkout-sex-on-the-beach-105g?variant=48588483756249"
     }
@@ -3622,9 +3783,9 @@
     {
      "label": "0.305 kg",
      "kg": 0.305,
-     "price": 3198,
+     "price": 3898,
      "compareAt": 5913,
-     "pricePerKg": 10485,
+     "pricePerKg": 12780,
      "available": false,
      "url": "https://beastlife.in/products/creatine-nano-400-shikanji-305g-anabolic-mass-gainer-2-5kg-belgian-chocolate?variant=48588475498713"
     }
@@ -3645,9 +3806,9 @@
     {
      "label": "0.25 kg",
      "kg": 0.25,
-     "price": 3198,
+     "price": 3898,
      "compareAt": 5913,
-     "pricePerKg": 12792,
+     "pricePerKg": 15592,
      "available": false,
      "url": "https://beastlife.in/products/creatine-nano-400-unflavoured-250g-anabolic-mass-gainer-2-5kg-belgian-chocolate?variant=48588467372249"
     }
@@ -3668,9 +3829,9 @@
     {
      "label": "0.115 kg",
      "kg": 0.115,
-     "price": 1598,
+     "price": 1898,
      "compareAt": 2678,
-     "pricePerKg": 13896,
+     "pricePerKg": 16504,
      "available": false,
      "url": "https://beastlife.in/products/creatine-nano-400-shikanji-115g-anabolic-mass-gainer-1kg-belgian-chocolate?variant=48588458459353"
     }
@@ -3691,9 +3852,9 @@
     {
      "label": "0.1 kg",
      "kg": 0.1,
-     "price": 1598,
+     "price": 1898,
      "compareAt": 2678,
-     "pricePerKg": 15980,
+     "pricePerKg": 18980,
      "available": true,
      "url": "https://beastlife.in/products/creatine-nano-400-unflavoured-100g-anabolic-mass-gainer-1kg-belgian-chocolate?variant=48588454199513"
     }
@@ -3714,9 +3875,9 @@
     {
      "label": "0.305 kg",
      "kg": 0.305,
-     "price": 4899,
+     "price": 5198,
      "compareAt": 7798,
-     "pricePerKg": 16062,
+     "pricePerKg": 17043,
      "available": false,
      "url": "https://beastlife.in/products/creatine-nano-400-shikanji-305-g-performance-protein-2kg-cold-coffee?variant=48588443549913"
     }
@@ -3737,9 +3898,9 @@
     {
      "label": "0.25 kg",
      "kg": 0.25,
-     "price": 4899,
+     "price": 5198,
      "compareAt": 7798,
-     "pricePerKg": 19596,
+     "pricePerKg": 20792,
      "available": false,
      "url": "https://beastlife.in/products/creatine-nano-400-unflavoured-250g-performance-protein-2kg-cold-coffee?variant=48588439224537"
     }
@@ -3760,9 +3921,9 @@
     {
      "label": "0.115 kg",
      "kg": 0.115,
-     "price": 2799,
+     "price": 2698,
      "compareAt": 3898,
-     "pricePerKg": 24339,
+     "pricePerKg": 23461,
      "available": false,
      "url": "https://beastlife.in/products/creatine-nano-400-shikanji-115g-performance-protein-1kg-cold-coffee?variant=48588431196377"
     }
@@ -3783,9 +3944,9 @@
     {
      "label": "0.1 kg",
      "kg": 0.1,
-     "price": 2799,
+     "price": 2698,
      "compareAt": 3898,
-     "pricePerKg": 27990,
+     "pricePerKg": 26980,
      "available": true,
      "url": "https://beastlife.in/products/creatine-nano-400-unflavoured-100g-performance-protein-1kg-cold-coffee?variant=48588425429209"
     }
@@ -3806,9 +3967,9 @@
     {
      "label": "0.305 kg",
      "kg": 0.305,
-     "price": 4899,
+     "price": 5198,
      "compareAt": 7198,
-     "pricePerKg": 16062,
+     "pricePerKg": 17043,
      "available": false,
      "url": "https://beastlife.in/products/creatine-nano-400-shikanji-305-g-performance-protein-2kg-chocolate?variant=48588420874457"
     }
@@ -3829,9 +3990,9 @@
     {
      "label": "0.25 kg",
      "kg": 0.25,
-     "price": 4899,
+     "price": 5198,
      "compareAt": 7198,
-     "pricePerKg": 19596,
+     "pricePerKg": 20792,
      "available": false,
      "url": "https://beastlife.in/products/creatine-nano-400-unflavoured-250g-performance-protein-2kg-chocolate?variant=48588415631577"
     }
@@ -3852,9 +4013,9 @@
     {
      "label": "0.115 kg",
      "kg": 0.115,
-     "price": 2799,
+     "price": 2698,
      "compareAt": 3568,
-     "pricePerKg": 24339,
+     "pricePerKg": 23461,
      "available": false,
      "url": "https://beastlife.in/products/creatine-nano-400-shikanji-115g-performance-protein-1kg-chocolate?variant=48588411240665"
     }
@@ -3875,9 +4036,9 @@
     {
      "label": "0.1 kg",
      "kg": 0.1,
-     "price": 2799,
+     "price": 2698,
      "compareAt": 3568,
-     "pricePerKg": 27990,
+     "pricePerKg": 26980,
      "available": true,
      "url": "https://beastlife.in/products/creatine-nano-400-unflavoured-100g-performance-protein-1kg-chocolate?variant=48588407308505"
     }
@@ -3898,9 +4059,9 @@
     {
      "label": "0.115 kg",
      "kg": 0.115,
-     "price": 6399,
+     "price": 5398,
      "compareAt": 8898,
-     "pricePerKg": 55643,
+     "pricePerKg": 46939,
      "available": false,
      "url": "https://beastlife.in/products/creatine-nano-400-shikanji-115g-isorich-blend-whey-protein-924g-rich-double-chocolate?variant=48588403867865"
     }
@@ -3921,9 +4082,9 @@
     {
      "label": "0.305 kg",
      "kg": 0.305,
-     "price": 11399,
+     "price": 9998,
      "compareAt": 17997,
-     "pricePerKg": 37374,
+     "pricePerKg": 32780,
      "available": false,
      "url": "https://beastlife.in/products/creatine-nano-400-shikanji-305-g-isorich-blend-whey-protein-1-848kg-rich-double-chocolate?variant=48588399837401"
     }
@@ -3944,9 +4105,9 @@
     {
      "label": "0.115 kg",
      "kg": 0.115,
-     "price": 5399,
+     "price": 4398,
      "compareAt": 6898,
-     "pricePerKg": 46948,
+     "pricePerKg": 38243,
      "available": false,
      "url": "https://beastlife.in/products/creatine-nano-400-shikanji-115g-pro-conc-whey-protein-924g-rich-chocolate?variant=48588395839705"
     }
@@ -3967,9 +4128,9 @@
     {
      "label": "0.305 kg",
      "kg": 0.305,
-     "price": 10399,
+     "price": 8298,
      "compareAt": 13997,
-     "pricePerKg": 34095,
+     "pricePerKg": 27207,
      "available": false,
      "url": "https://beastlife.in/products/creatine-nano-400-shikanji-305-g-pro-concentrate-whey-protein-1-848kg-rich-chocolate?variant=48588393152729"
     }
@@ -3990,9 +4151,9 @@
     {
      "label": "0.115 kg",
      "kg": 0.115,
-     "price": 1098,
+     "price": 1348,
      "compareAt": 1698,
-     "pricePerKg": 9548,
+     "pricePerKg": 11722,
      "available": false,
      "url": "https://beastlife.in/products/creatine-nano-400-tropical-tango-115g-preworkout-fruit-punch-105g?variant=48585495412953"
     }
@@ -4013,9 +4174,9 @@
     {
      "label": "0.1 kg",
      "kg": 0.1,
-     "price": 6399,
+     "price": 5398,
      "compareAt": 8898,
-     "pricePerKg": 63990,
+     "pricePerKg": 53980,
      "available": true,
      "url": "https://beastlife.in/products/creatine-nano-400-unflavoured-100g-isorich-blend-whey-protein-924g-rich-double-chocolate?variant=48585491153113"
     }
@@ -4036,9 +4197,9 @@
     {
      "label": "0.1 kg",
      "kg": 0.1,
-     "price": 5399,
+     "price": 4398,
      "compareAt": 6898,
-     "pricePerKg": 53990,
+     "pricePerKg": 43980,
      "available": true,
      "url": "https://beastlife.in/products/creatine-nano-400-unflavoured-100g-pro-concentrate-whey-protein-924g-rich-chocolate?variant=48585490432217"
     }
@@ -4059,9 +4220,9 @@
     {
      "label": "0.25 kg",
      "kg": 0.25,
-     "price": 10399,
+     "price": 8298,
      "compareAt": 13997,
-     "pricePerKg": 41596,
+     "pricePerKg": 33192,
      "available": false,
      "url": "https://beastlife.in/products/creatine-nano-400-unflavoured-250g-pro-concentrate-whey-protein-1-848kg-rich-chocolate?variant=48585489907929"
     }
@@ -4105,9 +4266,9 @@
     {
      "label": "0.305 kg",
      "kg": 0.305,
-     "price": 3597,
+     "price": 4597,
      "compareAt": 5997,
-     "pricePerKg": 11793,
+     "pricePerKg": 15072,
      "available": false,
      "url": "https://beastlife.in/products/creatine-nano-400-shikanji-305g-creatine-nano-400-tropical-tango-305g-creatine-nano-400-blueberry-305g?variant=48575785861337"
     }
@@ -4151,9 +4312,9 @@
     {
      "label": "0.305 kg",
      "kg": 0.305,
-     "price": 1199,
+     "price": 599,
      "compareAt": 1999,
-     "pricePerKg": 3931,
+     "pricePerKg": 1964,
      "available": false,
      "url": "https://beastlife.in/products/creatine-nano-400-blueberry-305-gm?variant=48574718869721"
     }
@@ -4312,9 +4473,9 @@
     {
      "label": "0.1 kg",
      "kg": 0.1,
-     "price": 699,
+     "price": 599,
      "compareAt": 899,
-     "pricePerKg": 6990,
+     "pricePerKg": 5990,
      "available": true,
      "url": "https://beastlife.in/products/creatine-nano-400-100-gm?variant=48574494736601"
     }
@@ -4335,7 +4496,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1299,
+     "price": 1750,
      "compareAt": 1899,
      "pricePerKg": null,
      "available": true,
@@ -4358,7 +4519,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1299,
+     "price": 1750,
      "compareAt": 1899,
      "pricePerKg": null,
      "available": true,
@@ -4404,9 +4565,9 @@
     {
      "label": "0.105 kg",
      "kg": 0.105,
-     "price": 525,
+     "price": 449,
      "compareAt": 799,
-     "pricePerKg": 5000,
+     "pricePerKg": 4276,
      "available": true,
      "url": "https://beastlife.in/products/pre-workout-sex-on-the-beach-105g?variant=47752630501593"
     }
@@ -4427,9 +4588,9 @@
     {
      "label": "3.696 kg",
      "kg": 3.696,
-     "price": 20999,
+     "price": 14999,
      "compareAt": 31996,
-     "pricePerKg": 5682,
+     "pricePerKg": 4058,
      "available": true,
      "url": "https://beastlife.in/products/isorich-blend-whey-protein-with-ultrasorb-tech-3696g?variant=46654013538521"
     }
@@ -4450,10 +4611,10 @@
     {
      "label": "1.848 kg",
      "kg": 1.848,
-     "price": 9999,
+     "price": 6299,
      "compareAt": 11998,
-     "pricePerKg": 5411,
-     "available": false,
+     "pricePerKg": 3409,
+     "available": true,
      "url": "https://beastlife.in/products/beast-life-pro-concentrate-whey-protein-with-ultrasorb-tech-1848gm-rich-chocolate?variant=45671655440601"
     }
    ]
@@ -4490,15 +4651,15 @@
    "brandSlug": "beastlife",
    "title": "Performance Fermented Yeast Protein with Ultrasorb Tech | Rasmalai | 1 kg",
    "category": "other",
-   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/Splash_aa453af2-abd6-4a30-bba2-0ac2f22e3fbd.png?v=1794823026",
+   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/Splash_dbaefec2-6526-47bb-ad27-efd41cbc55d1.png?v=1795695829",
    "url": "https://beastlife.in/products/performance-protein-rasmalai-flavour-1kg",
    "variants": [
     {
      "label": "1 kg",
      "kg": 1,
-     "price": 2399,
+     "price": 1799,
      "compareAt": 2999,
-     "pricePerKg": 2399,
+     "pricePerKg": 1799,
      "available": true,
      "url": "https://beastlife.in/products/performance-protein-rasmalai-flavour-1kg?variant=48453870485721"
     }
@@ -4513,15 +4674,15 @@
    "brandSlug": "beastlife",
    "title": "Performance Fermented Yeast Protein with Ultrasorb Tech | Chocolate Mocha | 1kg",
    "category": "other",
-   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/Splash_5073b15c-c358-4e4f-9300-11e1ae81d95a.png?v=1794822073",
+   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/Splash_240e3716-6d18-424c-9bd3-4a368beccff4.png?v=1795692731",
    "url": "https://beastlife.in/products/performance-protein-chocolate-mocha-flavour-1kg",
    "variants": [
     {
      "label": "1 kg",
      "kg": 1,
-     "price": 2399,
+     "price": 1799,
      "compareAt": 2999,
-     "pricePerKg": 2399,
+     "pricePerKg": 1799,
      "available": true,
      "url": "https://beastlife.in/products/performance-protein-chocolate-mocha-flavour-1kg?variant=48453869600985"
     }
@@ -4536,15 +4697,15 @@
    "brandSlug": "beastlife",
    "title": "Performance Fermented Yeast Protein with Ultrasorb Tech | Birthday Cake | 1 kg",
    "category": "other",
-   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/Flavor_Splash.png?v=1794822008",
+   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/FlavorSplash.png?v=1795692467",
    "url": "https://beastlife.in/products/performance-protein-birthday-cake-flavour-1kg",
    "variants": [
     {
      "label": "1 kg",
      "kg": 1,
-     "price": 2399,
+     "price": 1799,
      "compareAt": 2999,
-     "pricePerKg": 2399,
+     "pricePerKg": 1799,
      "available": false,
      "url": "https://beastlife.in/products/performance-protein-birthday-cake-flavour-1kg?variant=48453869207769"
     }
@@ -4565,9 +4726,9 @@
     {
      "label": "0.05 kg",
      "kg": 0.05,
-     "price": 799,
+     "price": 1045,
      "compareAt": 2543,
-     "pricePerKg": 15980,
+     "pricePerKg": 20900,
      "available": true,
      "url": "https://beastlife.in/products/creatine-combo-6-sachets-50g-each-500ml-shaker?variant=48394315497689"
     }
@@ -4588,9 +4749,9 @@
     {
      "label": "0.05 kg",
      "kg": 0.05,
-     "price": 799,
+     "price": 995,
      "compareAt": 2044,
-     "pricePerKg": 15980,
+     "pricePerKg": 19900,
      "available": true,
      "url": "https://beastlife.in/products/creatine-combo-6-sachets-50g-each?variant=48394307502297"
     }
@@ -4611,9 +4772,9 @@
     {
      "label": "2.5 kg",
      "kg": 2.5,
-     "price": 1999,
+     "price": 1899,
      "compareAt": 3914,
-     "pricePerKg": 800,
+     "pricePerKg": 760,
      "available": true,
      "url": "https://beastlife.in/products/anabolic-mass-gainer-2-5kg?variant=46124557074649"
     }
@@ -4634,7 +4795,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 9998,
+     "price": 7796,
      "compareAt": 13330,
      "pricePerKg": null,
      "available": true,
@@ -4657,9 +4818,9 @@
     {
      "label": "2 kg",
      "kg": 2,
-     "price": 4499,
+     "price": 3199,
      "compareAt": 5799,
-     "pricePerKg": 2250,
+     "pricePerKg": 1600,
      "available": true,
      "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-2kg-cold-coffee?variant=47658022764761"
     }
@@ -4680,9 +4841,9 @@
     {
      "label": "4 kg",
      "kg": 4,
-     "price": 8099,
+     "price": 5999,
      "compareAt": 11399,
-     "pricePerKg": 2025,
+     "pricePerKg": 1500,
      "available": true,
      "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-4kg-mango?variant=47598688174297"
     }
@@ -4703,9 +4864,9 @@
     {
      "label": "1 kg",
      "kg": 1,
-     "price": 2999,
+     "price": 1999,
      "compareAt": 3599,
-     "pricePerKg": 2999,
+     "pricePerKg": 1999,
      "available": true,
      "url": "https://beastlife.in/products/performance-whey-protein-blend-chocolate-1kg?variant=48324490920153"
     }
@@ -4726,7 +4887,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 400,
+     "price": 599,
      "compareAt": 649,
      "pricePerKg": null,
      "available": true,
@@ -4749,7 +4910,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 640,
+     "price": 884,
      "compareAt": 960,
      "pricePerKg": null,
      "available": true,
@@ -4772,7 +4933,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1200,
+     "price": 1354,
      "compareAt": 1469,
      "pricePerKg": null,
      "available": true,
@@ -4795,7 +4956,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 498,
+     "price": 736,
      "compareAt": 799,
      "pricePerKg": null,
      "available": true,
@@ -4818,7 +4979,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 996,
+     "price": 1473,
      "compareAt": 1598,
      "pricePerKg": null,
      "available": true,
@@ -4841,7 +5002,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1494,
+     "price": 2209,
      "compareAt": 2397,
      "pricePerKg": null,
      "available": true,
@@ -4864,9 +5025,9 @@
     {
      "label": "0.319 kg",
      "kg": 0.319,
-     "price": 699,
+     "price": 599,
      "compareAt": 1422,
-     "pricePerKg": 2191,
+     "pricePerKg": 1878,
      "available": true,
      "url": "https://beastlife.in/products/litchi-creatine-monohydrate-319g?variant=48216190124249"
     }
@@ -4881,15 +5042,15 @@
    "brandSlug": "beastlife",
    "title": "Performance Fermented Yeast Protein with Ultrasorb Tech | Thandai | 1 kg",
    "category": "other",
-   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/Splash_fedd99f9-5c6d-4d4b-9e87-cbea6148f834.png?v=1794823634",
+   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/Splash_4897bd74-07c3-4359-aca5-40c13fd1c949.png?v=1795696007",
    "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-1kg-thandai",
    "variants": [
     {
      "label": "1 kg",
      "kg": 1,
-     "price": 2399,
+     "price": 1799,
      "compareAt": 2999,
-     "pricePerKg": 2399,
+     "pricePerKg": 1799,
      "available": true,
      "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-1kg-thandai?variant=48018312757465"
     }
@@ -4910,7 +5071,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 2599,
+     "price": 2447,
      "compareAt": 3834,
      "pricePerKg": null,
      "available": true,
@@ -4933,7 +5094,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 2499,
+     "price": 2198,
      "compareAt": 3335,
      "pricePerKg": null,
      "available": true,
@@ -4956,7 +5117,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 2499,
+     "price": 2048,
      "compareAt": 3168,
      "pricePerKg": null,
      "available": true,
@@ -4979,9 +5140,9 @@
     {
      "label": "0.033 kg",
      "kg": 0.033,
-     "price": 159,
+     "price": 150,
      "compareAt": 159,
-     "pricePerKg": 4818,
+     "pricePerKg": 4545,
      "available": false,
      "url": "https://beastlife.in/products/pro-concentrate-whey-protein-rich-chocolate-sachet-35g-copy?variant=48003408986329"
     }
@@ -5002,9 +5163,9 @@
     {
      "label": "0.035 kg",
      "kg": 0.035,
-     "price": 159,
+     "price": 150,
      "compareAt": 159,
-     "pricePerKg": 4543,
+     "pricePerKg": 4286,
      "available": false,
      "url": "https://beastlife.in/products/pro-concentrate-whey-protein-rich-chocolate-sachet-35g?variant=47827509903577"
     }
@@ -5025,9 +5186,9 @@
     {
      "label": "0.031 kg",
      "kg": 0.031,
-     "price": 159,
+     "price": 150,
      "compareAt": 159,
-     "pricePerKg": 5064,
+     "pricePerKg": 4777,
      "available": false,
      "url": "https://beastlife.in/products/pro-whey-protein-mango-travel-pack-sachet?variant=47824999055577"
     }
@@ -5048,9 +5209,9 @@
     {
      "label": "0.105 kg",
      "kg": 0.105,
-     "price": 525,
+     "price": 449,
      "compareAt": 799,
-     "pricePerKg": 5000,
+     "pricePerKg": 4276,
      "available": true,
      "url": "https://beastlife.in/products/pre-workout-orange-105g?variant=47752630567129"
     }
@@ -5094,7 +5255,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1494,
+     "price": 449,
      "compareAt": 2397,
      "pricePerKg": null,
      "available": false,
@@ -5117,7 +5278,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 996,
+     "price": 449,
      "compareAt": 1598,
      "pricePerKg": null,
      "available": false,
@@ -5140,10 +5301,10 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 498,
+     "price": 736,
      "compareAt": 799,
      "pricePerKg": null,
-     "available": true,
+     "available": false,
      "url": "https://beastlife.in/products/creatine-gummies-lemon-flavor-30-n?variant=47589751619801"
     }
    ]
@@ -5163,9 +5324,9 @@
     {
      "label": "0.5 kg",
      "kg": 0.5,
-     "price": 1698,
+     "price": 1498,
      "compareAt": 1999,
-     "pricePerKg": 3396,
+     "pricePerKg": 2996,
      "available": true,
      "url": "https://beastlife.in/products/creatine-monohydrate-tropical-tango-500g-plastic-shaker-red?variant=47770969735385"
     }
@@ -5186,9 +5347,9 @@
     {
      "label": "0.5 kg",
      "kg": 0.5,
-     "price": 1698,
+     "price": 1498,
      "compareAt": 1999,
-     "pricePerKg": 3396,
+     "pricePerKg": 2996,
      "available": true,
      "url": "https://beastlife.in/products/creatine-monohydrate-watermelon-500g-plastic-shaker-red?variant=47770969702617"
     }
@@ -5209,9 +5370,9 @@
     {
      "label": "0.5 kg",
      "kg": 0.5,
-     "price": 1698,
+     "price": 1498,
      "compareAt": 1999,
-     "pricePerKg": 3396,
+     "pricePerKg": 2996,
      "available": true,
      "url": "https://beastlife.in/products/creatine-monohydrate-shikanji500g-plastic-shaker-red?variant=47770969669849"
     }
@@ -5232,9 +5393,9 @@
     {
      "label": "0.5 kg",
      "kg": 0.5,
-     "price": 1698,
+     "price": 1498,
      "compareAt": 1999,
-     "pricePerKg": 3396,
+     "pricePerKg": 2996,
      "available": true,
      "url": "https://beastlife.in/products/creatine-monohydrate-peach-500g-plastic-shaker-red?variant=47770969637081"
     }
@@ -5255,10 +5416,10 @@
     {
      "label": "0.5 kg",
      "kg": 0.5,
-     "price": 1698,
+     "price": 1498,
      "compareAt": 1999,
-     "pricePerKg": 3396,
-     "available": true,
+     "pricePerKg": 2996,
+     "available": false,
      "url": "https://beastlife.in/products/creatine-monohydrate-litchi-500g-plastic-shaker-red?variant=47770969571545"
     }
    ]
@@ -5278,9 +5439,9 @@
     {
      "label": "0.5 kg",
      "kg": 0.5,
-     "price": 1548,
+     "price": 1498,
      "compareAt": 1799,
-     "pricePerKg": 3096,
+     "pricePerKg": 2996,
      "available": true,
      "url": "https://beastlife.in/products/creatine-monohydrate-unflavoured-500g-plastic-shaker-red?variant=47770969538777"
     }
@@ -5301,7 +5462,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 499,
+     "price": 473,
      "compareAt": 499,
      "pricePerKg": null,
      "available": true,
@@ -5324,9 +5485,9 @@
     {
      "label": "0.105 kg",
      "kg": 0.105,
-     "price": 525,
+     "price": 449,
      "compareAt": 799,
-     "pricePerKg": 5000,
+     "pricePerKg": 4276,
      "available": true,
      "url": "https://beastlife.in/products/pre-workout-shikanji-105g?variant=47752630993113"
     }
@@ -5347,7 +5508,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1107,
+     "price": 2209,
      "compareAt": 2397,
      "pricePerKg": null,
      "available": true,
@@ -5370,7 +5531,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 775,
+     "price": 1473,
      "compareAt": 1598,
      "pricePerKg": null,
      "available": true,
@@ -5393,9 +5554,9 @@
     {
      "label": "0.5 kg",
      "kg": 0.5,
-     "price": 1199,
+     "price": 999,
      "compareAt": 1999,
-     "pricePerKg": 2398,
+     "pricePerKg": 1998,
      "available": true,
      "url": "https://beastlife.in/products/tropical-tango-creatine-monohydrate-500g?variant=47711889260761"
     }
@@ -5416,9 +5577,9 @@
     {
      "label": "0.5 kg",
      "kg": 0.5,
-     "price": 1199,
+     "price": 999,
      "compareAt": 1999,
-     "pricePerKg": 2398,
+     "pricePerKg": 1998,
      "available": true,
      "url": "https://beastlife.in/products/watermelon-creatine-monohydrate-500g?variant=47711885852889"
     }
@@ -5439,9 +5600,9 @@
     {
      "label": "0.5 kg",
      "kg": 0.5,
-     "price": 1199,
+     "price": 999,
      "compareAt": 1999,
-     "pricePerKg": 2398,
+     "pricePerKg": 1998,
      "available": true,
      "url": "https://beastlife.in/products/shikanji-creatine-monohydrate-500g?variant=47711881560281"
     }
@@ -5462,9 +5623,9 @@
     {
      "label": "0.5 kg",
      "kg": 0.5,
-     "price": 1199,
+     "price": 999,
      "compareAt": 1999,
-     "pricePerKg": 2398,
+     "pricePerKg": 1998,
      "available": true,
      "url": "https://beastlife.in/products/peach-creatine-monohydrate-500g?variant=47711881494745"
     }
@@ -5485,10 +5646,10 @@
     {
      "label": "0.5 kg",
      "kg": 0.5,
-     "price": 1199,
+     "price": 999,
      "compareAt": 1999,
-     "pricePerKg": 2398,
-     "available": true,
+     "pricePerKg": 1998,
+     "available": false,
      "url": "https://beastlife.in/products/litchi-creatine-monohydrate-500g?variant=47711881330905"
     }
    ]
@@ -5508,7 +5669,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 498,
+     "price": 736,
      "compareAt": 799,
      "pricePerKg": null,
      "available": true,
@@ -5531,10 +5692,10 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 959,
+     "price": 1473,
      "compareAt": 1599,
      "pricePerKg": null,
-     "available": true,
+     "available": false,
      "url": "https://beastlife.in/products/himalayan-shilajit-capsules-90n?variant=47539903496409"
     }
    ]
@@ -5554,7 +5715,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 2081,
+     "price": 3196,
      "compareAt": 3468,
      "pricePerKg": null,
      "available": true,
@@ -5577,10 +5738,10 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1199,
+     "price": 1841,
      "compareAt": 1998,
      "pricePerKg": null,
-     "available": true,
+     "available": false,
      "url": "https://beastlife.in/products/liposomal-vitamin-d3-capsules-90n?variant=47539903135961"
     }
    ]
@@ -5600,7 +5761,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1120,
+     "price": 1720,
      "compareAt": 1866,
      "pricePerKg": null,
      "available": true,
@@ -5623,7 +5784,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1600,
+     "price": 2458,
      "compareAt": 2667,
      "pricePerKg": null,
      "available": true,
@@ -5646,7 +5807,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 799,
+     "price": 1227,
      "compareAt": 1332,
      "pricePerKg": null,
      "available": false,
@@ -5669,7 +5830,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 959,
+     "price": 1473,
      "compareAt": 1599,
      "pricePerKg": null,
      "available": true,
@@ -5692,7 +5853,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 799,
+     "price": 1227,
      "compareAt": 1332,
      "pricePerKg": null,
      "available": true,
@@ -5715,7 +5876,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1199,
+     "price": 1841,
      "compareAt": 1998,
      "pricePerKg": null,
      "available": true,
@@ -5738,7 +5899,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 720,
+     "price": 1106,
      "compareAt": 1200,
      "pricePerKg": null,
      "available": true,
@@ -5761,7 +5922,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1199,
+     "price": 1841,
      "compareAt": 1998,
      "pricePerKg": null,
      "available": true,
@@ -5784,7 +5945,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 699,
+     "price": 921,
      "compareAt": 999,
      "pricePerKg": null,
      "available": true,
@@ -5807,7 +5968,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 699,
+     "price": 921,
      "compareAt": 999,
      "pricePerKg": null,
      "available": true,
@@ -5830,9 +5991,9 @@
     {
      "label": "4 kg",
      "kg": 4,
-     "price": 8099,
+     "price": 5999,
      "compareAt": 11399,
-     "pricePerKg": 2025,
+     "pricePerKg": 1500,
      "available": true,
      "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-4kg-malai-kulfi?variant=47657982460121"
     }
@@ -5853,9 +6014,9 @@
     {
      "label": "0.5 kg",
      "kg": 0.5,
-     "price": 1049,
+     "price": 999,
      "compareAt": 1799,
-     "pricePerKg": 2098,
+     "pricePerKg": 1998,
      "available": true,
      "url": "https://beastlife.in/products/super-micronized-creatine-monohydrate-500g?variant=47657807970521"
     }
@@ -5876,7 +6037,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 444,
+     "price": 409,
      "compareAt": 444,
      "pricePerKg": null,
      "available": true,
@@ -5899,7 +6060,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 640,
+     "price": 737,
      "compareAt": 800,
      "pricePerKg": null,
      "available": false,
@@ -5916,15 +6077,15 @@
    "brandSlug": "beastlife",
    "title": "Performance Fermented Yeast Protein with Ultrasorb Tech | Cookies & Cream | 4 kg",
    "category": "other",
-   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/magnific_replace-jar-in-img1-with-_ovUXzTy829.png?v=1794786350",
+   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/magnific_replace-jar-in-img1-with-_ovUXzTy829_dd519747-de57-4ad2-9c7e-f7a395e1116b.png?v=1795695285",
    "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-4kg-cookies-cream",
    "variants": [
     {
      "label": "4 kg",
      "kg": 4,
-     "price": 8099,
+     "price": 5999,
      "compareAt": 11399,
-     "pricePerKg": 2025,
+     "pricePerKg": 1500,
      "available": true,
      "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-4kg-cookies-cream?variant=47598687650009"
     }
@@ -5939,15 +6100,15 @@
    "brandSlug": "beastlife",
    "title": "Performance Fermented Yeast Protein with Ultrasorb Tech | Cookies & Cream | 2 kg",
    "category": "other",
-   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/magnific_replace-jar-in-img1-with-_jU0rhkELD0.png?v=1794786034",
+   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/magnific_replace-jar-in-img1-with-_jU0rhkELD0_f8c4f864-17c2-45c3-8321-077ae2b7b453.png?v=1795694948",
    "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-2kg-cookies-cream",
    "variants": [
     {
      "label": "2 kg",
      "kg": 2,
-     "price": 4499,
+     "price": 3199,
      "compareAt": 5799,
-     "pricePerKg": 2250,
+     "pricePerKg": 1600,
      "available": true,
      "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-2kg-cookies-cream?variant=47598687125721"
     }
@@ -5968,9 +6129,9 @@
     {
      "label": "2 kg",
      "kg": 2,
-     "price": 4499,
+     "price": 3199,
      "compareAt": 5799,
-     "pricePerKg": 2250,
+     "pricePerKg": 1600,
      "available": true,
      "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-2kg-malai-kulfi?variant=47598690140377"
     }
@@ -5991,7 +6152,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 885,
+     "price": 1049,
      "compareAt": 1249,
      "pricePerKg": null,
      "available": true,
@@ -6014,9 +6175,9 @@
     {
      "label": "4 kg",
      "kg": 4,
-     "price": 8099,
+     "price": 5999,
      "compareAt": 11399,
-     "pricePerKg": 2025,
+     "pricePerKg": 1500,
      "available": true,
      "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-4kg-cold-coffee?variant=47596130304217"
     }
@@ -6037,9 +6198,9 @@
     {
      "label": "0.163 kg",
      "kg": 0.163,
-     "price": 1199,
+     "price": 525,
      "compareAt": 1199,
-     "pricePerKg": 7338,
+     "pricePerKg": 3213,
      "available": false,
      "url": "https://beastlife.in/products/pro-concentrate-whey-protein-assorted-pack-of-5-163-4g?variant=47541981544665"
     }
@@ -6060,7 +6221,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 599,
+     "price": 249,
      "compareAt": 899,
      "pricePerKg": null,
      "available": true,
@@ -6083,10 +6244,10 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 299,
+     "price": 249,
      "compareAt": 299,
      "pricePerKg": null,
-     "available": true,
+     "available": false,
      "url": "https://beastlife.in/products/🎁-beast-life-gym-towel?variant=47592473821401"
     }
    ]
@@ -6106,9 +6267,9 @@
     {
      "label": "0.165 kg",
      "kg": 0.165,
-     "price": 1199,
+     "price": 525,
      "compareAt": 1199,
-     "pricePerKg": 7267,
+     "pricePerKg": 3182,
      "available": false,
      "url": "https://beastlife.in/products/pro-concentrate-whey-protein-malai-kulfi-pack-of-5-sachets-165g?variant=47541421408473"
     }
@@ -6129,9 +6290,9 @@
     {
      "label": "2 kg",
      "kg": 2,
-     "price": 4798,
+     "price": 3598,
      "compareAt": 5998,
-     "pricePerKg": 2399,
+     "pricePerKg": 1799,
      "available": true,
      "url": "https://beastlife.in/products/performance-protein-2kg-chocolate-value-pack?variant=47469461569753"
     }
@@ -6152,9 +6313,9 @@
     {
      "label": "4 kg",
      "kg": 4,
-     "price": 8099,
+     "price": 5999,
      "compareAt": 10199,
-     "pricePerKg": 2025,
+     "pricePerKg": 1500,
      "available": true,
      "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-4kg-chocolate?variant=47530455892185"
     }
@@ -6175,9 +6336,9 @@
     {
      "label": "2 kg",
      "kg": 2,
-     "price": 4499,
+     "price": 3199,
      "compareAt": 5199,
-     "pricePerKg": 2250,
+     "pricePerKg": 1600,
      "available": true,
      "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-2kg-chocolate?variant=47530449273049"
     }
@@ -6198,9 +6359,9 @@
     {
      "label": "3 kg",
      "kg": 3,
-     "price": 7197,
+     "price": 5397,
      "compareAt": 8007,
-     "pricePerKg": 2399,
+     "pricePerKg": 1799,
      "available": true,
      "url": "https://beastlife.in/products/performance-protein-3kg-chocolate-value-pack?variant=47503841820889"
     }
@@ -6238,15 +6399,15 @@
    "brandSlug": "beastlife",
    "title": "Performance Fermented Yeast Protein with Ultrasorb Tech | Cookies & Cream | 1 kg",
    "category": "other",
-   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/PP_1kg_CC.png?v=1794785811",
+   "image": "https://cdn.shopify.com/s/files/1/0690/7723/7977/files/PP1kgCC.png?v=1795694272",
    "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-1kg-cookies-cream",
    "variants": [
     {
      "label": "1 kg",
      "kg": 1,
-     "price": 2399,
+     "price": 1799,
      "compareAt": 2999,
-     "pricePerKg": 2399,
+     "pricePerKg": 1799,
      "available": true,
      "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-1kg-cookies-cream?variant=47493503320281"
     }
@@ -6267,9 +6428,9 @@
     {
      "label": "1 kg",
      "kg": 1,
-     "price": 2399,
+     "price": 1799,
      "compareAt": 2999,
-     "pricePerKg": 2399,
+     "pricePerKg": 1799,
      "available": true,
      "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-1kg-mango?variant=47493502599385"
     }
@@ -6290,9 +6451,9 @@
     {
      "label": "1 kg",
      "kg": 1,
-     "price": 2399,
+     "price": 1799,
      "compareAt": 2999,
-     "pricePerKg": 2399,
+     "pricePerKg": 1799,
      "available": true,
      "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-1kg-cold-coffee?variant=47493501845721"
     }
@@ -6313,9 +6474,9 @@
     {
      "label": "1 kg",
      "kg": 1,
-     "price": 2399,
+     "price": 1799,
      "compareAt": 2999,
-     "pricePerKg": 2399,
+     "pricePerKg": 1799,
      "available": true,
      "url": "https://beastlife.in/products/performance-fermented-yeast-protein-with-ultrasorb-tech-1kg-malai-kulfi?variant=47493501419737"
     }
@@ -6382,7 +6543,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 849,
+     "price": 1023,
      "compareAt": 1110,
      "pricePerKg": null,
      "available": false,
@@ -6405,9 +6566,9 @@
     {
      "label": "0.02 kg",
      "kg": 0.02,
-     "price": 999,
+     "price": 1381,
      "compareAt": 1499,
-     "pricePerKg": 49950,
+     "pricePerKg": 69050,
      "available": true,
      "url": "https://beastlife.in/products/shilajit-resin-20-g?variant=47382125641945"
     }
@@ -6451,7 +6612,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1046,
+     "price": 999,
      "compareAt": 1407,
      "pricePerKg": null,
      "available": false,
@@ -6612,9 +6773,9 @@
     {
      "label": "3.696 kg",
      "kg": 3.696,
-     "price": 19999,
+     "price": 11299,
      "compareAt": 23996,
-     "pricePerKg": 5411,
+     "pricePerKg": 3057,
      "available": false,
      "url": "https://beastlife.in/products/pro-concentrate-whey-protein-with-ultrasorb-tech-3696gm?variant=47347069190361"
     }
@@ -6635,9 +6796,9 @@
     {
      "label": "3.696 kg",
      "kg": 3.696,
-     "price": 20999,
+     "price": 11299,
      "compareAt": 23996,
-     "pricePerKg": 5682,
+     "pricePerKg": 3057,
      "available": false,
      "url": "https://beastlife.in/products/pro-concentrate-whey-protein-cookies-cream-3696g?variant=47326366499033"
     }
@@ -6658,9 +6819,9 @@
     {
      "label": "1.848 kg",
      "kg": 1.848,
-     "price": 9999,
+     "price": 6299,
      "compareAt": 11998,
-     "pricePerKg": 5411,
+     "pricePerKg": 3409,
      "available": false,
      "url": "https://beastlife.in/products/pro-concentrate-whey-protein-cookies-cream-1848g?variant=47326360600793"
     }
@@ -6681,9 +6842,9 @@
     {
      "label": "2.5 kg",
      "kg": 2.5,
-     "price": 2498,
+     "price": 2298,
      "compareAt": 4580,
-     "pricePerKg": 999,
+     "pricePerKg": 919,
      "available": true,
      "url": "https://beastlife.in/products/anabolic-mass-gainer-2-5kg-belgian-chocolate-creatine-monohydrate-unflavoured-100g?variant=47332513415385"
     }
@@ -6704,7 +6865,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 925,
+     "price": 1065,
      "compareAt": 1156,
      "pricePerKg": null,
      "available": false,
@@ -6727,10 +6888,10 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 666,
+     "price": 614,
      "compareAt": 666,
      "pricePerKg": null,
-     "available": true,
+     "available": false,
      "url": "https://beastlife.in/products/liposomal-vitamin-d3-capsules-30n?variant=46746711589081"
     }
    ]
@@ -6750,7 +6911,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1566,
+     "price": 1803,
      "compareAt": 1957,
      "pricePerKg": null,
      "available": true,
@@ -6773,7 +6934,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1156,
+     "price": 1065,
      "compareAt": 1156,
      "pricePerKg": null,
      "available": true,
@@ -6796,7 +6957,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 782,
+     "price": 902,
      "compareAt": 978,
      "pricePerKg": null,
      "available": true,
@@ -6819,7 +6980,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 622,
+     "price": 573,
      "compareAt": 622,
      "pricePerKg": null,
      "available": true,
@@ -6842,7 +7003,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 640,
+     "price": 737,
      "compareAt": 800,
      "pricePerKg": null,
      "available": false,
@@ -6865,7 +7026,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 925,
+     "price": 1065,
      "compareAt": 1156,
      "pricePerKg": null,
      "available": true,
@@ -6888,7 +7049,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 444,
+     "price": 409,
      "compareAt": 444,
      "pricePerKg": null,
      "available": true,
@@ -6911,7 +7072,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 622,
+     "price": 573,
      "compareAt": 622,
      "pricePerKg": null,
      "available": false,
@@ -6934,9 +7095,9 @@
     {
      "label": "0.105 kg",
      "kg": 0.105,
-     "price": 499,
+     "price": 449,
      "compareAt": 799,
-     "pricePerKg": 4752,
+     "pricePerKg": 4276,
      "available": true,
      "url": "https://beastlife.in/products/beastmode-preworkout-fruit-punch-new-formulation?variant=47246483554521"
     }
@@ -6957,7 +7118,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 569,
+     "price": 656,
      "compareAt": 711,
      "pricePerKg": null,
      "available": true,
@@ -6980,7 +7141,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 400,
+     "price": 369,
      "compareAt": 400,
      "pricePerKg": null,
      "available": true,
@@ -7003,7 +7164,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 996,
+     "price": 1148,
      "compareAt": 1245,
      "pricePerKg": null,
      "available": true,
@@ -7026,7 +7187,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 666,
+     "price": 614,
      "compareAt": 666,
      "pricePerKg": null,
      "available": true,
@@ -7049,9 +7210,9 @@
     {
      "label": "1 kg",
      "kg": 1,
-     "price": 2399,
+     "price": 1799,
      "compareAt": 2669,
-     "pricePerKg": 2399,
+     "pricePerKg": 1799,
      "available": true,
      "url": "https://beastlife.in/products/performance-protein-with-ultrasorb-tech-1-kg-chocolate?variant=46779878146265"
     }
@@ -7072,9 +7233,9 @@
     {
      "label": "0.5 kg",
      "kg": 0.5,
-     "price": 1599,
+     "price": 999,
      "compareAt": 1599,
-     "pricePerKg": 3198,
+     "pricePerKg": 1998,
      "available": true,
      "url": "https://beastlife.in/products/performance-protein-with-ultrasorb-tech-500g-chocolate?variant=46780132589785"
     }
@@ -7095,7 +7256,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 479,
+     "price": 449,
      "compareAt": 499,
      "pricePerKg": null,
      "available": true,
@@ -7118,10 +7279,10 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 299,
+     "price": 249,
      "compareAt": 299,
      "pricePerKg": null,
-     "available": true,
+     "available": false,
      "url": "https://beastlife.in/products/beast-life-gym-towel?variant=46878934925529"
     }
    ]
@@ -7164,9 +7325,9 @@
     {
      "label": "0.454 kg",
      "kg": 0.454,
-     "price": 2999,
+     "price": 1399,
      "compareAt": 2999,
-     "pricePerKg": 6612,
+     "pricePerKg": 3084,
      "available": false,
      "url": "https://beastlife.in/products/pro-concentrate-whey-protein-butterscotch-1lbs?variant=46655979159769"
     }
@@ -7187,10 +7348,10 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1352,
+     "price": 1557,
      "compareAt": 1690,
      "pricePerKg": null,
-     "available": true,
+     "available": false,
      "url": "https://beastlife.in/products/liver-detox-capsules-60n?variant=46746202964185"
     }
    ]
@@ -7210,7 +7371,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 889,
+     "price": 819,
      "compareAt": 889,
      "pricePerKg": null,
      "available": true,
@@ -7233,9 +7394,9 @@
     {
      "label": "0.24 kg",
      "kg": 0.24,
-     "price": 999,
+     "price": 599,
      "compareAt": 1245,
-     "pricePerKg": 4163,
+     "pricePerKg": 2496,
      "available": false,
      "url": "https://beastlife.in/products/bcaa-with-electrolytes-shikanji-240g?variant=46745674940633"
     }
@@ -7256,10 +7417,10 @@
     {
      "label": "0.12 kg",
      "kg": 0.12,
-     "price": 499,
+     "price": 349,
      "compareAt": 755,
-     "pricePerKg": 4158,
-     "available": false,
+     "pricePerKg": 2908,
+     "available": true,
      "url": "https://beastlife.in/products/bcaa-with-electrolytes-shikanji-120g?variant=46745670254809"
     }
    ]
@@ -7279,9 +7440,9 @@
     {
      "label": "0.12 kg",
      "kg": 0.12,
-     "price": 499,
+     "price": 349,
      "compareAt": 755,
-     "pricePerKg": 4158,
+     "pricePerKg": 2908,
      "available": false,
      "url": "https://beastlife.in/products/bcaa-with-electrolytes-pineapple-120g?variant=46745666650329"
     }
@@ -7302,7 +7463,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 711,
+     "price": 819,
      "compareAt": 889,
      "pricePerKg": null,
      "available": true,
@@ -7325,7 +7486,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 533,
+     "price": 491,
      "compareAt": 533,
      "pricePerKg": null,
      "available": true,
@@ -7371,10 +7532,10 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 533,
+     "price": 491,
      "compareAt": 533,
      "pricePerKg": null,
-     "available": true,
+     "available": false,
      "url": "https://beastlife.in/products/himalayan-shilajit-capsules-30n?variant=46745582829785"
     }
    ]
@@ -7394,7 +7555,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 933,
+     "price": 860,
      "compareAt": 933,
      "pricePerKg": null,
      "available": true,
@@ -7417,9 +7578,9 @@
     {
      "label": "1 kg",
      "kg": 1,
-     "price": 1199,
+     "price": 999,
      "compareAt": 1779,
-     "pricePerKg": 1199,
+     "pricePerKg": 999,
      "available": true,
      "url": "https://beastlife.in/products/anabolic-mass-gainer-with-ultrasorb-tech-no-maltodextrin-malai-kulfi-1kg?variant=46745550192857"
     }
@@ -7440,9 +7601,9 @@
     {
      "label": "0.24 kg",
      "kg": 0.24,
-     "price": 999,
+     "price": 599,
      "compareAt": 1245,
-     "pricePerKg": 4163,
+     "pricePerKg": 2496,
      "available": false,
      "url": "https://beastlife.in/products/bcaa-with-electrolytes-cola-240g?variant=46745567035609"
     }
@@ -7463,9 +7624,9 @@
     {
      "label": "0.12 kg",
      "kg": 0.12,
-     "price": 499,
+     "price": 349,
      "compareAt": 755,
-     "pricePerKg": 4158,
+     "pricePerKg": 2908,
      "available": false,
      "url": "https://beastlife.in/products/bcaa-with-electrolytes-cola-120g?variant=46745566806233"
     }
@@ -7486,9 +7647,9 @@
     {
      "label": "0.24 kg",
      "kg": 0.24,
-     "price": 999,
+     "price": 599,
      "compareAt": 1245,
-     "pricePerKg": 4163,
+     "pricePerKg": 2496,
      "available": false,
      "url": "https://beastlife.in/products/bcaa-with-electrolytes-kachha-aaam-240g?variant=46745566413017"
     }
@@ -7509,9 +7670,9 @@
     {
      "label": "0.12 kg",
      "kg": 0.12,
-     "price": 499,
+     "price": 349,
      "compareAt": 755,
-     "pricePerKg": 4158,
+     "pricePerKg": 2908,
      "available": false,
      "url": "https://beastlife.in/products/bcaa-with-electrolytes-kachha-aaam-120g?variant=46745566118105"
     }
@@ -7532,9 +7693,9 @@
     {
      "label": "0.24 kg",
      "kg": 0.24,
-     "price": 999,
+     "price": 599,
      "compareAt": 1245,
-     "pricePerKg": 4163,
+     "pricePerKg": 2496,
      "available": false,
      "url": "https://beastlife.in/products/bcaa-with-electrolytes-pineapple-240g?variant=46745565233369"
     }
@@ -7601,9 +7762,9 @@
     {
      "label": "5 kg",
      "kg": 5,
-     "price": 4198,
+     "price": 4548,
      "compareAt": 8897,
-     "pricePerKg": 840,
+     "pricePerKg": 910,
      "available": true,
      "url": "https://beastlife.in/products/anabolic-mass-gainer-with-ultrasorb-tech-no-maltodextrin-5kg-with-free-creatine-249g?variant=46672064839897"
     }
@@ -7624,9 +7785,9 @@
     {
      "label": "5 kg",
      "kg": 5,
-     "price": 3948,
+     "price": 4548,
      "compareAt": 8141,
-     "pricePerKg": 790,
+     "pricePerKg": 910,
      "available": true,
      "url": "https://beastlife.in/products/anabolic-mass-gainer-with-ultrasorb-tech-no-maltodextrin-5kg-with-free-chocolate-peanut-butter-800g?variant=46672064282841"
     }
@@ -7670,9 +7831,9 @@
     {
      "label": "0.924 kg",
      "kg": 0.924,
-     "price": 4999,
+     "price": 3499,
      "compareAt": 5999,
-     "pricePerKg": 5410,
+     "pricePerKg": 3787,
      "available": true,
      "url": "https://beastlife.in/products/pro-concentrate-whey-protein-malai-kulfi-924g?variant=46655941116121"
     }
@@ -7693,9 +7854,9 @@
     {
      "label": "0.924 kg",
      "kg": 0.924,
-     "price": 4999,
+     "price": 3499,
      "compareAt": 5999,
-     "pricePerKg": 5410,
+     "pricePerKg": 3787,
      "available": true,
      "url": "https://beastlife.in/products/pro-concentrate-whey-protein-strawberry-924g?variant=46655940788441"
     }
@@ -7716,9 +7877,9 @@
     {
      "label": "0.924 kg",
      "kg": 0.924,
-     "price": 4999,
+     "price": 3499,
      "compareAt": 5999,
-     "pricePerKg": 5410,
+     "pricePerKg": 3787,
      "available": true,
      "url": "https://beastlife.in/products/pro-concentrate-whey-protein-butterscotch-924g?variant=46655940231385"
     }
@@ -7739,10 +7900,10 @@
     {
      "label": "0.924 kg",
      "kg": 0.924,
-     "price": 4999,
+     "price": 3499,
      "compareAt": 5999,
-     "pricePerKg": 5410,
-     "available": false,
+     "pricePerKg": 3787,
+     "available": true,
      "url": "https://beastlife.in/products/pro-concentrate-whey-protein-rose-924g?variant=46655918932185"
     }
    ]
@@ -7762,7 +7923,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1199,
+     "price": 1557,
      "compareAt": 1690,
      "pricePerKg": null,
      "available": false,
@@ -7785,7 +7946,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1199,
+     "price": 1557,
      "compareAt": 1690,
      "pricePerKg": null,
      "available": true,
@@ -7808,7 +7969,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1199,
+     "price": 1557,
      "compareAt": 1690,
      "pricePerKg": null,
      "available": true,
@@ -7831,7 +7992,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 699,
+     "price": 819,
      "compareAt": 889,
      "pricePerKg": null,
      "available": true,
@@ -7854,7 +8015,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 699,
+     "price": 819,
      "compareAt": 889,
      "pricePerKg": null,
      "available": true,
@@ -7877,9 +8038,9 @@
     {
      "label": "0.8 kg",
      "kg": 0.8,
-     "price": 349,
+     "price": 449,
      "compareAt": 578,
-     "pricePerKg": 436,
+     "pricePerKg": 561,
      "available": true,
      "url": "https://beastlife.in/products/natural-peanut-butter-chocolate-crunchy-100-peanuts-no-palm-oil-800gm?variant=46612149403865"
     }
@@ -7900,9 +8061,9 @@
     {
      "label": "0.35 kg",
      "kg": 0.35,
-     "price": 149,
+     "price": 295,
      "compareAt": 311,
-     "pricePerKg": 426,
+     "pricePerKg": 843,
      "available": true,
      "url": "https://beastlife.in/products/natural-peanut-butter-chocolate-crunchy-100-peanuts-no-palm-oil-350gm?variant=46612062863577"
     }
@@ -7923,7 +8084,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 899,
+     "price": 699,
      "compareAt": 999,
      "pricePerKg": null,
      "available": true,
@@ -7946,7 +8107,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 499,
+     "price": 249,
      "compareAt": 599,
      "pricePerKg": null,
      "available": true,
@@ -7969,9 +8130,9 @@
     {
      "label": "0.319 kg",
      "kg": 0.319,
-     "price": 699,
+     "price": 599,
      "compareAt": 1423,
-     "pricePerKg": 2191,
+     "pricePerKg": 1878,
      "available": true,
      "url": "https://beastlife.in/products/creatine-monohydrate-watermelon-flavor-319g?variant=46575441051865"
     }
@@ -8038,9 +8199,9 @@
     {
      "label": "0.319 kg",
      "kg": 0.319,
-     "price": 699,
+     "price": 599,
      "compareAt": 1423,
-     "pricePerKg": 2191,
+     "pricePerKg": 1878,
      "available": true,
      "url": "https://beastlife.in/products/creatine-monohydrate-peach-flavor-319g?variant=46575405727961"
     }
@@ -8061,9 +8222,9 @@
     {
      "label": "0.319 kg",
      "kg": 0.319,
-     "price": 699,
+     "price": 599,
      "compareAt": 1423,
-     "pricePerKg": 2191,
+     "pricePerKg": 1878,
      "available": true,
      "url": "https://beastlife.in/products/creatine-monohydrate-shikanji-flavor-319g?variant=46575423357145"
     }
@@ -8107,9 +8268,9 @@
     {
      "label": "0.319 kg",
      "kg": 0.319,
-     "price": 699,
+     "price": 599,
      "compareAt": 1423,
-     "pricePerKg": 2191,
+     "pricePerKg": 1878,
      "available": true,
      "url": "https://beastlife.in/products/creatine-monohydrate-tropical-tango-flavor-319g?variant=46575449276633"
     }
@@ -8153,9 +8314,9 @@
     {
      "label": "3.696 kg",
      "kg": 3.696,
-     "price": 21299,
+     "price": 15597,
      "compareAt": 33294,
-     "pricePerKg": 5763,
+     "pricePerKg": 4220,
      "available": true,
      "url": "https://beastlife.in/products/isorich-blend-whey-protein-with-ultrasorb-tech-3696g-free-gym-bag-and-shaker?variant=46531513123033"
     }
@@ -8176,9 +8337,9 @@
     {
      "label": "3.696 kg",
      "kg": 3.696,
-     "price": 19999,
+     "price": 11299,
      "compareAt": 23996,
-     "pricePerKg": 5411,
+     "pricePerKg": 3057,
      "available": true,
      "url": "https://beastlife.in/products/pro-concentrate-whey-protein-rich-chocolate-3696g?variant=46498240430297"
     }
@@ -8199,7 +8360,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 549,
+     "price": 614,
      "compareAt": 666,
      "pricePerKg": null,
      "available": true,
@@ -8222,7 +8383,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 949,
+     "price": 1148,
      "compareAt": 1245,
      "pricePerKg": null,
      "available": true,
@@ -8245,7 +8406,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1049,
+     "price": 1815,
      "compareAt": 1912,
      "pricePerKg": null,
      "available": false,
@@ -8268,7 +8429,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 649,
+     "price": 928,
      "compareAt": 978,
      "pricePerKg": null,
      "available": false,
@@ -8291,7 +8452,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1599,
+     "price": 864,
      "compareAt": 1798,
      "pricePerKg": null,
      "available": false,
@@ -8314,7 +8475,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1199,
+     "price": 549,
      "compareAt": 1199,
      "pricePerKg": null,
      "available": false,
@@ -8337,7 +8498,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 579,
+     "price": 737,
      "compareAt": 800,
      "pricePerKg": null,
      "available": true,
@@ -8360,7 +8521,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 349,
+     "price": 409,
      "compareAt": 444,
      "pricePerKg": null,
      "available": true,
@@ -8406,7 +8567,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1499,
+     "price": 1999,
      "compareAt": 2299,
      "pricePerKg": null,
      "available": true,
@@ -8475,7 +8636,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1499,
+     "price": 1999,
      "compareAt": 2299,
      "pricePerKg": null,
      "available": true,
@@ -8498,7 +8659,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1499,
+     "price": 1999,
      "compareAt": 2299,
      "pricePerKg": null,
      "available": true,
@@ -8571,9 +8732,9 @@
     {
      "label": "3.696 kg",
      "kg": 3.696,
-     "price": 20299,
+     "price": 11897,
      "compareAt": 25294,
-     "pricePerKg": 5492,
+     "pricePerKg": 3219,
      "available": true,
      "url": "https://beastlife.in/products/pro-concentrate-whey-protein-rich-chocolate-3696g-free-gym-bag-and-shaker?variant=46360356421849"
     }
@@ -8594,7 +8755,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 599,
+     "price": 249,
      "compareAt": 899,
      "pricePerKg": null,
      "available": true,
@@ -8617,7 +8778,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 599,
+     "price": 349,
      "compareAt": 799,
      "pricePerKg": null,
      "available": true,
@@ -8640,7 +8801,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1199,
+     "price": 549,
      "compareAt": 1199,
      "pricePerKg": null,
      "available": false,
@@ -8663,7 +8824,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1199,
+     "price": 549,
      "compareAt": 1199,
      "pricePerKg": null,
      "available": false,
@@ -8686,7 +8847,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1199,
+     "price": 549,
      "compareAt": 1199,
      "pricePerKg": null,
      "available": false,
@@ -8732,7 +8893,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1199,
+     "price": 599,
      "compareAt": 1199,
      "pricePerKg": null,
      "available": false,
@@ -8755,7 +8916,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 699,
+     "price": 549,
      "compareAt": 999,
      "pricePerKg": null,
      "available": true,
@@ -8837,9 +8998,9 @@
     {
      "label": "0.5 kg",
      "kg": 0.5,
-     "price": 799,
+     "price": 699,
      "compareAt": 1601,
-     "pricePerKg": 1598,
+     "pricePerKg": 1398,
      "available": true,
      "url": "https://beastlife.in/products/beastlife-roti-protein-500g-roti-2-0?variant=46302348673241"
     }
@@ -8860,9 +9021,9 @@
     {
      "label": "1 kg",
      "kg": 1,
-     "price": 1199,
+     "price": 1099,
      "compareAt": 2669,
-     "pricePerKg": 1199,
+     "pricePerKg": 1099,
      "available": true,
      "url": "https://beastlife.in/products/beastlife-roti-protein-1-kg-roti-2-0?variant=46302349066457"
     }
@@ -8883,9 +9044,9 @@
     {
      "label": "0.5 kg",
      "kg": 0.5,
-     "price": 799,
+     "price": 599,
      "compareAt": 978,
-     "pricePerKg": 1598,
+     "pricePerKg": 1198,
      "available": true,
      "url": "https://beastlife.in/products/anabolic-mass-gainer-with-ultrasorb-tech-no-maltodextrin-strawberry-banana-500g?variant=46248903737561"
     }
@@ -8906,9 +9067,9 @@
     {
      "label": "2.5 kg",
      "kg": 2.5,
-     "price": 1999,
+     "price": 1899,
      "compareAt": 3914,
-     "pricePerKg": 800,
+     "pricePerKg": 760,
      "available": true,
      "url": "https://beastlife.in/products/anabolic-mass-gainer-with-ultrasorb-tech-no-maltodextrin-strawberry-banana-2-5kg?variant=46249966371033"
     }
@@ -8929,9 +9090,9 @@
     {
      "label": "1 kg",
      "kg": 1,
-     "price": 1199,
+     "price": 999,
      "compareAt": 1779,
-     "pricePerKg": 1199,
+     "pricePerKg": 999,
      "available": true,
      "url": "https://beastlife.in/products/anabolic-mass-gainer-with-ultrasorb-tech-no-maltodextrin-strawberry-banana-1kg?variant=46249965060313"
     }
@@ -8952,7 +9113,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 289,
+     "price": 249,
      "compareAt": 299,
      "pricePerKg": null,
      "available": true,
@@ -8975,9 +9136,9 @@
     {
      "label": "0.924 kg",
      "kg": 0.924,
-     "price": 4999,
+     "price": 3499,
      "compareAt": 5999,
-     "pricePerKg": 5410,
+     "pricePerKg": 3787,
      "available": true,
      "url": "https://beastlife.in/products/pro-concentrate-whey-protein-with-ultrasorb-tech-924gm-cookies-cream?variant=46250173497561"
     }
@@ -8998,9 +9159,9 @@
     {
      "label": "0.924 kg",
      "kg": 0.924,
-     "price": 5999,
+     "price": 4499,
      "compareAt": 7999,
-     "pricePerKg": 6492,
+     "pricePerKg": 4869,
      "available": true,
      "url": "https://beastlife.in/products/vanilla-isorich-blend-whey-protein-with-ultrasorb-tech-924g?variant=46250173137113"
     }
@@ -9021,9 +9182,9 @@
     {
      "label": "0.924 kg",
      "kg": 0.924,
-     "price": 5999,
+     "price": 4499,
      "compareAt": 7999,
-     "pricePerKg": 6492,
+     "pricePerKg": 4869,
      "available": false,
      "url": "https://beastlife.in/products/coffee-isorich-blend-whey-protein-with-ultrasorb-tech-924g?variant=46250172874969"
     }
@@ -9044,9 +9205,9 @@
     {
      "label": "0.35 kg",
      "kg": 0.35,
-     "price": 149,
+     "price": 199,
      "compareAt": 222,
-     "pricePerKg": 426,
+     "pricePerKg": 569,
      "available": true,
      "url": "https://beastlife.in/products/natural-peanut-butter-crunchy-350gm?variant=46250147872985"
     }
@@ -9067,9 +9228,9 @@
     {
      "label": "0.8 kg",
      "kg": 0.8,
-     "price": 339,
+     "price": 379,
      "compareAt": 489,
-     "pricePerKg": 424,
+     "pricePerKg": 474,
      "available": true,
      "url": "https://beastlife.in/products/natural-peanut-butter-crunchy-800gm?variant=46250165076185"
     }
@@ -9208,7 +9369,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 998,
+     "price": 549,
      "compareAt": 1598,
      "pricePerKg": null,
      "available": false,
@@ -9231,9 +9392,9 @@
     {
      "label": "0.924 kg",
      "kg": 0.924,
-     "price": 5999,
+     "price": 3499,
      "compareAt": 5999,
-     "pricePerKg": 6492,
+     "pricePerKg": 3787,
      "available": true,
      "url": "https://beastlife.in/products/beastlife-pro-whey-protein-unflavoured?variant=46188162908377"
     }
@@ -9254,7 +9415,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 649,
+     "price": 249,
      "compareAt": 699,
      "pricePerKg": null,
      "available": true,
@@ -9300,7 +9461,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 649,
+     "price": 249,
      "compareAt": 699,
      "pricePerKg": null,
      "available": true,
@@ -9323,7 +9484,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 649,
+     "price": 349,
      "compareAt": 699,
      "pricePerKg": null,
      "available": true,
@@ -9369,9 +9530,9 @@
     {
      "label": "2.5 kg",
      "kg": 2.5,
-     "price": 2598,
+     "price": 2448,
      "compareAt": 5898,
-     "pricePerKg": 1039,
+     "pricePerKg": 979,
      "available": true,
      "url": "https://beastlife.in/products/the-dominance-duo-gainer-2-5kg-creatine-240g?variant=46181497110745"
     }
@@ -9392,9 +9553,9 @@
     {
      "label": "1 kg",
      "kg": 1,
-     "price": 1498,
+     "price": 1398,
      "compareAt": 2748,
-     "pricePerKg": 1498,
+     "pricePerKg": 1398,
      "available": true,
      "url": "https://beastlife.in/products/the-beast-builder-kit-gainer-1kg-creatine-100g?variant=46181493637337"
     }
@@ -9415,9 +9576,9 @@
     {
      "label": "0.5 kg",
      "kg": 0.5,
-     "price": 1198,
+     "price": 998,
      "compareAt": 1848,
-     "pricePerKg": 2396,
+     "pricePerKg": 1996,
      "available": true,
      "url": "https://beastlife.in/products/the-gain-train-express-gainer-500g-creatine-100g?variant=46181491900633"
     }
@@ -9438,9 +9599,9 @@
     {
      "label": "0.5 kg",
      "kg": 0.5,
-     "price": 799,
+     "price": 599,
      "compareAt": 978,
-     "pricePerKg": 1598,
+     "pricePerKg": 1198,
      "available": true,
      "url": "https://beastlife.in/products/anabolic-mass-gainer-500g?variant=46124521062617"
     }
@@ -9461,9 +9622,9 @@
     {
      "label": "1 kg",
      "kg": 1,
-     "price": 1199,
+     "price": 999,
      "compareAt": 1779,
-     "pricePerKg": 1199,
+     "pricePerKg": 999,
      "available": true,
      "url": "https://beastlife.in/products/anabolic-mass-gainer-1kg?variant=46124553502937"
     }
@@ -9484,7 +9645,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 814,
+     "price": 648,
      "compareAt": 1248,
      "pricePerKg": null,
      "available": true,
@@ -9507,7 +9668,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 5999,
+     "price": 3748,
      "compareAt": 6498,
      "pricePerKg": null,
      "available": true,
@@ -9530,10 +9691,10 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 10398,
+     "price": 6848,
      "compareAt": 13332,
      "pricePerKg": null,
-     "available": false,
+     "available": true,
      "url": "https://beastlife.in/products/prime-power-pair?variant=45893610143961"
     }
    ]
@@ -9553,7 +9714,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 5499,
+     "price": 3898,
      "compareAt": 6665,
      "pricePerKg": null,
      "available": true,
@@ -9576,9 +9737,9 @@
     {
      "label": "1.848 kg",
      "kg": 1.848,
-     "price": 7749,
+     "price": 6299,
      "compareAt": 7798,
-     "pricePerKg": 4193,
+     "pricePerKg": 3409,
      "available": false,
      "url": "https://beastlife.in/products/pro-concentrate-whey-protein-with-ultrasorb-tech-1848gm-real-kesar-pista?variant=45787132428505"
     }
@@ -9599,7 +9760,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 449,
+     "price": 249,
      "compareAt": 499,
      "pricePerKg": null,
      "available": true,
@@ -9622,9 +9783,9 @@
     {
      "label": "0.924 kg",
      "kg": 0.924,
-     "price": 4999,
+     "price": 3499,
      "compareAt": 5999,
-     "pricePerKg": 5410,
+     "pricePerKg": 3787,
      "available": false,
      "url": "https://beastlife.in/products/pro-concentrate-whey-protein-with-ultrasorb-tech-924gm-real-kesar-pista?variant=45786950926553"
     }
@@ -9645,7 +9806,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 12098,
+     "price": 8548,
      "compareAt": 17332,
      "pricePerKg": null,
      "available": false,
@@ -9668,7 +9829,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 6498,
+     "price": 4898,
      "compareAt": 8665,
      "pricePerKg": null,
      "available": true,
@@ -9691,10 +9852,10 @@
     {
      "label": "1.848 kg",
      "kg": 1.848,
-     "price": 9999,
+     "price": 6299,
      "compareAt": 11998,
-     "pricePerKg": 5411,
-     "available": false,
+     "pricePerKg": 3409,
+     "available": true,
      "url": "https://beastlife.in/products/beast-life-pro-concentrate-whey-protein-with-ultrasorb-tech-1848gm-mango?variant=45671677329625"
     }
    ]
@@ -9714,10 +9875,10 @@
     {
      "label": "0.924 kg",
      "kg": 0.924,
-     "price": 4999,
+     "price": 3499,
      "compareAt": 5999,
-     "pricePerKg": 5410,
-     "available": false,
+     "pricePerKg": 3787,
+     "available": true,
      "url": "https://beastlife.in/products/beast-life-pro-concentrate-whey-protein-with-ultrasorb-tech-924gm-mango?variant=45671661535449"
     }
    ]
@@ -9737,9 +9898,9 @@
     {
      "label": "0.924 kg",
      "kg": 0.924,
-     "price": 4999,
+     "price": 3499,
      "compareAt": 5999,
-     "pricePerKg": 5410,
+     "pricePerKg": 3787,
      "available": true,
      "url": "https://beastlife.in/products/beast-life-pro-concentrate-whey-protein-with-ultrasorb-tech-924gm-rich-chocolate?variant=45671620772057"
     }
@@ -9760,9 +9921,9 @@
     {
      "label": "0.249 kg",
      "kg": 0.249,
-     "price": 649,
+     "price": 549,
      "compareAt": 1334,
-     "pricePerKg": 2606,
+     "pricePerKg": 2205,
      "available": true,
      "url": "https://beastlife.in/products/super-micronized-creatine-monohydrate-249g?variant=45321219113177"
     }
@@ -9783,9 +9944,9 @@
     {
      "label": "0.1 kg",
      "kg": 0.1,
-     "price": 499,
+     "price": 399,
      "compareAt": 666,
-     "pricePerKg": 4990,
+     "pricePerKg": 3990,
      "available": true,
      "url": "https://beastlife.in/products/super-micronized-creatine-monohydrate-100g?variant=45321218818265"
     }
@@ -9806,9 +9967,9 @@
     {
      "label": "0.924 kg",
      "kg": 0.924,
-     "price": 5999,
+     "price": 4499,
      "compareAt": 7999,
-     "pricePerKg": 6492,
+     "pricePerKg": 4869,
      "available": true,
      "url": "https://beastlife.in/products/isorich-blend-whey-protein-with-ultrasorb-tech-924g?variant=45042167054553"
     }
@@ -9829,9 +9990,9 @@
     {
      "label": "1.848 kg",
      "kg": 1.848,
-     "price": 10999,
+     "price": 7999,
      "compareAt": 15998,
-     "pricePerKg": 5952,
+     "pricePerKg": 4328,
      "available": false,
      "url": "https://beastlife.in/products/isorich-blend-whey-protein-with-ultrasorb-tech-1848g?variant=45323586633945"
     }
@@ -9852,7 +10013,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1499,
+     "price": 1423,
      "compareAt": 1499,
      "pricePerKg": null,
      "available": false,
@@ -9875,7 +10036,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 315,
+     "price": 249,
      "compareAt": 499,
      "pricePerKg": null,
      "available": true,
@@ -9898,7 +10059,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 499,
+     "price": 473,
      "compareAt": 499,
      "pricePerKg": null,
      "available": false,
@@ -9921,7 +10082,7 @@
     {
      "label": "Standard",
      "kg": null,
-     "price": 1299,
+     "price": 1233,
      "compareAt": 1299,
      "pricePerKg": null,
      "available": false,
@@ -10085,9 +10246,9 @@
     {
      "label": "0.24 kg",
      "kg": 0.24,
-     "price": 999,
+     "price": 599,
      "compareAt": 1245,
-     "pricePerKg": 4163,
+     "pricePerKg": 2496,
      "available": false,
      "url": "https://beastlife.in/products/beast-recovery-bcaa-mango-240g?variant=45321217605849"
     }
@@ -10108,9 +10269,9 @@
     {
      "label": "0.12 kg",
      "kg": 0.12,
-     "price": 499,
+     "price": 349,
      "compareAt": 755,
-     "pricePerKg": 4158,
+     "pricePerKg": 2908,
      "available": false,
      "url": "https://beastlife.in/products/beast-recovery-bcaa-mango-120g?variant=45321217147097"
     }
@@ -10131,10 +10292,10 @@
     {
      "label": "0.24 kg",
      "kg": 0.24,
-     "price": 999,
+     "price": 599,
      "compareAt": 1245,
-     "pricePerKg": 4163,
-     "available": false,
+     "pricePerKg": 2496,
+     "available": true,
      "url": "https://beastlife.in/products/beast-recovery-bcaa-fruit-punch-240g?variant=45321218719961"
     }
    ]
@@ -10154,10 +10315,10 @@
     {
      "label": "0.12 kg",
      "kg": 0.12,
-     "price": 499,
+     "price": 349,
      "compareAt": 755,
-     "pricePerKg": 4158,
-     "available": false,
+     "pricePerKg": 2908,
+     "available": true,
      "url": "https://beastlife.in/products/beast-recovery-bcaa-fruit-punch-120g?variant=45321217540313"
     }
    ]
@@ -12809,7 +12970,7 @@
    "brandSlug": "ripped-up-nutrition",
    "title": "Pure Himalayan Shilajit Gold Resin",
    "category": "other",
-   "image": "https://cdn.shopify.com/s/files/1/2857/5536/files/Golden_Himalayan_Shilajit_Product_Display.png?v=1793103877",
+   "image": "https://cdn.shopify.com/s/files/1/2857/5536/files/pure-himalayan-shilajit-gold-resin-5403688.webp?v=1792656278",
    "url": "https://rippedupnutrition.com/products/pure-himalayan-shilajit-gold-resin",
    "variants": [
     {
